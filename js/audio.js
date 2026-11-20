@@ -15,7 +15,8 @@
     if (bufs.has(name)) return Promise.resolve(bufs.get(name));
     if (pend.has(name)) return pend.get(name);
     const c = ensure();
-    const p = fetch(url(name)).then(r => { if (!r.ok) throw new Error(r.status); return r.arrayBuffer(); })
+    const get = () => fetch(url(name)).then(r => { if (!r.ok) throw new Error(r.status); return r.arrayBuffer(); });
+    const p = get().catch(() => new Promise(ok => setTimeout(ok, 700)).then(get)).catch(() => new Promise(ok => setTimeout(ok, 1500)).then(get))
       .then(ab => c ? new Promise((ok, no) => c.decodeAudioData(ab, ok, no)) : null)
       .then(b => { bufs.set(name, b); pend.delete(name); return b; })
       .catch(e => { pend.delete(name); console.warn('audio', name, e); return null; });
