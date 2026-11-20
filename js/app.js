@@ -65,7 +65,7 @@
     $app.innerHTML = header('<span class="brand en">Sentra</span>', { right: flags, sub: 'انگلیسی آمریکایی · جمله به جمله' }) +
       `<main class="body scroll">
         <div class="card intro">هر روز چند <b>جملهٔ واقعی</b> با صدای طبیعی مرد و زن بشنو، معنی و <b>خوانش فارسی</b> هر جمله را ببین، و با شش تمرین آن را بساز، بگو و بنویس.</div>
-        <button class="ptest" data-test><span class="ic">🎯</span><span><b>تعیین سطح رایگان</b><span>۱۰ سؤال کوتاه · سطح مناسبت را پیشنهاد می‌کنیم</span></span><span class="go">←</span></button>
+        <button class="ptest" data-test><span class="ic">🎯</span><span><b>تعیین سطح رایگان</b><span>۲۰ سؤال کوتاه · سطح مناسبت را پیشنهاد می‌کنیم</span></span><span class="go">←</span></button>
         <h2 class="sec">سطح‌ها</h2>
         <div class="levels">${LEVELS.map(L => {
           const has = LESSONS.some(l => l.level === L.code), p = levelSeen(L.code);
