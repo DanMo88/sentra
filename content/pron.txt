@@ -75,3 +75,4 @@ record = رِکِرد
 uses = یوزِز
 antibiotics = اَنتی‌بای‌آدیکس
 shiraz = شیراز
+isfahan = ایسفِهان
