@@ -1,0 +1,362 @@
+{
+"audio/s0001.mp3": {
+"text": "Hello, good morning!",
+"voice": "f"
+},
+"audio/w-hello.mp3": {
+"text": "Hello",
+"voice": "w"
+},
+"audio/w-good.mp3": {
+"text": "good",
+"voice": "w"
+},
+"audio/w-morning.mp3": {
+"text": "morning",
+"voice": "w"
+},
+"audio/s0002.mp3": {
+"text": "How are you today?",
+"voice": "m"
+},
+"audio/w-how.mp3": {
+"text": "How",
+"voice": "w"
+},
+"audio/w-are.mp3": {
+"text": "are",
+"voice": "w"
+},
+"audio/w-you.mp3": {
+"text": "you",
+"voice": "w"
+},
+"audio/w-today.mp3": {
+"text": "today",
+"voice": "w"
+},
+"audio/s0003.mp3": {
+"text": "I'm fine, thank you.",
+"voice": "f"
+},
+"audio/w-i-m.mp3": {
+"text": "I'm",
+"voice": "w"
+},
+"audio/w-fine.mp3": {
+"text": "fine",
+"voice": "w"
+},
+"audio/w-thank.mp3": {
+"text": "thank",
+"voice": "w"
+},
+"audio/s0004.mp3": {
+"text": "What's your name?",
+"voice": "m"
+},
+"audio/w-what-s.mp3": {
+"text": "What's",
+"voice": "w"
+},
+"audio/w-your.mp3": {
+"text": "your",
+"voice": "w"
+},
+"audio/w-name.mp3": {
+"text": "name",
+"voice": "w"
+},
+"audio/s0005.mp3": {
+"text": "My name is Sara.",
+"voice": "f"
+},
+"audio/w-my.mp3": {
+"text": "My",
+"voice": "w"
+},
+"audio/w-is.mp3": {
+"text": "is",
+"voice": "w"
+},
+"audio/w-sara.mp3": {
+"text": "Sara",
+"voice": "w"
+},
+"audio/s0006.mp3": {
+"text": "Nice to meet you.",
+"voice": "m"
+},
+"audio/w-nice.mp3": {
+"text": "Nice",
+"voice": "w"
+},
+"audio/w-to.mp3": {
+"text": "to",
+"voice": "w"
+},
+"audio/w-meet.mp3": {
+"text": "meet",
+"voice": "w"
+},
+"audio/s0007.mp3": {
+"text": "Where are you from?",
+"voice": "f"
+},
+"audio/w-where.mp3": {
+"text": "Where",
+"voice": "w"
+},
+"audio/w-from.mp3": {
+"text": "from",
+"voice": "w"
+},
+"audio/s0008.mp3": {
+"text": "I'm from Iran.",
+"voice": "m"
+},
+"audio/w-iran.mp3": {
+"text": "Iran",
+"voice": "w"
+},
+"audio/s0009.mp3": {
+"text": "I live in Tehran.",
+"voice": "f"
+},
+"audio/w-i.mp3": {
+"text": "I",
+"voice": "w"
+},
+"audio/w-live.mp3": {
+"text": "live",
+"voice": "w"
+},
+"audio/w-in.mp3": {
+"text": "in",
+"voice": "w"
+},
+"audio/w-tehran.mp3": {
+"text": "Tehran",
+"voice": "w"
+},
+"audio/s0010.mp3": {
+"text": "Do you speak English?",
+"voice": "m"
+},
+"audio/w-do.mp3": {
+"text": "Do",
+"voice": "w"
+},
+"audio/w-speak.mp3": {
+"text": "speak",
+"voice": "w"
+},
+"audio/w-english.mp3": {
+"text": "English",
+"voice": "w"
+},
+"audio/s0011.mp3": {
+"text": "Yes, a little.",
+"voice": "f"
+},
+"audio/w-yes.mp3": {
+"text": "Yes",
+"voice": "w"
+},
+"audio/w-a.mp3": {
+"text": "a",
+"voice": "w"
+},
+"audio/w-little.mp3": {
+"text": "little",
+"voice": "w"
+},
+"audio/s0012.mp3": {
+"text": "Can you say that again?",
+"voice": "m"
+},
+"audio/w-can.mp3": {
+"text": "Can",
+"voice": "w"
+},
+"audio/w-say.mp3": {
+"text": "say",
+"voice": "w"
+},
+"audio/w-that.mp3": {
+"text": "that",
+"voice": "w"
+},
+"audio/w-again.mp3": {
+"text": "again",
+"voice": "w"
+},
+"audio/s0013.mp3": {
+"text": "Please speak more slowly.",
+"voice": "f"
+},
+"audio/w-please.mp3": {
+"text": "Please",
+"voice": "w"
+},
+"audio/w-more.mp3": {
+"text": "more",
+"voice": "w"
+},
+"audio/w-slowly.mp3": {
+"text": "slowly",
+"voice": "w"
+},
+"audio/s0014.mp3": {
+"text": "Sorry, I don't understand.",
+"voice": "m"
+},
+"audio/w-sorry.mp3": {
+"text": "Sorry",
+"voice": "w"
+},
+"audio/w-don-t.mp3": {
+"text": "don't",
+"voice": "w"
+},
+"audio/w-understand.mp3": {
+"text": "understand",
+"voice": "w"
+},
+"audio/s0015.mp3": {
+"text": "Thank you very much.",
+"voice": "f"
+},
+"audio/w-very.mp3": {
+"text": "very",
+"voice": "w"
+},
+"audio/w-much.mp3": {
+"text": "much",
+"voice": "w"
+},
+"audio/s0016.mp3": {
+"text": "You're welcome.",
+"voice": "m"
+},
+"audio/w-you-re.mp3": {
+"text": "You're",
+"voice": "w"
+},
+"audio/w-welcome.mp3": {
+"text": "welcome",
+"voice": "w"
+},
+"audio/s0017.mp3": {
+"text": "Excuse me, where is the restroom?",
+"voice": "f"
+},
+"audio/w-excuse.mp3": {
+"text": "Excuse",
+"voice": "w"
+},
+"audio/w-me.mp3": {
+"text": "me",
+"voice": "w"
+},
+"audio/w-the.mp3": {
+"text": "the",
+"voice": "w"
+},
+"audio/w-restroom.mp3": {
+"text": "restroom",
+"voice": "w"
+},
+"audio/s0018.mp3": {
+"text": "This is my friend, Ali.",
+"voice": "m"
+},
+"audio/w-this.mp3": {
+"text": "This",
+"voice": "w"
+},
+"audio/w-friend.mp3": {
+"text": "friend",
+"voice": "w"
+},
+"audio/w-ali.mp3": {
+"text": "Ali",
+"voice": "w"
+},
+"audio/s0019.mp3": {
+"text": "How old are you?",
+"voice": "f"
+},
+"audio/w-old.mp3": {
+"text": "old",
+"voice": "w"
+},
+"audio/s0020.mp3": {
+"text": "I'm twenty-five years old.",
+"voice": "m"
+},
+"audio/w-twenty-five.mp3": {
+"text": "twenty-five",
+"voice": "w"
+},
+"audio/w-years.mp3": {
+"text": "years",
+"voice": "w"
+},
+"audio/s0021.mp3": {
+"text": "What do you do?",
+"voice": "f"
+},
+"audio/w-what.mp3": {
+"text": "What",
+"voice": "w"
+},
+"audio/s0022.mp3": {
+"text": "I'm a student.",
+"voice": "m"
+},
+"audio/w-student.mp3": {
+"text": "student",
+"voice": "w"
+},
+"audio/s0023.mp3": {
+"text": "Have a nice day!",
+"voice": "f"
+},
+"audio/w-have.mp3": {
+"text": "Have",
+"voice": "w"
+},
+"audio/w-day.mp3": {
+"text": "day",
+"voice": "w"
+},
+"audio/s0024.mp3": {
+"text": "See you tomorrow.",
+"voice": "m"
+},
+"audio/w-see.mp3": {
+"text": "See",
+"voice": "w"
+},
+"audio/w-tomorrow.mp3": {
+"text": "tomorrow",
+"voice": "w"
+},
+"audio/s0025.mp3": {
+"text": "Goodbye, take care!",
+"voice": "f"
+},
+"audio/w-goodbye.mp3": {
+"text": "Goodbye",
+"voice": "w"
+},
+"audio/w-take.mp3": {
+"text": "take",
+"voice": "w"
+},
+"audio/w-care.mp3": {
+"text": "care",
+"voice": "w"
+}
+}

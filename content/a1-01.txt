@@ -1,0 +1,27 @@
+# A1 · Lesson 1 · Hello! · سلام و آشنایی
+# English | Persian meaning | Persian-letter reading (one reading token per English word)
+Hello, good morning! | سلام، صبح بخیر! | هِلو، گود مُرنینگ!
+How are you today? | امروز حالت چطوره؟ | هاو آر یو تِدِی؟
+I'm fine, thank you. | خوبم، ممنون. | آیم فاین، ثَنک یو.
+What's your name? | اسمت چیه؟ | واتس یُر نِیم؟
+My name is Sara. | اسم من ساراست. | مای نِیم ایز سِرا.
+Nice to meet you. | از آشنایی‌ات خوشحالم. | نایس تِ میت یو.
+Where are you from? | اهل کجایی؟ | وِر آر یو فرام؟
+I'm from Iran. | من اهل ایرانم. | آیم فرام ایرَن.
+I live in Tehran. | من در تهران زندگی می‌کنم. | آی لیو این تِهرَن.
+Do you speak English? | انگلیسی صحبت می‌کنی؟ | دو یو سپیک اینگلیش؟
+Yes, a little. | بله، یه کم. | یِس، اِ لیدِل.
+Can you say that again? | می‌تونی دوباره بگی؟ | کَن یو سِی دَت اِگِن؟
+Please speak more slowly. | لطفاً آهسته‌تر صحبت کن. | پلیز سپیک مُر سلولی.
+Sorry, I don't understand. | ببخشید، متوجه نمی‌شم. | ساری، آی دونت آندِرستَند.
+Thank you very much. | خیلی ممنون. | ثَنک یو وِری ماچ.
+You're welcome. | خواهش می‌کنم. | یُر وِلکام.
+Excuse me, where is the restroom? | ببخشید، دستشویی کجاست؟ | ایکسکیوز می، وِر ایز دِ رِستروم؟
+This is my friend, Ali. | این دوستم علیه. | دیس ایز مای فرِند، آلی.
+How old are you? | چند سالته؟ | هاو اولد آر یو؟
+I'm twenty-five years old. | بیست و پنج سالمه. | آیم توِنی‌فایو یِرز اولد.
+What do you do? | چه کاره‌ای؟ | وات دو یو دو؟
+I'm a student. | من دانشجو هستم. | آیم اِ ستودِنت.
+Have a nice day! | روز خوبی داشته باشی! | هَو اِ نایس دِی!
+See you tomorrow. | فردا می‌بینمت. | سی یو تِمارو.
+Goodbye, take care! | خداحافظ، مواظب خودت باش! | گودبای، تِیک کِر!
