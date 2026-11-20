@@ -17686,5 +17686,4457 @@
 "audio/s2500.mp3": {
 "text": "What really matters is getting the job done.",
 "voice": "m"
+},
+"audio/w-sunset.mp3": {
+"text": "sunset",
+"voice": "w"
+},
+"audio/s2501.mp3": {
+"text": "Never have I seen such a beautiful sunset.",
+"voice": "f"
+},
+"audio/s2502.mp3": {
+"text": "Rarely do we get a chance like this.",
+"voice": "m"
+},
+"audio/w-apologize.mp3": {
+"text": "apologize",
+"voice": "w"
+},
+"audio/s2503.mp3": {
+"text": "Not only did he apologize, but he also paid for dinner.",
+"voice": "f"
+},
+"audio/s2504.mp3": {
+"text": "Hardly had I arrived when the phone rang.",
+"voice": "m"
+},
+"audio/w-circumstances.mp3": {
+"text": "circumstances",
+"voice": "w"
+},
+"audio/s2505.mp3": {
+"text": "Under no circumstances should you open this door.",
+"voice": "f"
+},
+"audio/s2506.mp3": {
+"text": "Little did she know what was waiting for her.",
+"voice": "m"
+},
+"audio/w-realize.mp3": {
+"text": "realize",
+"voice": "w"
+},
+"audio/s2507.mp3": {
+"text": "Only later did I realize my mistake.",
+"voice": "f"
+},
+"audio/w-sooner.mp3": {
+"text": "sooner",
+"voice": "w"
+},
+"audio/s2508.mp3": {
+"text": "No sooner had we left than it started to rain.",
+"voice": "m"
+},
+"audio/w-seldom.mp3": {
+"text": "Seldom",
+"voice": "w"
+},
+"audio/w-generous.mp3": {
+"text": "generous",
+"voice": "w"
+},
+"audio/s2509.mp3": {
+"text": "Seldom have I met someone so generous.",
+"voice": "f"
+},
+"audio/s2510.mp3": {
+"text": "Not until the next morning did we hear the news.",
+"voice": "m"
+},
+"audio/s2511.mp3": {
+"text": "At no time did I agree to that plan.",
+"voice": "f"
+},
+"audio/s2512.mp3": {
+"text": "Should you need any help, please call me.",
+"voice": "m"
+},
+"audio/w-imagined.mp3": {
+"text": "imagined",
+"voice": "w"
+},
+"audio/s2513.mp3": {
+"text": "Never had I imagined that I would live in New York.",
+"voice": "f"
+},
+"audio/w-unpacked.mp3": {
+"text": "unpacked",
+"voice": "w"
+},
+"audio/s2514.mp3": {
+"text": "Hardly had I unpacked when the city won me over.",
+"voice": "m"
+},
+"audio/w-incredibly.mp3": {
+"text": "incredibly",
+"voice": "w"
+},
+"audio/w-diverse.mp3": {
+"text": "diverse",
+"voice": "w"
+},
+"audio/s2515.mp3": {
+"text": "Not only is it full of energy, but it's also incredibly diverse.",
+"voice": "f"
+},
+"audio/w-surprising.mp3": {
+"text": "surprising",
+"voice": "w"
+},
+"audio/s2516.mp3": {
+"text": "Rarely does a day pass without something surprising.",
+"voice": "m"
+},
+"audio/s2517.mp3": {
+"text": "Only after a year did I start to feel at home.",
+"voice": "f"
+},
+"audio/s2518.mp3": {
+"text": "Little did I know that I would never want to leave.",
+"voice": "m"
+},
+"audio/s2519.mp3": {
+"text": "Never before had the city looked so quiet.",
+"voice": "f"
+},
+"audio/w-complain.mp3": {
+"text": "complain",
+"voice": "w"
+},
+"audio/w-pain.mp3": {
+"text": "pain",
+"voice": "w"
+},
+"audio/s2520.mp3": {
+"text": "Not once did he complain about the pain.",
+"voice": "m"
+},
+"audio/s2521.mp3": {
+"text": "Only then did I understand what she meant.",
+"voice": "f"
+},
+"audio/s2522.mp3": {
+"text": "So tired was I that I fell asleep on the train.",
+"voice": "m"
+},
+"audio/w-tasted.mp3": {
+"text": "tasted",
+"voice": "w"
+},
+"audio/s2523.mp3": {
+"text": "Rarely have I tasted such good coffee.",
+"voice": "f"
+},
+"audio/s2524.mp3": {
+"text": "In no way is this your fault.",
+"voice": "m"
+},
+"audio/w-accept.mp3": {
+"text": "accept",
+"voice": "w"
+},
+"audio/s2525.mp3": {
+"text": "Were I in your position, I would accept.",
+"voice": "f"
+},
+"audio/w-inform.mp3": {
+"text": "inform",
+"voice": "w"
+},
+"audio/w-application.mp3": {
+"text": "application",
+"voice": "w"
+},
+"audio/w-unsuccessful.mp3": {
+"text": "unsuccessful",
+"voice": "w"
+},
+"audio/s2526.mp3": {
+"text": "We regret to inform you that your application was unsuccessful.",
+"voice": "m"
+},
+"audio/w-passengers.mp3": {
+"text": "Passengers",
+"voice": "w"
+},
+"audio/w-requested.mp3": {
+"text": "requested",
+"voice": "w"
+},
+"audio/w-remain.mp3": {
+"text": "remain",
+"voice": "w"
+},
+"audio/w-seated.mp3": {
+"text": "seated",
+"voice": "w"
+},
+"audio/s2527.mp3": {
+"text": "Passengers are requested to remain seated.",
+"voice": "f"
+},
+"audio/w-strictly.mp3": {
+"text": "strictly",
+"voice": "w"
+},
+"audio/w-prohibited.mp3": {
+"text": "prohibited",
+"voice": "w"
+},
+"audio/w-premises.mp3": {
+"text": "premises",
+"voice": "w"
+},
+"audio/s2528.mp3": {
+"text": "Smoking is strictly prohibited on the premises.",
+"voice": "m"
+},
+"audio/w-cooperation.mp3": {
+"text": "cooperation",
+"voice": "w"
+},
+"audio/w-greatly.mp3": {
+"text": "greatly",
+"voice": "w"
+},
+"audio/w-appreciated.mp3": {
+"text": "appreciated",
+"voice": "w"
+},
+"audio/s2529.mp3": {
+"text": "Your cooperation is greatly appreciated.",
+"voice": "f"
+},
+"audio/s2530.mp3": {
+"text": "Please find the requested documents attached.",
+"voice": "m"
+},
+"audio/w-further.mp3": {
+"text": "Further",
+"voice": "w"
+},
+"audio/w-upon.mp3": {
+"text": "upon",
+"voice": "w"
+},
+"audio/w-request.mp3": {
+"text": "request",
+"voice": "w"
+},
+"audio/s2531.mp3": {
+"text": "Further information is available upon request.",
+"voice": "f"
+},
+"audio/w-rescheduled.mp3": {
+"text": "rescheduled",
+"voice": "w"
+},
+"audio/w-date.mp3": {
+"text": "date",
+"voice": "w"
+},
+"audio/s2532.mp3": {
+"text": "The meeting has been rescheduled for a later date.",
+"voice": "m"
+},
+"audio/w-applicants.mp3": {
+"text": "Applicants",
+"voice": "w"
+},
+"audio/w-submit.mp3": {
+"text": "submit",
+"voice": "w"
+},
+"audio/w-forms.mp3": {
+"text": "forms",
+"voice": "w"
+},
+"audio/s2533.mp3": {
+"text": "Applicants must submit their forms by Friday.",
+"voice": "f"
+},
+"audio/w-essential.mp3": {
+"text": "essential",
+"voice": "w"
+},
+"audio/w-attend.mp3": {
+"text": "attend",
+"voice": "w"
+},
+"audio/s2534.mp3": {
+"text": "It is essential that all staff attend the training.",
+"voice": "m"
+},
+"audio/w-prompt.mp3": {
+"text": "prompt",
+"voice": "w"
+},
+"audio/s2535.mp3": {
+"text": "We would be grateful for a prompt reply.",
+"voice": "f"
+},
+"audio/w-payment.mp3": {
+"text": "Payment",
+"voice": "w"
+},
+"audio/s2536.mp3": {
+"text": "Payment is due within thirty days.",
+"voice": "m"
+},
+"audio/w-hesitate.mp3": {
+"text": "hesitate",
+"voice": "w"
+},
+"audio/w-contact.mp3": {
+"text": "contact",
+"voice": "w"
+},
+"audio/s2537.mp3": {
+"text": "Should you have any questions, do not hesitate to contact us.",
+"voice": "f"
+},
+"audio/w-dear.mp3": {
+"text": "Dear",
+"voice": "w"
+},
+"audio/w-residents.mp3": {
+"text": "residents",
+"voice": "w"
+},
+"audio/w-outage.mp3": {
+"text": "outage",
+"voice": "w"
+},
+"audio/s2538.mp3": {
+"text": "Dear residents, we regret to inform you of a water outage.",
+"voice": "m"
+},
+"audio/w-suspended.mp3": {
+"text": "suspended",
+"voice": "w"
+},
+"audio/s2539.mp3": {
+"text": "Water service will be suspended on Tuesday from nine to five.",
+"voice": "f"
+},
+"audio/w-advance.mp3": {
+"text": "advance",
+"voice": "w"
+},
+"audio/s2540.mp3": {
+"text": "Residents are advised to store water in advance.",
+"voice": "m"
+},
+"audio/w-inconvenience.mp3": {
+"text": "inconvenience",
+"voice": "w"
+},
+"audio/w-cause.mp3": {
+"text": "cause",
+"voice": "w"
+},
+"audio/s2541.mp3": {
+"text": "We apologize for any inconvenience this may cause.",
+"voice": "f"
+},
+"audio/w-updates.mp3": {
+"text": "updates",
+"voice": "w"
+},
+"audio/w-lobby.mp3": {
+"text": "lobby",
+"voice": "w"
+},
+"audio/s2542.mp3": {
+"text": "Further updates will be posted in the lobby.",
+"voice": "m"
+},
+"audio/s2543.mp3": {
+"text": "Your patience and cooperation are greatly appreciated.",
+"voice": "f"
+},
+"audio/w-visitors.mp3": {
+"text": "Visitors",
+"voice": "w"
+},
+"audio/w-kindly.mp3": {
+"text": "kindly",
+"voice": "w"
+},
+"audio/w-switch.mp3": {
+"text": "switch",
+"voice": "w"
+},
+"audio/s2544.mp3": {
+"text": "Visitors are kindly asked to switch off their phones.",
+"voice": "m"
+},
+"audio/w-refunds.mp3": {
+"text": "refunds",
+"voice": "w"
+},
+"audio/w-subject.mp3": {
+"text": "subject",
+"voice": "w"
+},
+"audio/w-approval.mp3": {
+"text": "approval",
+"voice": "w"
+},
+"audio/s2545.mp3": {
+"text": "All refunds are subject to approval.",
+"voice": "f"
+},
+"audio/w-notice.mp3": {
+"text": "notice",
+"voice": "w"
+},
+"audio/s2546.mp3": {
+"text": "The office will be closed until further notice.",
+"voice": "m"
+},
+"audio/w-confirm.mp3": {
+"text": "confirm",
+"voice": "w"
+},
+"audio/w-attendance.mp3": {
+"text": "attendance",
+"voice": "w"
+},
+"audio/s2547.mp3": {
+"text": "Kindly confirm your attendance by Monday.",
+"voice": "f"
+},
+"audio/w-access.mp3": {
+"text": "Access",
+"voice": "w"
+},
+"audio/w-restricted.mp3": {
+"text": "restricted",
+"voice": "w"
+},
+"audio/w-authorized.mp3": {
+"text": "authorized",
+"voice": "w"
+},
+"audio/w-personnel.mp3": {
+"text": "personnel",
+"voice": "w"
+},
+"audio/s2548.mp3": {
+"text": "Access is restricted to authorized personnel.",
+"voice": "m"
+},
+"audio/w-reserves.mp3": {
+"text": "reserves",
+"voice": "w"
+},
+"audio/w-terms.mp3": {
+"text": "terms",
+"voice": "w"
+},
+"audio/s2549.mp3": {
+"text": "The company reserves the right to change these terms.",
+"voice": "f"
+},
+"audio/w-currently.mp3": {
+"text": "currently",
+"voice": "w"
+},
+"audio/w-processed.mp3": {
+"text": "processed",
+"voice": "w"
+},
+"audio/s2550.mp3": {
+"text": "Your request is currently being processed.",
+"voice": "m"
+},
+"audio/w-suggest.mp3": {
+"text": "suggest",
+"voice": "w"
+},
+"audio/s2551.mp3": {
+"text": "I suggest that he go to the doctor.",
+"voice": "f"
+},
+"audio/s2552.mp3": {
+"text": "It's important that she be on time.",
+"voice": "m"
+},
+"audio/w-recommended.mp3": {
+"text": "recommended",
+"voice": "w"
+},
+"audio/s2553.mp3": {
+"text": "The doctor recommended that I rest for a week.",
+"voice": "f"
+},
+"audio/s2554.mp3": {
+"text": "They insisted that he pay the full price.",
+"voice": "m"
+},
+"audio/s2555.mp3": {
+"text": "It's essential that every student have a laptop.",
+"voice": "f"
+},
+"audio/w-demand.mp3": {
+"text": "demand",
+"voice": "w"
+},
+"audio/s2556.mp3": {
+"text": "I demand that you tell me the truth.",
+"voice": "m"
+},
+"audio/w-released.mp3": {
+"text": "released",
+"voice": "w"
+},
+"audio/s2557.mp3": {
+"text": "The judge ordered that the man be released.",
+"voice": "f"
+},
+"audio/s2558.mp3": {
+"text": "I wish he were here right now.",
+"voice": "m"
+},
+"audio/w-vital.mp3": {
+"text": "vital",
+"voice": "w"
+},
+"audio/w-patient.mp3": {
+"text": "patient",
+"voice": "w"
+},
+"audio/w-surgery.mp3": {
+"text": "surgery",
+"voice": "w"
+},
+"audio/s2559.mp3": {
+"text": "It's vital that the patient not eat before surgery.",
+"voice": "f"
+},
+"audio/s2560.mp3": {
+"text": "We asked that the meeting be postponed.",
+"voice": "m"
+},
+"audio/w-god.mp3": {
+"text": "God",
+"voice": "w"
+},
+"audio/w-bless.mp3": {
+"text": "bless",
+"voice": "w"
+},
+"audio/s2561.mp3": {
+"text": "God bless America.",
+"voice": "f"
+},
+"audio/s2562.mp3": {
+"text": "My grandfather wasn't feeling well last month.",
+"voice": "m"
+},
+"audio/s2563.mp3": {
+"text": "The doctor recommended that he stay in bed for a week.",
+"voice": "f"
+},
+"audio/s2564.mp3": {
+"text": "She also insisted that he stop drinking coffee.",
+"voice": "m"
+},
+"audio/w-demanded.mp3": {
+"text": "demanded",
+"voice": "w"
+},
+"audio/w-reasonable.mp3": {
+"text": "reasonable",
+"voice": "w"
+},
+"audio/s2565.mp3": {
+"text": "My grandfather demanded that she be reasonable.",
+"voice": "f"
+},
+"audio/s2566.mp3": {
+"text": "In the end, they agreed that he have one cup a day.",
+"voice": "m"
+},
+"audio/w-stubborn.mp3": {
+"text": "stubborn",
+"voice": "w"
+},
+"audio/s2567.mp3": {
+"text": "I suggest that everyone be that stubborn at ninety!",
+"voice": "f"
+},
+"audio/w-apply.mp3": {
+"text": "apply",
+"voice": "w"
+},
+"audio/s2568.mp3": {
+"text": "I recommend that she apply as soon as possible.",
+"voice": "m"
+},
+"audio/w-crucial.mp3": {
+"text": "crucial",
+"voice": "w"
+},
+"audio/s2569.mp3": {
+"text": "It's crucial that he not miss the deadline.",
+"voice": "f"
+},
+"audio/s2570.mp3": {
+"text": "The teacher requested that we be quiet.",
+"voice": "m"
+},
+"audio/w-proposed.mp3": {
+"text": "proposed",
+"voice": "w"
+},
+"audio/s2571.mp3": {
+"text": "She proposed that the plan be changed.",
+"voice": "f"
+},
+"audio/w-necessary.mp3": {
+"text": "necessary",
+"voice": "w"
+},
+"audio/s2572.mp3": {
+"text": "It is necessary that everyone sign the form.",
+"voice": "m"
+},
+"audio/s2573.mp3": {
+"text": "My parents insisted that I come home early.",
+"voice": "f"
+},
+"audio/s2574.mp3": {
+"text": "The manager asked that the report be finished today.",
+"voice": "m"
+},
+"audio/w-rather.mp3": {
+"text": "rather",
+"voice": "w"
+},
+"audio/s2575.mp3": {
+"text": "I'd rather you didn't tell anyone.",
+"voice": "f"
+},
+"audio/w-needn-t.mp3": {
+"text": "needn't",
+"voice": "w"
+},
+"audio/s2576.mp3": {
+"text": "You needn't have brought a gift.",
+"voice": "m"
+},
+"audio/s2577.mp3": {
+"text": "She must have forgotten about our meeting.",
+"voice": "f"
+},
+"audio/s2578.mp3": {
+"text": "He can't have finished the report already.",
+"voice": "m"
+},
+"audio/w-exit.mp3": {
+"text": "exit",
+"voice": "w"
+},
+"audio/s2579.mp3": {
+"text": "They might have taken the wrong exit.",
+"voice": "f"
+},
+"audio/s2580.mp3": {
+"text": "You could have told me earlier!",
+"voice": "m"
+},
+"audio/s2581.mp3": {
+"text": "I should have listened to your advice.",
+"voice": "f"
+},
+"audio/s2582.mp3": {
+"text": "We'd better leave before the traffic gets worse.",
+"voice": "m"
+},
+"audio/w-ought.mp3": {
+"text": "ought",
+"voice": "w"
+},
+"audio/s2583.mp3": {
+"text": "You ought to apologize to her.",
+"voice": "f"
+},
+"audio/w-jokes.mp3": {
+"text": "jokes",
+"voice": "w"
+},
+"audio/s2584.mp3": {
+"text": "He would always tell the same jokes.",
+"voice": "m"
+},
+"audio/w-mailman.mp3": {
+"text": "mailman",
+"voice": "w"
+},
+"audio/s2585.mp3": {
+"text": "That will be the mailman at the door.",
+"voice": "f"
+},
+"audio/s2586.mp3": {
+"text": "She may well be right about this.",
+"voice": "m"
+},
+"audio/s2587.mp3": {
+"text": "You shouldn't have gone to all that trouble.",
+"voice": "f"
+},
+"audio/s2588.mp3": {
+"text": "I waited at the cafe for an hour, but Jake never showed up.",
+"voice": "m"
+},
+"audio/w-stuck.mp3": {
+"text": "stuck",
+"voice": "w"
+},
+"audio/s2589.mp3": {
+"text": "He must have forgotten, or he might have gotten stuck in traffic.",
+"voice": "f"
+},
+"audio/s2590.mp3": {
+"text": "He can't have lost his phone again, I thought.",
+"voice": "m"
+},
+"audio/s2591.mp3": {
+"text": "Later he called and said he'd been at the wrong cafe.",
+"voice": "f"
+},
+"audio/s2592.mp3": {
+"text": "I should have sent him the address.",
+"voice": "m"
+},
+"audio/s2593.mp3": {
+"text": "Next time, we'd better meet somewhere we both know.",
+"voice": "f"
+},
+"audio/s2594.mp3": {
+"text": "You might have warned me!",
+"voice": "m"
+},
+"audio/s2595.mp3": {
+"text": "We needn't have hurried; the train was late.",
+"voice": "f"
+},
+"audio/s2596.mp3": {
+"text": "He ought to have known better.",
+"voice": "m"
+},
+"audio/s2597.mp3": {
+"text": "You'd better not be late again.",
+"voice": "f"
+},
+"audio/s2598.mp3": {
+"text": "She would often sit by the window for hours.",
+"voice": "m"
+},
+"audio/w-decide.mp3": {
+"text": "decide",
+"voice": "w"
+},
+"audio/w-cancel.mp3": {
+"text": "cancel",
+"voice": "w"
+},
+"audio/s2599.mp3": {
+"text": "They could well decide to cancel the trip.",
+"voice": "f"
+},
+"audio/s2600.mp3": {
+"text": "That can't be right.",
+"voice": "m"
+},
+"audio/s2601.mp3": {
+"text": "Let's not cross that bridge until we come to it.",
+"voice": "f"
+},
+"audio/w-chip.mp3": {
+"text": "chip",
+"voice": "w"
+},
+"audio/w-shoulder.mp3": {
+"text": "shoulder",
+"voice": "w"
+},
+"audio/s2602.mp3": {
+"text": "She has a chip on her shoulder.",
+"voice": "m"
+},
+"audio/w-bit.mp3": {
+"text": "bit",
+"voice": "w"
+},
+"audio/w-chew.mp3": {
+"text": "chew",
+"voice": "w"
+},
+"audio/s2603.mp3": {
+"text": "He bit off more than he could chew.",
+"voice": "f"
+},
+"audio/w-corners.mp3": {
+"text": "corners",
+"voice": "w"
+},
+"audio/s2604.mp3": {
+"text": "We need to cut corners to save money.",
+"voice": "m"
+},
+"audio/w-fence.mp3": {
+"text": "fence",
+"voice": "w"
+},
+"audio/s2605.mp3": {
+"text": "I'm on the fence about moving.",
+"voice": "f"
+},
+"audio/w-ship.mp3": {
+"text": "ship",
+"voice": "w"
+},
+"audio/w-sailed.mp3": {
+"text": "sailed",
+"voice": "w"
+},
+"audio/s2606.mp3": {
+"text": "That ship has sailed.",
+"voice": "m"
+},
+"audio/w-barking.mp3": {
+"text": "barking",
+"voice": "w"
+},
+"audio/s2607.mp3": {
+"text": "He's barking up the wrong tree.",
+"voice": "f"
+},
+"audio/w-basket.mp3": {
+"text": "basket",
+"voice": "w"
+},
+"audio/s2608.mp3": {
+"text": "Don't put all your eggs in one basket.",
+"voice": "m"
+},
+"audio/w-court.mp3": {
+"text": "court",
+"voice": "w"
+},
+"audio/s2609.mp3": {
+"text": "The ball is in your court now.",
+"voice": "f"
+},
+"audio/w-extra.mp3": {
+"text": "extra",
+"voice": "w"
+},
+"audio/w-mile.mp3": {
+"text": "mile",
+"voice": "w"
+},
+"audio/s2610.mp3": {
+"text": "She went the extra mile for her clients.",
+"voice": "m"
+},
+"audio/w-elephant.mp3": {
+"text": "elephant",
+"voice": "w"
+},
+"audio/s2611.mp3": {
+"text": "It's the elephant in the room.",
+"voice": "f"
+},
+"audio/w-starting.mp3": {
+"text": "Starting",
+"voice": "w"
+},
+"audio/w-faint.mp3": {
+"text": "faint",
+"voice": "w"
+},
+"audio/s2612.mp3": {
+"text": "Starting a business is not for the faint of heart.",
+"voice": "m"
+},
+"audio/s2613.mp3": {
+"text": "When I opened my bakery, I bit off more than I could chew.",
+"voice": "f"
+},
+"audio/w-hiring.mp3": {
+"text": "hiring",
+"voice": "w"
+},
+"audio/s2614.mp3": {
+"text": "I was on the fence about hiring help.",
+"voice": "m"
+},
+"audio/s2615.mp3": {
+"text": "A friend told me not to cut corners on quality.",
+"voice": "f"
+},
+"audio/w-customer.mp3": {
+"text": "customer",
+"voice": "w"
+},
+"audio/s2616.mp3": {
+"text": "I went the extra mile for every customer.",
+"voice": "m"
+},
+"audio/s2617.mp3": {
+"text": "Now the ball is in my court to open a second shop.",
+"voice": "f"
+},
+"audio/s2618.mp3": {
+"text": "Let's not beat a dead horse.",
+"voice": "m"
+},
+"audio/w-pond.mp3": {
+"text": "pond",
+"voice": "w"
+},
+"audio/s2619.mp3": {
+"text": "He's a big fish in a small pond.",
+"voice": "f"
+},
+"audio/s2620.mp3": {
+"text": "She let the cat out of the bag.",
+"voice": "m"
+},
+"audio/s2621.mp3": {
+"text": "It's time to face the music.",
+"voice": "f"
+},
+"audio/s2622.mp3": {
+"text": "He really dropped the ball this time.",
+"voice": "m"
+},
+"audio/w-straw.mp3": {
+"text": "straw",
+"voice": "w"
+},
+"audio/s2623.mp3": {
+"text": "That was the last straw.",
+"voice": "f"
+},
+"audio/w-square.mp3": {
+"text": "square",
+"voice": "w"
+},
+"audio/s2624.mp3": {
+"text": "We're back to square one.",
+"voice": "m"
+},
+"audio/w-pulling.mp3": {
+"text": "pulling",
+"voice": "w"
+},
+"audio/s2625.mp3": {
+"text": "He's always pulling my leg.",
+"voice": "f"
+},
+"audio/s2626.mp3": {
+"text": "Could you do me a favor?",
+"voice": "m"
+},
+"audio/s2627.mp3": {
+"text": "I need to make a decision soon.",
+"voice": "f"
+},
+"audio/s2628.mp3": {
+"text": "She always does her best.",
+"voice": "m"
+},
+"audio/w-fuss.mp3": {
+"text": "fuss",
+"voice": "w"
+},
+"audio/s2629.mp3": {
+"text": "Don't make a fuss about it.",
+"voice": "f"
+},
+"audio/s2630.mp3": {
+"text": "We should do some research first.",
+"voice": "m"
+},
+"audio/w-impression.mp3": {
+"text": "impression",
+"voice": "w"
+},
+"audio/w-interviewer.mp3": {
+"text": "interviewer",
+"voice": "w"
+},
+"audio/s2631.mp3": {
+"text": "He made a good impression on the interviewer.",
+"voice": "f"
+},
+"audio/w-dishes.mp3": {
+"text": "dishes",
+"voice": "w"
+},
+"audio/s2632.mp3": {
+"text": "I'll do the dishes after dinner.",
+"voice": "m"
+},
+"audio/w-effort.mp3": {
+"text": "effort",
+"voice": "w"
+},
+"audio/s2633.mp3": {
+"text": "Let's make an effort to be on time.",
+"voice": "f"
+},
+"audio/w-sense.mp3": {
+"text": "sense",
+"voice": "w"
+},
+"audio/s2634.mp3": {
+"text": "That doesn't make any sense.",
+"voice": "m"
+},
+"audio/s2635.mp3": {
+"text": "Exercise will do you good.",
+"voice": "f"
+},
+"audio/w-profit.mp3": {
+"text": "profit",
+"voice": "w"
+},
+"audio/s2636.mp3": {
+"text": "They made a profit last quarter.",
+"voice": "m"
+},
+"audio/w-exception.mp3": {
+"text": "exception",
+"voice": "w"
+},
+"audio/s2637.mp3": {
+"text": "Can we make an exception this time?",
+"voice": "f"
+},
+"audio/w-country.mp3": {
+"text": "country",
+"voice": "w"
+},
+"audio/s2638.mp3": {
+"text": "Moving to a new country makes a big difference in your life.",
+"voice": "m"
+},
+"audio/w-decisions.mp3": {
+"text": "decisions",
+"voice": "w"
+},
+"audio/s2639.mp3": {
+"text": "You have to make a lot of decisions very quickly.",
+"voice": "f"
+},
+"audio/s2640.mp3": {
+"text": "I did a lot of research before I came here.",
+"voice": "m"
+},
+"audio/s2641.mp3": {
+"text": "I made some mistakes, but I always did my best.",
+"voice": "f"
+},
+"audio/w-favors.mp3": {
+"text": "favors",
+"voice": "w"
+},
+"audio/s2642.mp3": {
+"text": "My neighbors did me many favors in the first year.",
+"voice": "m"
+},
+"audio/s2643.mp3": {
+"text": "I hope I've made a good impression on them, too.",
+"voice": "f"
+},
+"audio/s2644.mp3": {
+"text": "I made a mistake in the report.",
+"voice": "m"
+},
+"audio/s2645.mp3": {
+"text": "Can you do the dishes tonight?",
+"voice": "f"
+},
+"audio/s2646.mp3": {
+"text": "He made a lot of money last year.",
+"voice": "m"
+},
+"audio/s2647.mp3": {
+"text": "We need to make room for the new sofa.",
+"voice": "f"
+},
+"audio/w-topic.mp3": {
+"text": "topic",
+"voice": "w"
+},
+"audio/s2648.mp3": {
+"text": "I'm doing some research on the topic.",
+"voice": "m"
+},
+"audio/s2649.mp3": {
+"text": "She made an excuse and left early.",
+"voice": "f"
+},
+"audio/s2650.mp3": {
+"text": "Let's make a plan for the weekend.",
+"voice": "m"
+},
+"audio/w-examines.mp3": {
+"text": "examines",
+"voice": "w"
+},
+"audio/w-effects.mp3": {
+"text": "effects",
+"voice": "w"
+},
+"audio/w-memory.mp3": {
+"text": "memory",
+"voice": "w"
+},
+"audio/s2651.mp3": {
+"text": "This study examines the effects of sleep on memory.",
+"voice": "f"
+},
+"audio/w-findings.mp3": {
+"text": "findings",
+"voice": "w"
+},
+"audio/w-correlation.mp3": {
+"text": "correlation",
+"voice": "w"
+},
+"audio/s2652.mp3": {
+"text": "The findings suggest a strong correlation between the two.",
+"voice": "m"
+},
+"audio/w-previous.mp3": {
+"text": "Previous",
+"voice": "w"
+},
+"audio/w-largely.mp3": {
+"text": "largely",
+"voice": "w"
+},
+"audio/w-ignored.mp3": {
+"text": "ignored",
+"voice": "w"
+},
+"audio/w-issue.mp3": {
+"text": "issue",
+"voice": "w"
+},
+"audio/s2653.mp3": {
+"text": "Previous research has largely ignored this issue.",
+"voice": "f"
+},
+"audio/w-data.mp3": {
+"text": "data",
+"voice": "w"
+},
+"audio/w-period.mp3": {
+"text": "period",
+"voice": "w"
+},
+"audio/s2654.mp3": {
+"text": "The data were collected over a period of two years.",
+"voice": "m"
+},
+"audio/w-argued.mp3": {
+"text": "argued",
+"voice": "w"
+},
+"audio/w-sample.mp3": {
+"text": "sample",
+"voice": "w"
+},
+"audio/s2655.mp3": {
+"text": "It could be argued that the sample was too small.",
+"voice": "f"
+},
+"audio/w-interpreted.mp3": {
+"text": "interpreted",
+"voice": "w"
+},
+"audio/w-caution.mp3": {
+"text": "caution",
+"voice": "w"
+},
+"audio/s2656.mp3": {
+"text": "These results should be interpreted with caution.",
+"voice": "m"
+},
+"audio/w-author.mp3": {
+"text": "author",
+"voice": "w"
+},
+"audio/w-draws.mp3": {
+"text": "draws",
+"voice": "w"
+},
+"audio/w-wide.mp3": {
+"text": "wide",
+"voice": "w"
+},
+"audio/w-range.mp3": {
+"text": "range",
+"voice": "w"
+},
+"audio/s2657.mp3": {
+"text": "The author draws on a wide range of sources.",
+"voice": "f"
+},
+"audio/s2658.mp3": {
+"text": "Further research is needed to confirm these findings.",
+"voice": "m"
+},
+"audio/w-contrast.mp3": {
+"text": "contrast",
+"voice": "w"
+},
+"audio/w-improvement.mp3": {
+"text": "improvement",
+"voice": "w"
+},
+"audio/s2659.mp3": {
+"text": "In contrast, the second group showed no improvement.",
+"voice": "f"
+},
+"audio/w-divided.mp3": {
+"text": "divided",
+"voice": "w"
+},
+"audio/w-sections.mp3": {
+"text": "sections",
+"voice": "w"
+},
+"audio/s2660.mp3": {
+"text": "This paper is divided into three sections.",
+"voice": "m"
+},
+"audio/w-theory.mp3": {
+"text": "theory",
+"voice": "w"
+},
+"audio/w-widely.mp3": {
+"text": "widely",
+"voice": "w"
+},
+"audio/w-criticized.mp3": {
+"text": "criticized",
+"voice": "w"
+},
+"audio/s2661.mp3": {
+"text": "The theory has been widely criticized.",
+"voice": "f"
+},
+"audio/w-conclude.mp3": {
+"text": "conclude",
+"voice": "w"
+},
+"audio/w-hypothesis.mp3": {
+"text": "hypothesis",
+"voice": "w"
+},
+"audio/w-partly.mp3": {
+"text": "partly",
+"voice": "w"
+},
+"audio/w-supported.mp3": {
+"text": "supported",
+"voice": "w"
+},
+"audio/s2662.mp3": {
+"text": "To conclude, the hypothesis was partly supported.",
+"voice": "m"
+},
+"audio/w-investigates.mp3": {
+"text": "investigates",
+"voice": "w"
+},
+"audio/s2663.mp3": {
+"text": "This study investigates how sleep affects learning.",
+"voice": "f"
+},
+"audio/w-groups.mp3": {
+"text": "groups",
+"voice": "w"
+},
+"audio/w-memorize.mp3": {
+"text": "memorize",
+"voice": "w"
+},
+"audio/w-words.mp3": {
+"text": "words",
+"voice": "w"
+},
+"audio/s2664.mp3": {
+"text": "Two groups of students were asked to memorize fifty words.",
+"voice": "m"
+},
+"audio/w-awake.mp3": {
+"text": "awake",
+"voice": "w"
+},
+"audio/s2665.mp3": {
+"text": "The first group slept for eight hours, while the second stayed awake.",
+"voice": "f"
+},
+"audio/w-improves.mp3": {
+"text": "improves",
+"voice": "w"
+},
+"audio/w-significantly.mp3": {
+"text": "significantly",
+"voice": "w"
+},
+"audio/s2666.mp3": {
+"text": "The findings suggest that sleep improves memory significantly.",
+"voice": "m"
+},
+"audio/w-relatively.mp3": {
+"text": "relatively",
+"voice": "w"
+},
+"audio/s2667.mp3": {
+"text": "However, the sample was relatively small.",
+"voice": "f"
+},
+"audio/s2668.mp3": {
+"text": "Further research is needed to confirm these results.",
+"voice": "m"
+},
+"audio/s2669.mp3": {
+"text": "The data were collected over three years.",
+"voice": "f"
+},
+"audio/w-consisted.mp3": {
+"text": "consisted",
+"voice": "w"
+},
+"audio/s2670.mp3": {
+"text": "The sample consisted of two hundred students.",
+"voice": "m"
+},
+"audio/w-argues.mp3": {
+"text": "argues",
+"voice": "w"
+},
+"audio/w-incomplete.mp3": {
+"text": "incomplete",
+"voice": "w"
+},
+"audio/s2671.mp3": {
+"text": "This paper argues that the theory is incomplete.",
+"voice": "f"
+},
+"audio/w-factors.mp3": {
+"text": "factors",
+"voice": "w"
+},
+"audio/s2672.mp3": {
+"text": "A number of factors may explain this difference.",
+"voice": "m"
+},
+"audio/s2673.mp3": {
+"text": "In contrast, the second group showed no change.",
+"voice": "f"
+},
+"audio/w-limitations.mp3": {
+"text": "limitations",
+"voice": "w"
+},
+"audio/s2674.mp3": {
+"text": "The study has several important limitations.",
+"voice": "m"
+},
+"audio/w-participants.mp3": {
+"text": "Participants",
+"voice": "w"
+},
+"audio/w-randomly.mp3": {
+"text": "randomly",
+"voice": "w"
+},
+"audio/w-assigned.mp3": {
+"text": "assigned",
+"voice": "w"
+},
+"audio/s2675.mp3": {
+"text": "Participants were randomly assigned to two groups.",
+"voice": "f"
+},
+"audio/s2676.mp3": {
+"text": "Good morning, and thank you all for coming.",
+"voice": "m"
+},
+"audio/w-strategy.mp3": {
+"text": "strategy",
+"voice": "w"
+},
+"audio/s2677.mp3": {
+"text": "Today I'd like to talk about our sales strategy.",
+"voice": "f"
+},
+"audio/w-presentation.mp3": {
+"text": "presentation",
+"voice": "w"
+},
+"audio/w-parts.mp3": {
+"text": "parts",
+"voice": "w"
+},
+"audio/s2678.mp3": {
+"text": "I've divided my presentation into three parts.",
+"voice": "m"
+},
+"audio/w-chart.mp3": {
+"text": "chart",
+"voice": "w"
+},
+"audio/w-doubled.mp3": {
+"text": "doubled",
+"voice": "w"
+},
+"audio/s2679.mp3": {
+"text": "As you can see from this chart, sales have doubled.",
+"voice": "f"
+},
+"audio/w-attention.mp3": {
+"text": "attention",
+"voice": "w"
+},
+"audio/w-column.mp3": {
+"text": "column",
+"voice": "w"
+},
+"audio/s2680.mp3": {
+"text": "Let me draw your attention to the last column.",
+"voice": "m"
+},
+"audio/w-brings.mp3": {
+"text": "brings",
+"voice": "w"
+},
+"audio/s2681.mp3": {
+"text": "This brings me to my next point.",
+"voice": "f"
+},
+"audio/s2682.mp3": {
+"text": "I'll come back to that later.",
+"voice": "m"
+},
+"audio/w-sum.mp3": {
+"text": "sum",
+"voice": "w"
+},
+"audio/w-successful.mp3": {
+"text": "successful",
+"voice": "w"
+},
+"audio/s2683.mp3": {
+"text": "To sum up, we had a very successful year.",
+"voice": "f"
+},
+"audio/s2684.mp3": {
+"text": "I'd be happy to answer any questions.",
+"voice": "m"
+},
+"audio/s2685.mp3": {
+"text": "That's a great question.",
+"voice": "f"
+},
+"audio/w-figures.mp3": {
+"text": "figures",
+"voice": "w"
+},
+"audio/s2686.mp3": {
+"text": "I'm afraid I don't have those figures with me.",
+"voice": "m"
+},
+"audio/s2687.mp3": {
+"text": "Thank you for your attention.",
+"voice": "f"
+},
+"audio/s2688.mp3": {
+"text": "Good afternoon, everyone, and thank you for being here.",
+"voice": "m"
+},
+"audio/w-present.mp3": {
+"text": "present",
+"voice": "w"
+},
+"audio/w-survey.mp3": {
+"text": "survey",
+"voice": "w"
+},
+"audio/s2689.mp3": {
+"text": "Today I'll present the results of our customer survey.",
+"voice": "f"
+},
+"audio/w-satisfaction.mp3": {
+"text": "satisfaction",
+"voice": "w"
+},
+"audio/w-risen.mp3": {
+"text": "risen",
+"voice": "w"
+},
+"audio/w-percent.mp3": {
+"text": "percent",
+"voice": "w"
+},
+"audio/s2690.mp3": {
+"text": "As you can see, satisfaction has risen by twenty percent.",
+"voice": "m"
+},
+"audio/w-delivery.mp3": {
+"text": "delivery",
+"voice": "w"
+},
+"audio/w-concern.mp3": {
+"text": "concern",
+"voice": "w"
+},
+"audio/s2691.mp3": {
+"text": "However, delivery times are still a major concern.",
+"voice": "f"
+},
+"audio/w-track.mp3": {
+"text": "track",
+"voice": "w"
+},
+"audio/s2692.mp3": {
+"text": "To sum up, we're on the right track, but there's work to do.",
+"voice": "m"
+},
+"audio/s2693.mp3": {
+"text": "I'd be happy to take any questions now.",
+"voice": "f"
+},
+"audio/w-overview.mp3": {
+"text": "overview",
+"voice": "w"
+},
+"audio/s2694.mp3": {
+"text": "Let me start with a quick overview.",
+"voice": "m"
+},
+"audio/w-slide.mp3": {
+"text": "slide",
+"voice": "w"
+},
+"audio/s2695.mp3": {
+"text": "As you can see on this slide, sales have doubled.",
+"voice": "f"
+},
+"audio/s2696.mp3": {
+"text": "I'd like to draw your attention to this chart.",
+"voice": "m"
+},
+"audio/s2697.mp3": {
+"text": "Moving on to my next point.",
+"voice": "f"
+},
+"audio/w-success.mp3": {
+"text": "success",
+"voice": "w"
+},
+"audio/s2698.mp3": {
+"text": "To sum up, the project was a success.",
+"voice": "m"
+},
+"audio/s2699.mp3": {
+"text": "I'll be happy to take any questions at the end.",
+"voice": "f"
+},
+"audio/s2700.mp3": {
+"text": "That brings me to the end of my presentation.",
+"voice": "m"
+},
+"audio/s2701.mp3": {
+"text": "It seems that there may be a problem.",
+"voice": "f"
+},
+"audio/w-entirely.mp3": {
+"text": "entirely",
+"voice": "w"
+},
+"audio/s2702.mp3": {
+"text": "I'm not entirely sure that's the best idea.",
+"voice": "m"
+},
+"audio/w-perhaps.mp3": {
+"text": "Perhaps",
+"voice": "w"
+},
+"audio/s2703.mp3": {
+"text": "Perhaps we could look at it differently.",
+"voice": "f"
+},
+"audio/w-reconsidering.mp3": {
+"text": "reconsidering",
+"voice": "w"
+},
+"audio/s2704.mp3": {
+"text": "It might be worth reconsidering the deadline.",
+"voice": "m"
+},
+"audio/s2705.mp3": {
+"text": "I was wondering if you might have a moment.",
+"voice": "f"
+},
+"audio/s2706.mp3": {
+"text": "To be honest, I'm a little disappointed.",
+"voice": "m"
+},
+"audio/w-quite.mp3": {
+"text": "quite",
+"voice": "w"
+},
+"audio/s2707.mp3": {
+"text": "That's not quite what I had in mind.",
+"voice": "f"
+},
+"audio/w-tend.mp3": {
+"text": "tend",
+"voice": "w"
+},
+"audio/s2708.mp3": {
+"text": "I tend to agree with you on that.",
+"voice": "m"
+},
+"audio/w-misunderstood.mp3": {
+"text": "misunderstood",
+"voice": "w"
+},
+"audio/s2709.mp3": {
+"text": "It's possible that I misunderstood.",
+"voice": "f"
+},
+"audio/w-appears.mp3": {
+"text": "appears",
+"voice": "w"
+},
+"audio/w-slight.mp3": {
+"text": "slight",
+"voice": "w"
+},
+"audio/s2710.mp3": {
+"text": "There appears to be a slight mistake in the bill.",
+"voice": "m"
+},
+"audio/s2711.mp3": {
+"text": "I'm afraid that won't be possible.",
+"voice": "f"
+},
+"audio/s2712.mp3": {
+"text": "I was wondering if we could talk about the new schedule.",
+"voice": "m"
+},
+"audio/s2713.mp3": {
+"text": "It seems that some people are working very long hours.",
+"voice": "f"
+},
+"audio/w-sustainable.mp3": {
+"text": "sustainable",
+"voice": "w"
+},
+"audio/s2714.mp3": {
+"text": "I'm not entirely sure it's sustainable.",
+"voice": "m"
+},
+"audio/w-assistant.mp3": {
+"text": "assistant",
+"voice": "w"
+},
+"audio/s2715.mp3": {
+"text": "Perhaps we could hire a part-time assistant.",
+"voice": "f"
+},
+"audio/s2716.mp3": {
+"text": "Of course, I might be missing something.",
+"voice": "m"
+},
+"audio/w-considering.mp3": {
+"text": "considering",
+"voice": "w"
+},
+"audio/s2717.mp3": {
+"text": "But it might be worth considering.",
+"voice": "f"
+},
+"audio/s2718.mp3": {
+"text": "I might be wrong, but I think it's too early.",
+"voice": "m"
+},
+"audio/w-risky.mp3": {
+"text": "risky",
+"voice": "w"
+},
+"audio/s2719.mp3": {
+"text": "It could be argued that the plan is too risky.",
+"voice": "f"
+},
+"audio/w-extent.mp3": {
+"text": "extent",
+"voice": "w"
+},
+"audio/s2720.mp3": {
+"text": "To some extent, I agree with you.",
+"voice": "m"
+},
+"audio/s2721.mp3": {
+"text": "It appears that the numbers are a little off.",
+"voice": "f"
+},
+"audio/w-reconsider.mp3": {
+"text": "reconsider",
+"voice": "w"
+},
+"audio/s2722.mp3": {
+"text": "Would it be possible to reconsider?",
+"voice": "m"
+},
+"audio/s2723.mp3": {
+"text": "I'm not sure I'd put it that way.",
+"voice": "f"
+},
+"audio/s2724.mp3": {
+"text": "There might be a better solution.",
+"voice": "m"
+},
+"audio/w-tends.mp3": {
+"text": "tends",
+"voice": "w"
+},
+"audio/w-happen.mp3": {
+"text": "happen",
+"voice": "w"
+},
+"audio/s2725.mp3": {
+"text": "This tends to happen when people are tired.",
+"voice": "f"
+},
+"audio/s2726.mp3": {
+"text": "What would it take to close this deal today?",
+"voice": "m"
+},
+"audio/w-prepared.mp3": {
+"text": "prepared",
+"voice": "w"
+},
+"audio/w-discount.mp3": {
+"text": "discount",
+"voice": "w"
+},
+"audio/s2727.mp3": {
+"text": "We're prepared to offer a ten percent discount.",
+"voice": "f"
+},
+"audio/w-higher.mp3": {
+"text": "higher",
+"voice": "w"
+},
+"audio/s2728.mp3": {
+"text": "That's a little higher than we expected.",
+"voice": "m"
+},
+"audio/w-flexibility.mp3": {
+"text": "flexibility",
+"voice": "w"
+},
+"audio/s2729.mp3": {
+"text": "Is there any flexibility on the price?",
+"voice": "f"
+},
+"audio/w-halfway.mp3": {
+"text": "halfway",
+"voice": "w"
+},
+"audio/s2730.mp3": {
+"text": "We could meet you halfway.",
+"voice": "m"
+},
+"audio/w-lower.mp3": {
+"text": "lower",
+"voice": "w"
+},
+"audio/s2731.mp3": {
+"text": "If you order more, we can lower the price.",
+"voice": "f"
+},
+"audio/s2732.mp3": {
+"text": "That's our final offer.",
+"voice": "m"
+},
+"audio/s2733.mp3": {
+"text": "I'll need to run this by my manager.",
+"voice": "f"
+},
+"audio/s2734.mp3": {
+"text": "Let's put that in writing.",
+"voice": "m"
+},
+"audio/s2735.mp3": {
+"text": "We can't accept those terms.",
+"voice": "f"
+},
+"audio/w-agreement.mp3": {
+"text": "agreement",
+"voice": "w"
+},
+"audio/s2736.mp3": {
+"text": "I think we've reached an agreement.",
+"voice": "m"
+},
+"audio/w-pleasure.mp3": {
+"text": "pleasure",
+"voice": "w"
+},
+"audio/s2737.mp3": {
+"text": "It's a pleasure doing business with you.",
+"voice": "f"
+},
+"audio/w-supplier.mp3": {
+"text": "supplier",
+"voice": "w"
+},
+"audio/s2738.mp3": {
+"text": "The supplier asked for fifty thousand dollars.",
+"voice": "m"
+},
+"audio/s2739.mp3": {
+"text": "That was a little higher than our budget allowed.",
+"voice": "f"
+},
+"audio/s2740.mp3": {
+"text": "We asked if there was any flexibility on the price.",
+"voice": "m"
+},
+"audio/w-two-year.mp3": {
+"text": "two-year",
+"voice": "w"
+},
+"audio/s2741.mp3": {
+"text": "They offered a discount if we signed a two-year contract.",
+"voice": "f"
+},
+"audio/w-discussion.mp3": {
+"text": "discussion",
+"voice": "w"
+},
+"audio/s2742.mp3": {
+"text": "After some discussion, we agreed to meet halfway.",
+"voice": "m"
+},
+"audio/w-shook.mp3": {
+"text": "shook",
+"voice": "w"
+},
+"audio/w-hands.mp3": {
+"text": "hands",
+"voice": "w"
+},
+"audio/s2743.mp3": {
+"text": "We shook hands and put everything in writing.",
+"voice": "f"
+},
+"audio/w-negotiation.mp3": {
+"text": "negotiation",
+"voice": "w"
+},
+"audio/s2744.mp3": {
+"text": "Is there any room for negotiation?",
+"voice": "m"
+},
+"audio/w-extended.mp3": {
+"text": "extended",
+"voice": "w"
+},
+"audio/s2745.mp3": {
+"text": "What if we extended the deadline?",
+"voice": "f"
+},
+"audio/w-acceptable.mp3": {
+"text": "acceptable",
+"voice": "w"
+},
+"audio/s2746.mp3": {
+"text": "I'm afraid that's not acceptable.",
+"voice": "m"
+},
+"audio/s2747.mp3": {
+"text": "Can we split the difference?",
+"voice": "f"
+},
+"audio/s2748.mp3": {
+"text": "We need some time to think it over.",
+"voice": "m"
+},
+"audio/s2749.mp3": {
+"text": "We'd need a better price to move forward.",
+"voice": "f"
+},
+"audio/s2750.mp3": {
+"text": "I think we have a deal.",
+"voice": "m"
+},
+"audio/s2751.mp3": {
+"text": "Oh great, another meeting that could have been an email.",
+"voice": "f"
+},
+"audio/s2752.mp3": {
+"text": "Thanks a lot for nothing.",
+"voice": "m"
+},
+"audio/w-yeah.mp3": {
+"text": "Yeah",
+"voice": "w"
+},
+"audio/s2753.mp3": {
+"text": "Yeah, because that worked so well last time.",
+"voice": "f"
+},
+"audio/s2754.mp3": {
+"text": "Nice weather we're having, isn't it?",
+"voice": "m"
+},
+"audio/s2755.mp3": {
+"text": "I just love waiting in line for two hours.",
+"voice": "f"
+},
+"audio/s2756.mp3": {
+"text": "Tell me how you really feel.",
+"voice": "m"
+},
+"audio/s2757.mp3": {
+"text": "Well, that went well.",
+"voice": "f"
+},
+"audio/w-queen.mp3": {
+"text": "Queen",
+"voice": "w"
+},
+"audio/w-england.mp3": {
+"text": "England",
+"voice": "w"
+},
+"audio/s2758.mp3": {
+"text": "Sure, and I'm the Queen of England.",
+"voice": "m"
+},
+"audio/w-strain.mp3": {
+"text": "strain",
+"voice": "w"
+},
+"audio/s2759.mp3": {
+"text": "Don't strain yourself.",
+"voice": "f"
+},
+"audio/w-wow.mp3": {
+"text": "Wow",
+"voice": "w"
+},
+"audio/w-real.mp3": {
+"text": "real",
+"voice": "w"
+},
+"audio/w-genius.mp3": {
+"text": "genius",
+"voice": "w"
+},
+"audio/s2760.mp3": {
+"text": "Wow, you're a real genius.",
+"voice": "m"
+},
+"audio/s2761.mp3": {
+"text": "Could this day get any better?",
+"voice": "f"
+},
+"audio/s2762.mp3": {
+"text": "Mondays, am I right?",
+"voice": "m"
+},
+"audio/s2763.mp3": {
+"text": "My car broke down on the highway this morning.",
+"voice": "f"
+},
+"audio/w-exact.mp3": {
+"text": "exact",
+"voice": "w"
+},
+"audio/s2764.mp3": {
+"text": "Of course, it started raining at that exact moment.",
+"voice": "m"
+},
+"audio/s2765.mp3": {
+"text": "\"Could this day get any better?\" I said to myself.",
+"voice": "f"
+},
+"audio/w-tow.mp3": {
+"text": "tow",
+"voice": "w"
+},
+"audio/s2766.mp3": {
+"text": "The tow truck arrived three hours later.",
+"voice": "m"
+},
+"audio/w-huh.mp3": {
+"text": "huh",
+"voice": "w"
+},
+"audio/s2767.mp3": {
+"text": "The driver smiled and said, \"Nice weather, huh?\"",
+"voice": "f"
+},
+"audio/w-laughed.mp3": {
+"text": "laughed",
+"voice": "w"
+},
+"audio/s2768.mp3": {
+"text": "I just laughed, because what else could I do?",
+"voice": "m"
+},
+"audio/s2769.mp3": {
+"text": "Oh, wonderful, it's raining again.",
+"voice": "f"
+},
+"audio/s2770.mp3": {
+"text": "Nice of you to finally show up.",
+"voice": "m"
+},
+"audio/s2771.mp3": {
+"text": "Sure, I'd love to work all weekend.",
+"voice": "f"
+},
+"audio/w-glad.mp3": {
+"text": "glad",
+"voice": "w"
+},
+"audio/s2772.mp3": {
+"text": "I'm so glad my flight got canceled.",
+"voice": "m"
+},
+"audio/s2773.mp3": {
+"text": "Wow, you're really early. It's only noon.",
+"voice": "f"
+},
+"audio/w-printer.mp3": {
+"text": "printer",
+"voice": "w"
+},
+"audio/s2774.mp3": {
+"text": "What a surprise, the printer is broken again.",
+"voice": "m"
+},
+"audio/s2775.mp3": {
+"text": "Don't work too hard.",
+"voice": "f"
+},
+"audio/w-election.mp3": {
+"text": "election",
+"voice": "w"
+},
+"audio/w-november.mp3": {
+"text": "November",
+"voice": "w"
+},
+"audio/s2776.mp3": {
+"text": "The election will take place in November.",
+"voice": "m"
+},
+"audio/w-voter.mp3": {
+"text": "Voter",
+"voice": "w"
+},
+"audio/w-turnout.mp3": {
+"text": "turnout",
+"voice": "w"
+},
+"audio/s2777.mp3": {
+"text": "Voter turnout was higher than expected.",
+"voice": "f"
+},
+"audio/w-bipartisan.mp3": {
+"text": "bipartisan",
+"voice": "w"
+},
+"audio/s2778.mp3": {
+"text": "The bill passed with bipartisan support.",
+"voice": "m"
+},
+"audio/w-congress.mp3": {
+"text": "Congress",
+"voice": "w"
+},
+"audio/w-immigration.mp3": {
+"text": "immigration",
+"voice": "w"
+},
+"audio/w-reform.mp3": {
+"text": "reform",
+"voice": "w"
+},
+"audio/s2779.mp3": {
+"text": "Congress is divided on immigration reform.",
+"voice": "f"
+},
+"audio/w-citizens.mp3": {
+"text": "citizens",
+"voice": "w"
+},
+"audio/w-voices.mp3": {
+"text": "voices",
+"voice": "w"
+},
+"audio/s2780.mp3": {
+"text": "Many citizens feel their voices aren't heard.",
+"voice": "m"
+},
+"audio/w-freedom.mp3": {
+"text": "Freedom",
+"voice": "w"
+},
+"audio/w-constitution.mp3": {
+"text": "Constitution",
+"voice": "w"
+},
+"audio/s2781.mp3": {
+"text": "Freedom of speech is protected by the Constitution.",
+"voice": "f"
+},
+"audio/w-governor.mp3": {
+"text": "governor",
+"voice": "w"
+},
+"audio/w-vetoed.mp3": {
+"text": "vetoed",
+"voice": "w"
+},
+"audio/w-tax.mp3": {
+"text": "tax",
+"voice": "w"
+},
+"audio/s2782.mp3": {
+"text": "The governor vetoed the new tax law.",
+"voice": "m"
+},
+"audio/w-inequality.mp3": {
+"text": "Inequality",
+"voice": "w"
+},
+"audio/w-decade.mp3": {
+"text": "decade",
+"voice": "w"
+},
+"audio/s2783.mp3": {
+"text": "Inequality has grown over the past decade.",
+"voice": "f"
+},
+"audio/w-protesters.mp3": {
+"text": "Protesters",
+"voice": "w"
+},
+"audio/w-gathered.mp3": {
+"text": "gathered",
+"voice": "w"
+},
+"audio/s2784.mp3": {
+"text": "Protesters gathered in front of City Hall.",
+"voice": "m"
+},
+"audio/w-senator.mp3": {
+"text": "senator",
+"voice": "w"
+},
+"audio/w-term.mp3": {
+"text": "term",
+"voice": "w"
+},
+"audio/s2785.mp3": {
+"text": "The senator is running for a second term.",
+"voice": "f"
+},
+"audio/w-healthcare.mp3": {
+"text": "Healthcare",
+"voice": "w"
+},
+"audio/w-remains.mp3": {
+"text": "remains",
+"voice": "w"
+},
+"audio/w-political.mp3": {
+"text": "political",
+"voice": "w"
+},
+"audio/s2786.mp3": {
+"text": "Healthcare remains a major political issue.",
+"voice": "m"
+},
+"audio/w-vote.mp3": {
+"text": "vote",
+"voice": "w"
+},
+"audio/w-counts.mp3": {
+"text": "counts",
+"voice": "w"
+},
+"audio/w-democracy.mp3": {
+"text": "democracy",
+"voice": "w"
+},
+"audio/s2787.mp3": {
+"text": "Every vote counts in a democracy.",
+"voice": "f"
+},
+"audio/w-united.mp3": {
+"text": "United",
+"voice": "w"
+},
+"audio/w-states.mp3": {
+"text": "States",
+"voice": "w"
+},
+"audio/w-presidential.mp3": {
+"text": "presidential",
+"voice": "w"
+},
+"audio/w-elections.mp3": {
+"text": "elections",
+"voice": "w"
+},
+"audio/s2788.mp3": {
+"text": "In the United States, presidential elections take place every four years.",
+"voice": "m"
+},
+"audio/w-americans.mp3": {
+"text": "Americans",
+"voice": "w"
+},
+"audio/w-parties.mp3": {
+"text": "parties",
+"voice": "w"
+},
+"audio/s2789.mp3": {
+"text": "Most Americans vote for one of two major parties.",
+"voice": "f"
+},
+"audio/w-senate.mp3": {
+"text": "Senate",
+"voice": "w"
+},
+"audio/w-representatives.mp3": {
+"text": "Representatives",
+"voice": "w"
+},
+"audio/s2790.mp3": {
+"text": "Congress is made up of the Senate and the House of Representatives.",
+"voice": "m"
+},
+"audio/w-protects.mp3": {
+"text": "protects",
+"voice": "w"
+},
+"audio/w-religion.mp3": {
+"text": "religion",
+"voice": "w"
+},
+"audio/s2791.mp3": {
+"text": "The Constitution protects freedom of speech and religion.",
+"voice": "f"
+},
+"audio/w-system.mp3": {
+"text": "system",
+"voice": "w"
+},
+"audio/s2792.mp3": {
+"text": "Still, many citizens feel that the system is too divided.",
+"voice": "m"
+},
+"audio/w-democracies.mp3": {
+"text": "democracies",
+"voice": "w"
+},
+"audio/s2793.mp3": {
+"text": "Voter turnout is often lower than in other democracies.",
+"voice": "f"
+},
+"audio/w-voted.mp3": {
+"text": "voted",
+"voice": "w"
+},
+"audio/s2794.mp3": {
+"text": "The senator voted against the new law.",
+"voice": "m"
+},
+"audio/w-protested.mp3": {
+"text": "protested",
+"voice": "w"
+},
+"audio/s2795.mp3": {
+"text": "Many people protested outside city hall.",
+"voice": "f"
+},
+"audio/w-government.mp3": {
+"text": "government",
+"voice": "w"
+},
+"audio/s2796.mp3": {
+"text": "The government announced new tax cuts.",
+"voice": "m"
+},
+"audio/w-candidates.mp3": {
+"text": "candidates",
+"voice": "w"
+},
+"audio/w-debate.mp3": {
+"text": "debate",
+"voice": "w"
+},
+"audio/s2797.mp3": {
+"text": "The candidates will debate on Tuesday night.",
+"voice": "f"
+},
+"audio/s2798.mp3": {
+"text": "Healthcare is a major issue in this election.",
+"voice": "m"
+},
+"audio/w-policy.mp3": {
+"text": "policy",
+"voice": "w"
+},
+"audio/s2799.mp3": {
+"text": "The new policy has divided public opinion.",
+"voice": "f"
+},
+"audio/s2800.mp3": {
+"text": "Every vote counts.",
+"voice": "m"
+},
+"audio/w-scientists.mp3": {
+"text": "Scientists",
+"voice": "w"
+},
+"audio/w-discovered.mp3": {
+"text": "discovered",
+"voice": "w"
+},
+"audio/w-frog.mp3": {
+"text": "frog",
+"voice": "w"
+},
+"audio/s2801.mp3": {
+"text": "Scientists have discovered a new species of frog.",
+"voice": "f"
+},
+"audio/w-experiment.mp3": {
+"text": "experiment",
+"voice": "w"
+},
+"audio/w-repeated.mp3": {
+"text": "repeated",
+"voice": "w"
+},
+"audio/w-controlled.mp3": {
+"text": "controlled",
+"voice": "w"
+},
+"audio/w-conditions.mp3": {
+"text": "conditions",
+"voice": "w"
+},
+"audio/s2802.mp3": {
+"text": "The experiment was repeated under controlled conditions.",
+"voice": "m"
+},
+"audio/w-vaccine.mp3": {
+"text": "vaccine",
+"voice": "w"
+},
+"audio/w-proved.mp3": {
+"text": "proved",
+"voice": "w"
+},
+"audio/w-highly.mp3": {
+"text": "highly",
+"voice": "w"
+},
+"audio/w-effective.mp3": {
+"text": "effective",
+"voice": "w"
+},
+"audio/s2803.mp3": {
+"text": "The vaccine proved to be highly effective.",
+"voice": "f"
+},
+"audio/w-researchers.mp3": {
+"text": "Researchers",
+"voice": "w"
+},
+"audio/w-analyzing.mp3": {
+"text": "analyzing",
+"voice": "w"
+},
+"audio/s2804.mp3": {
+"text": "Researchers are still analyzing the data.",
+"voice": "m"
+},
+"audio/w-leading.mp3": {
+"text": "leading",
+"voice": "w"
+},
+"audio/w-journal.mp3": {
+"text": "journal",
+"voice": "w"
+},
+"audio/s2805.mp3": {
+"text": "The study was published in a leading journal.",
+"voice": "f"
+},
+"audio/w-disproved.mp3": {
+"text": "disproved",
+"voice": "w"
+},
+"audio/s2806.mp3": {
+"text": "Their theory was later disproved.",
+"voice": "m"
+},
+"audio/w-telescope.mp3": {
+"text": "telescope",
+"voice": "w"
+},
+"audio/w-detect.mp3": {
+"text": "detect",
+"voice": "w"
+},
+"audio/w-planets.mp3": {
+"text": "planets",
+"voice": "w"
+},
+"audio/w-distant.mp3": {
+"text": "distant",
+"voice": "w"
+},
+"audio/w-stars.mp3": {
+"text": "stars",
+"voice": "w"
+},
+"audio/s2807.mp3": {
+"text": "The telescope can detect planets around distant stars.",
+"voice": "f"
+},
+"audio/w-genetic.mp3": {
+"text": "Genetic",
+"voice": "w"
+},
+"audio/w-key.mp3": {
+"text": "key",
+"voice": "w"
+},
+"audio/w-role.mp3": {
+"text": "role",
+"voice": "w"
+},
+"audio/w-disease.mp3": {
+"text": "disease",
+"voice": "w"
+},
+"audio/s2808.mp3": {
+"text": "Genetic factors play a key role in this disease.",
+"voice": "m"
+},
+"audio/w-reproduced.mp3": {
+"text": "reproduced",
+"voice": "w"
+},
+"audio/w-labs.mp3": {
+"text": "labs",
+"voice": "w"
+},
+"audio/s2809.mp3": {
+"text": "The results could not be reproduced by other labs.",
+"voice": "f"
+},
+"audio/w-funding.mp3": {
+"text": "Funding",
+"voice": "w"
+},
+"audio/w-basic.mp3": {
+"text": "basic",
+"voice": "w"
+},
+"audio/s2810.mp3": {
+"text": "Funding for basic research has been cut.",
+"voice": "m"
+},
+"audio/w-breakthrough.mp3": {
+"text": "breakthrough",
+"voice": "w"
+},
+"audio/s2811.mp3": {
+"text": "This breakthrough could save millions of lives.",
+"voice": "f"
+},
+"audio/w-peer.mp3": {
+"text": "Peer",
+"voice": "w"
+},
+"audio/w-ensure.mp3": {
+"text": "ensure",
+"voice": "w"
+},
+"audio/w-scientific.mp3": {
+"text": "scientific",
+"voice": "w"
+},
+"audio/s2812.mp3": {
+"text": "Peer review helps ensure scientific quality.",
+"voice": "m"
+},
+"audio/w-twenty-eight.mp3": {
+"text": "twenty-eight",
+"voice": "w"
+},
+"audio/w-alexander.mp3": {
+"text": "Alexander",
+"voice": "w"
+},
+"audio/w-fleming.mp3": {
+"text": "Fleming",
+"voice": "w"
+},
+"audio/w-noticed.mp3": {
+"text": "noticed",
+"voice": "w"
+},
+"audio/w-lab.mp3": {
+"text": "lab",
+"voice": "w"
+},
+"audio/s2813.mp3": {
+"text": "In nineteen twenty-eight, Alexander Fleming noticed something strange in his lab.",
+"voice": "f"
+},
+"audio/w-mold.mp3": {
+"text": "mold",
+"voice": "w"
+},
+"audio/w-killed.mp3": {
+"text": "killed",
+"voice": "w"
+},
+"audio/w-bacteria.mp3": {
+"text": "bacteria",
+"voice": "w"
+},
+"audio/s2814.mp3": {
+"text": "A mold had killed the bacteria in one of his dishes.",
+"voice": "m"
+},
+"audio/w-produced.mp3": {
+"text": "produced",
+"voice": "w"
+},
+"audio/w-powerful.mp3": {
+"text": "powerful",
+"voice": "w"
+},
+"audio/w-substance.mp3": {
+"text": "substance",
+"voice": "w"
+},
+"audio/s2815.mp3": {
+"text": "He realized that the mold produced a powerful substance.",
+"voice": "f"
+},
+"audio/w-accidental.mp3": {
+"text": "accidental",
+"voice": "w"
+},
+"audio/w-discovery.mp3": {
+"text": "discovery",
+"voice": "w"
+},
+"audio/w-penicillin.mp3": {
+"text": "penicillin",
+"voice": "w"
+},
+"audio/s2816.mp3": {
+"text": "This accidental discovery led to penicillin.",
+"voice": "m"
+},
+"audio/w-became.mp3": {
+"text": "became",
+"voice": "w"
+},
+"audio/w-world-s.mp3": {
+"text": "world's",
+"voice": "w"
+},
+"audio/w-antibiotic.mp3": {
+"text": "antibiotic",
+"voice": "w"
+},
+"audio/s2817.mp3": {
+"text": "Penicillin became the world's first widely used antibiotic.",
+"voice": "f"
+},
+"audio/s2818.mp3": {
+"text": "It has saved millions of lives since then.",
+"voice": "m"
+},
+"audio/s2819.mp3": {
+"text": "The results were published in a leading journal.",
+"voice": "f"
+},
+"audio/w-tested.mp3": {
+"text": "tested",
+"voice": "w"
+},
+"audio/w-drug.mp3": {
+"text": "drug",
+"voice": "w"
+},
+"audio/w-patients.mp3": {
+"text": "patients",
+"voice": "w"
+},
+"audio/s2820.mp3": {
+"text": "Researchers tested the drug on a thousand patients.",
+"voice": "m"
+},
+"audio/w-proven.mp3": {
+"text": "proven",
+"voice": "w"
+},
+"audio/s2821.mp3": {
+"text": "The theory has not yet been proven.",
+"voice": "f"
+},
+"audio/w-space.mp3": {
+"text": "Space",
+"voice": "w"
+},
+"audio/w-exploration.mp3": {
+"text": "exploration",
+"voice": "w"
+},
+"audio/w-planet.mp3": {
+"text": "planet",
+"voice": "w"
+},
+"audio/s2822.mp3": {
+"text": "Space exploration helps us understand our planet.",
+"voice": "m"
+},
+"audio/w-clearly.mp3": {
+"text": "clearly",
+"voice": "w"
+},
+"audio/s2823.mp3": {
+"text": "The data clearly support the hypothesis.",
+"voice": "f"
+},
+"audio/w-long-term.mp3": {
+"text": "long-term",
+"voice": "w"
+},
+"audio/s2824.mp3": {
+"text": "Scientists are still studying the long-term effects.",
+"voice": "m"
+},
+"audio/w-forever.mp3": {
+"text": "forever",
+"voice": "w"
+},
+"audio/s2825.mp3": {
+"text": "This discovery could change medicine forever.",
+"voice": "f"
+},
+"audio/w-signing.mp3": {
+"text": "signing",
+"voice": "w"
+},
+"audio/s2826.mp3": {
+"text": "Please read the contract carefully before signing.",
+"voice": "m"
+},
+"audio/w-terminate.mp3": {
+"text": "terminate",
+"voice": "w"
+},
+"audio/s2827.mp3": {
+"text": "Either party may terminate the agreement with notice.",
+"voice": "f"
+},
+"audio/w-tenant.mp3": {
+"text": "tenant",
+"voice": "w"
+},
+"audio/w-responsible.mp3": {
+"text": "responsible",
+"voice": "w"
+},
+"audio/w-minor.mp3": {
+"text": "minor",
+"voice": "w"
+},
+"audio/w-repairs.mp3": {
+"text": "repairs",
+"voice": "w"
+},
+"audio/s2828.mp3": {
+"text": "The tenant is responsible for minor repairs.",
+"voice": "m"
+},
+"audio/w-guilty.mp3": {
+"text": "guilty",
+"voice": "w"
+},
+"audio/w-fraud.mp3": {
+"text": "fraud",
+"voice": "w"
+},
+"audio/s2829.mp3": {
+"text": "He was found guilty of fraud.",
+"voice": "f"
+},
+"audio/w-case.mp3": {
+"text": "case",
+"voice": "w"
+},
+"audio/w-settled.mp3": {
+"text": "settled",
+"voice": "w"
+},
+"audio/s2830.mp3": {
+"text": "The case was settled out of court.",
+"voice": "m"
+},
+"audio/w-silent.mp3": {
+"text": "silent",
+"voice": "w"
+},
+"audio/s2831.mp3": {
+"text": "You have the right to remain silent.",
+"voice": "f"
+},
+"audio/w-sued.mp3": {
+"text": "sued",
+"voice": "w"
+},
+"audio/w-breach.mp3": {
+"text": "breach",
+"voice": "w"
+},
+"audio/s2832.mp3": {
+"text": "The company was sued for breach of contract.",
+"voice": "m"
+},
+"audio/w-expires.mp3": {
+"text": "expires",
+"voice": "w"
+},
+"audio/s2833.mp3": {
+"text": "The lease expires at the end of June.",
+"voice": "f"
+},
+"audio/s2834.mp3": {
+"text": "Both parties must agree to any changes.",
+"voice": "m"
+},
+"audio/w-jury.mp3": {
+"text": "jury",
+"voice": "w"
+},
+"audio/w-verdict.mp3": {
+"text": "verdict",
+"voice": "w"
+},
+"audio/s2835.mp3": {
+"text": "The jury reached a verdict after three days.",
+"voice": "f"
+},
+"audio/w-hired.mp3": {
+"text": "hired",
+"voice": "w"
+},
+"audio/s2836.mp3": {
+"text": "She hired a lawyer to review the terms.",
+"voice": "m"
+},
+"audio/w-ignorance.mp3": {
+"text": "Ignorance",
+"voice": "w"
+},
+"audio/s2837.mp3": {
+"text": "Ignorance of the law is no excuse.",
+"voice": "f"
+},
+"audio/w-renting.mp3": {
+"text": "renting",
+"voice": "w"
+},
+"audio/s2838.mp3": {
+"text": "Before renting an apartment in the U.S., you usually sign a lease.",
+"voice": "m"
+},
+"audio/w-explains.mp3": {
+"text": "explains",
+"voice": "w"
+},
+"audio/s2839.mp3": {
+"text": "The lease explains the rent, the deposit, and the rules.",
+"voice": "f"
+},
+"audio/w-especially.mp3": {
+"text": "especially",
+"voice": "w"
+},
+"audio/w-part.mp3": {
+"text": "part",
+"voice": "w"
+},
+"audio/s2840.mp3": {
+"text": "Read it carefully, especially the part about breaking the lease.",
+"voice": "m"
+},
+"audio/w-landlords.mp3": {
+"text": "Landlords",
+"voice": "w"
+},
+"audio/w-return.mp3": {
+"text": "return",
+"voice": "w"
+},
+"audio/w-certain.mp3": {
+"text": "certain",
+"voice": "w"
+},
+"audio/s2841.mp3": {
+"text": "Landlords must return your deposit within a certain time.",
+"voice": "f"
+},
+"audio/w-claims.mp3": {
+"text": "claims",
+"voice": "w"
+},
+"audio/s2842.mp3": {
+"text": "If they don't, you may take them to small claims court.",
+"voice": "m"
+},
+"audio/w-doubt.mp3": {
+"text": "doubt",
+"voice": "w"
+},
+"audio/s2843.mp3": {
+"text": "When in doubt, it's wise to ask a lawyer.",
+"voice": "f"
+},
+"audio/s2844.mp3": {
+"text": "The contract expires at the end of the year.",
+"voice": "m"
+},
+"audio/s2845.mp3": {
+"text": "The landlord must give thirty days' notice.",
+"voice": "f"
+},
+"audio/s2846.mp3": {
+"text": "He signed the agreement without reading it.",
+"voice": "m"
+},
+"audio/w-clause.mp3": {
+"text": "clause",
+"voice": "w"
+},
+"audio/s2847.mp3": {
+"text": "This clause protects both sides.",
+"voice": "f"
+},
+"audio/s2848.mp3": {
+"text": "Breaking the contract could be very expensive.",
+"voice": "m"
+},
+"audio/s2849.mp3": {
+"text": "I'd like a lawyer to review this first.",
+"voice": "f"
+},
+"audio/w-dismissed.mp3": {
+"text": "dismissed",
+"voice": "w"
+},
+"audio/s2850.mp3": {
+"text": "The judge dismissed the case.",
+"voice": "m"
+},
+"audio/w-inflation.mp3": {
+"text": "Inflation",
+"voice": "w"
+},
+"audio/w-highest.mp3": {
+"text": "highest",
+"voice": "w"
+},
+"audio/w-level.mp3": {
+"text": "level",
+"voice": "w"
+},
+"audio/w-decades.mp3": {
+"text": "decades",
+"voice": "w"
+},
+"audio/s2851.mp3": {
+"text": "Inflation has reached its highest level in decades.",
+"voice": "f"
+},
+"audio/w-raised.mp3": {
+"text": "raised",
+"voice": "w"
+},
+"audio/w-interest.mp3": {
+"text": "interest",
+"voice": "w"
+},
+"audio/w-rates.mp3": {
+"text": "rates",
+"voice": "w"
+},
+"audio/s2852.mp3": {
+"text": "The central bank raised interest rates again.",
+"voice": "m"
+},
+"audio/w-stock.mp3": {
+"text": "stock",
+"voice": "w"
+},
+"audio/w-sharply.mp3": {
+"text": "sharply",
+"voice": "w"
+},
+"audio/s2853.mp3": {
+"text": "The stock market fell sharply on Monday.",
+"voice": "f"
+},
+"audio/w-consumer.mp3": {
+"text": "Consumer",
+"voice": "w"
+},
+"audio/w-slowing.mp3": {
+"text": "slowing",
+"voice": "w"
+},
+"audio/s2854.mp3": {
+"text": "Consumer spending is slowing down.",
+"voice": "m"
+},
+"audio/w-economists.mp3": {
+"text": "economists",
+"voice": "w"
+},
+"audio/w-predict.mp3": {
+"text": "predict",
+"voice": "w"
+},
+"audio/w-recession.mp3": {
+"text": "recession",
+"voice": "w"
+},
+"audio/s2855.mp3": {
+"text": "Many economists predict a recession next year.",
+"voice": "f"
+},
+"audio/s2856.mp3": {
+"text": "The unemployment rate dropped to four percent.",
+"voice": "m"
+},
+"audio/w-housing.mp3": {
+"text": "Housing",
+"voice": "w"
+},
+"audio/w-skyrocketed.mp3": {
+"text": "skyrocketed",
+"voice": "w"
+},
+"audio/w-recent.mp3": {
+"text": "recent",
+"voice": "w"
+},
+"audio/s2857.mp3": {
+"text": "Housing prices have skyrocketed in recent years.",
+"voice": "f"
+},
+"audio/w-company-s.mp3": {
+"text": "company's",
+"voice": "w"
+},
+"audio/w-profits.mp3": {
+"text": "profits",
+"voice": "w"
+},
+"audio/w-exceeded.mp3": {
+"text": "exceeded",
+"voice": "w"
+},
+"audio/s2858.mp3": {
+"text": "The company's profits exceeded expectations.",
+"voice": "m"
+},
+"audio/w-businesses.mp3": {
+"text": "businesses",
+"voice": "w"
+},
+"audio/w-struggling.mp3": {
+"text": "struggling",
+"voice": "w"
+},
+"audio/w-survive.mp3": {
+"text": "survive",
+"voice": "w"
+},
+"audio/s2859.mp3": {
+"text": "Small businesses are struggling to survive.",
+"voice": "f"
+},
+"audio/w-supply.mp3": {
+"text": "Supply",
+"voice": "w"
+},
+"audio/w-determine.mp3": {
+"text": "determine",
+"voice": "w"
+},
+"audio/s2860.mp3": {
+"text": "Supply and demand determine the price.",
+"voice": "m"
+},
+"audio/w-investors.mp3": {
+"text": "Investors",
+"voice": "w"
+},
+"audio/w-debt.mp3": {
+"text": "debt",
+"voice": "w"
+},
+"audio/s2861.mp3": {
+"text": "Investors are worried about rising debt.",
+"voice": "f"
+},
+"audio/w-diversify.mp3": {
+"text": "diversify",
+"voice": "w"
+},
+"audio/w-investments.mp3": {
+"text": "investments",
+"voice": "w"
+},
+"audio/s2862.mp3": {
+"text": "It's wise to diversify your investments.",
+"voice": "m"
+},
+"audio/s2863.mp3": {
+"text": "Over the past few years, prices have risen almost everywhere.",
+"voice": "f"
+},
+"audio/s2864.mp3": {
+"text": "To fight inflation, the central bank raised interest rates.",
+"voice": "m"
+},
+"audio/w-borrowing.mp3": {
+"text": "borrowing",
+"voice": "w"
+},
+"audio/s2865.mp3": {
+"text": "As a result, borrowing money became more expensive.",
+"voice": "f"
+},
+"audio/w-fewer.mp3": {
+"text": "Fewer",
+"voice": "w"
+},
+"audio/w-afford.mp3": {
+"text": "afford",
+"voice": "w"
+},
+"audio/s2866.mp3": {
+"text": "Fewer people could afford to buy a home.",
+"voice": "m"
+},
+"audio/s2867.mp3": {
+"text": "Some economists warned that a recession might follow.",
+"voice": "f"
+},
+"audio/w-remained.mp3": {
+"text": "remained",
+"voice": "w"
+},
+"audio/s2868.mp3": {
+"text": "So far, however, the job market has remained strong.",
+"voice": "m"
+},
+"audio/w-slowed.mp3": {
+"text": "slowed",
+"voice": "w"
+},
+"audio/s2869.mp3": {
+"text": "Consumer spending has slowed down.",
+"voice": "f"
+},
+"audio/w-rose.mp3": {
+"text": "rose",
+"voice": "w"
+},
+"audio/s2870.mp3": {
+"text": "The company's profits rose by ten percent.",
+"voice": "m"
+},
+"audio/s2871.mp3": {
+"text": "Gas prices have gone through the roof.",
+"voice": "f"
+},
+"audio/s2872.mp3": {
+"text": "Many small businesses are struggling.",
+"voice": "m"
+},
+"audio/w-cooling.mp3": {
+"text": "cooling",
+"voice": "w"
+},
+"audio/s2873.mp3": {
+"text": "The housing market is cooling off.",
+"voice": "f"
+},
+"audio/s2874.mp3": {
+"text": "Investors are worried about a recession.",
+"voice": "m"
+},
+"audio/w-record.mp3": {
+"text": "record",
+"voice": "w"
+},
+"audio/s2875.mp3": {
+"text": "Unemployment is at a record low.",
+"voice": "f"
+},
+"audio/w-exhibition.mp3": {
+"text": "exhibition",
+"voice": "w"
+},
+"audio/w-features.mp3": {
+"text": "features",
+"voice": "w"
+},
+"audio/w-artists.mp3": {
+"text": "artists",
+"voice": "w"
+},
+"audio/s2876.mp3": {
+"text": "The exhibition features works by local artists.",
+"voice": "m"
+},
+"audio/w-novel.mp3": {
+"text": "novel",
+"voice": "w"
+},
+"audio/w-rave.mp3": {
+"text": "rave",
+"voice": "w"
+},
+"audio/w-reviews.mp3": {
+"text": "reviews",
+"voice": "w"
+},
+"audio/s2877.mp3": {
+"text": "Her latest novel has received rave reviews.",
+"voice": "f"
+},
+"audio/w-film.mp3": {
+"text": "film",
+"voice": "w"
+},
+"audio/w-explores.mp3": {
+"text": "explores",
+"voice": "w"
+},
+"audio/w-themes.mp3": {
+"text": "themes",
+"voice": "w"
+},
+"audio/w-identity.mp3": {
+"text": "identity",
+"voice": "w"
+},
+"audio/s2878.mp3": {
+"text": "The film explores themes of loss and identity.",
+"voice": "m"
+},
+"audio/w-jazz.mp3": {
+"text": "Jazz",
+"voice": "w"
+},
+"audio/s2879.mp3": {
+"text": "Jazz was born in New Orleans.",
+"voice": "f"
+},
+"audio/s2880.mp3": {
+"text": "The museum is free on the first Sunday of each month.",
+"voice": "m"
+},
+"audio/w-paintings.mp3": {
+"text": "paintings",
+"voice": "w"
+},
+"audio/w-colors.mp3": {
+"text": "colors",
+"voice": "w"
+},
+"audio/s2881.mp3": {
+"text": "His paintings are full of bright colors.",
+"voice": "f"
+},
+"audio/w-broadway.mp3": {
+"text": "Broadway",
+"voice": "w"
+},
+"audio/s2882.mp3": {
+"text": "The play was a huge success on Broadway.",
+"voice": "m"
+},
+"audio/w-art.mp3": {
+"text": "art",
+"voice": "w"
+},
+"audio/w-city-s.mp3": {
+"text": "city's",
+"voice": "w"
+},
+"audio/s2883.mp3": {
+"text": "Street art has become part of the city's identity.",
+"voice": "f"
+},
+"audio/w-orchestra.mp3": {
+"text": "orchestra",
+"voice": "w"
+},
+"audio/w-performed.mp3": {
+"text": "performed",
+"voice": "w"
+},
+"audio/w-symphony.mp3": {
+"text": "symphony",
+"voice": "w"
+},
+"audio/s2884.mp3": {
+"text": "The orchestra performed a moving symphony.",
+"voice": "m"
+},
+"audio/w-praised.mp3": {
+"text": "praised",
+"voice": "w"
+},
+"audio/w-director-s.mp3": {
+"text": "director's",
+"voice": "w"
+},
+"audio/w-bold.mp3": {
+"text": "bold",
+"voice": "w"
+},
+"audio/w-vision.mp3": {
+"text": "vision",
+"voice": "w"
+},
+"audio/s2885.mp3": {
+"text": "Critics praised the director's bold vision.",
+"voice": "f"
+},
+"audio/w-poetry.mp3": {
+"text": "Poetry",
+"voice": "w"
+},
+"audio/w-express.mp3": {
+"text": "express",
+"voice": "w"
+},
+"audio/w-ordinary.mp3": {
+"text": "ordinary",
+"voice": "w"
+},
+"audio/w-cannot.mp3": {
+"text": "cannot",
+"voice": "w"
+},
+"audio/s2886.mp3": {
+"text": "Poetry can express what ordinary words cannot.",
+"voice": "m"
+},
+"audio/w-reflects.mp3": {
+"text": "reflects",
+"voice": "w"
+},
+"audio/w-society.mp3": {
+"text": "society",
+"voice": "w"
+},
+"audio/w-creates.mp3": {
+"text": "creates",
+"voice": "w"
+},
+"audio/s2887.mp3": {
+"text": "Art reflects the society that creates it.",
+"voice": "f"
+},
+"audio/w-metropolitan.mp3": {
+"text": "Metropolitan",
+"voice": "w"
+},
+"audio/s2888.mp3": {
+"text": "Last weekend I visited the Metropolitan Museum of Art in New York.",
+"voice": "m"
+},
+"audio/w-museums.mp3": {
+"text": "museums",
+"voice": "w"
+},
+"audio/s2889.mp3": {
+"text": "It's one of the largest art museums in the world.",
+"voice": "f"
+},
+"audio/w-section.mp3": {
+"text": "section",
+"voice": "w"
+},
+"audio/s2890.mp3": {
+"text": "I spent hours in the Persian art section.",
+"voice": "m"
+},
+"audio/w-ancient.mp3": {
+"text": "ancient",
+"voice": "w"
+},
+"audio/w-carpets.mp3": {
+"text": "carpets",
+"voice": "w"
+},
+"audio/w-tiles.mp3": {
+"text": "tiles",
+"voice": "w"
+},
+"audio/w-breathtaking.mp3": {
+"text": "breathtaking",
+"voice": "w"
+},
+"audio/s2891.mp3": {
+"text": "The ancient carpets and tiles were breathtaking.",
+"voice": "f"
+},
+"audio/w-homesick.mp3": {
+"text": "homesick",
+"voice": "w"
+},
+"audio/s2892.mp3": {
+"text": "I felt proud and a little homesick at the same time.",
+"voice": "m"
+},
+"audio/w-connect.mp3": {
+"text": "connect",
+"voice": "w"
+},
+"audio/w-cultures.mp3": {
+"text": "cultures",
+"voice": "w"
+},
+"audio/s2893.mp3": {
+"text": "Art really can connect people across cultures.",
+"voice": "f"
+},
+"audio/w-hosting.mp3": {
+"text": "hosting",
+"voice": "w"
+},
+"audio/s2894.mp3": {
+"text": "The museum is hosting a new exhibition.",
+"voice": "m"
+},
+"audio/s2895.mp3": {
+"text": "The concert was sold out in minutes.",
+"voice": "f"
+},
+"audio/s2896.mp3": {
+"text": "Her paintings are full of bright colors.",
+"voice": "m"
+},
+"audio/w-ovation.mp3": {
+"text": "ovation",
+"voice": "w"
+},
+"audio/s2897.mp3": {
+"text": "The play received a standing ovation.",
+"voice": "f"
+},
+"audio/s2898.mp3": {
+"text": "This novel was turned into a movie.",
+"voice": "m"
+},
+"audio/s2899.mp3": {
+"text": "Art can help us see the world differently.",
+"voice": "f"
+},
+"audio/w-festival.mp3": {
+"text": "festival",
+"voice": "w"
+},
+"audio/w-celebrates.mp3": {
+"text": "celebrates",
+"voice": "w"
+},
+"audio/s2900.mp3": {
+"text": "The festival celebrates local music and food.",
+"voice": "m"
+},
+"audio/w-inquire.mp3": {
+"text": "inquire",
+"voice": "w"
+},
+"audio/w-advertised.mp3": {
+"text": "advertised",
+"voice": "w"
+},
+"audio/s2901.mp3": {
+"text": "I am writing to inquire about the position advertised online.",
+"voice": "f"
+},
+"audio/s2902.mp3": {
+"text": "I am writing to complain about the service I received.",
+"voice": "m"
+},
+"audio/w-refund.mp3": {
+"text": "refund",
+"voice": "w"
+},
+"audio/s2903.mp3": {
+"text": "I would like to request a full refund.",
+"voice": "f"
+},
+"audio/s2904.mp3": {
+"text": "Please find my resume attached.",
+"voice": "m"
+},
+"audio/w-appreciate.mp3": {
+"text": "appreciate",
+"voice": "w"
+},
+"audio/s2905.mp3": {
+"text": "I would appreciate it if you could reply by Friday.",
+"voice": "f"
+},
+"audio/w-earliest.mp3": {
+"text": "earliest",
+"voice": "w"
+},
+"audio/w-convenience.mp3": {
+"text": "convenience",
+"voice": "w"
+},
+"audio/s2906.mp3": {
+"text": "I look forward to your reply at your earliest convenience.",
+"voice": "m"
+},
+"audio/s2907.mp3": {
+"text": "Thank you for your prompt attention to this matter.",
+"voice": "f"
+},
+"audio/s2908.mp3": {
+"text": "Please do not hesitate to contact me.",
+"voice": "m"
+},
+"audio/s2909.mp3": {
+"text": "I am available for an interview at your convenience.",
+"voice": "f"
+},
+"audio/w-unfortunately.mp3": {
+"text": "Unfortunately",
+"voice": "w"
+},
+"audio/w-product.mp3": {
+"text": "product",
+"voice": "w"
+},
+"audio/s2910.mp3": {
+"text": "Unfortunately, the product arrived damaged.",
+"voice": "m"
+},
+"audio/w-resolved.mp3": {
+"text": "resolved",
+"voice": "w"
+},
+"audio/s2911.mp3": {
+"text": "I trust this matter will be resolved quickly.",
+"voice": "f"
+},
+"audio/w-receive.mp3": {
+"text": "receive",
+"voice": "w"
+},
+"audio/w-positive.mp3": {
+"text": "positive",
+"voice": "w"
+},
+"audio/w-response.mp3": {
+"text": "response",
+"voice": "w"
+},
+"audio/s2912.mp3": {
+"text": "I hope to receive a positive response.",
+"voice": "m"
+},
+"audio/w-johnson.mp3": {
+"text": "Johnson",
+"voice": "w"
+},
+"audio/s2913.mp3": {
+"text": "Dear Mr. Johnson,",
+"voice": "f"
+},
+"audio/s2914.mp3": {
+"text": "I am writing to apply for the position of software engineer.",
+"voice": "m"
+},
+"audio/w-web.mp3": {
+"text": "web",
+"voice": "w"
+},
+"audio/w-development.mp3": {
+"text": "development",
+"voice": "w"
+},
+"audio/s2915.mp3": {
+"text": "I have five years of experience in web development.",
+"voice": "f"
+},
+"audio/w-references.mp3": {
+"text": "references",
+"voice": "w"
+},
+"audio/s2916.mp3": {
+"text": "Please find my resume and references attached.",
+"voice": "m"
+},
+"audio/w-opportunity.mp3": {
+"text": "opportunity",
+"voice": "w"
+},
+"audio/w-discuss.mp3": {
+"text": "discuss",
+"voice": "w"
+},
+"audio/s2917.mp3": {
+"text": "I would welcome the opportunity to discuss my application.",
+"voice": "f"
+},
+"audio/w-sincerely.mp3": {
+"text": "Sincerely",
+"voice": "w"
+},
+"audio/w-carter.mp3": {
+"text": "Carter",
+"voice": "w"
+},
+"audio/s2918.mp3": {
+"text": "I look forward to hearing from you. Sincerely, Daniel Carter",
+"voice": "m"
+},
+"audio/w-sir.mp3": {
+"text": "Sir",
+"voice": "w"
+},
+"audio/w-madam.mp3": {
+"text": "Madam",
+"voice": "w"
+},
+"audio/s2919.mp3": {
+"text": "Dear Sir or Madam,",
+"voice": "f"
+},
+"audio/s2920.mp3": {
+"text": "I am writing to apply for the position of sales manager.",
+"voice": "m"
+},
+"audio/s2921.mp3": {
+"text": "I would appreciate it if you could reply at your earliest convenience.",
+"voice": "f"
+},
+"audio/s2922.mp3": {
+"text": "I look forward to your reply.",
+"voice": "m"
+},
+"audio/w-consideration.mp3": {
+"text": "consideration",
+"voice": "w"
+},
+"audio/s2923.mp3": {
+"text": "Thank you for your time and consideration.",
+"voice": "f"
+},
+"audio/s2924.mp3": {
+"text": "I am available for an interview at any time.",
+"voice": "m"
+},
+"audio/w-yours.mp3": {
+"text": "Yours",
+"voice": "w"
+},
+"audio/s2925.mp3": {
+"text": "Yours sincerely,",
+"voice": "f"
+},
+"audio/w-nonetheless.mp3": {
+"text": "Nonetheless",
+"voice": "w"
+},
+"audio/w-ahead.mp3": {
+"text": "ahead",
+"voice": "w"
+},
+"audio/s2926.mp3": {
+"text": "Nonetheless, we decided to go ahead with the plan.",
+"voice": "m"
+},
+"audio/w-whereas.mp3": {
+"text": "whereas",
+"voice": "w"
+},
+"audio/w-succeeded.mp3": {
+"text": "succeeded",
+"voice": "w"
+},
+"audio/s2927.mp3": {
+"text": "The project failed, whereas the previous one succeeded.",
+"voice": "f"
+},
+"audio/w-provided.mp3": {
+"text": "Provided",
+"voice": "w"
+},
+"audio/s2928.mp3": {
+"text": "Provided that it doesn't rain, we'll eat outside.",
+"voice": "m"
+},
+"audio/s2929.mp3": {
+"text": "Bring an umbrella in case it rains.",
+"voice": "f"
+},
+"audio/w-consequently.mp3": {
+"text": "Consequently",
+"voice": "w"
+},
+"audio/s2930.mp3": {
+"text": "Consequently, the flight was canceled.",
+"voice": "m"
+},
+"audio/w-moreover.mp3": {
+"text": "Moreover",
+"voice": "w"
+},
+"audio/s2931.mp3": {
+"text": "Moreover, the price is very reasonable.",
+"voice": "f"
+},
+"audio/s2932.mp3": {
+"text": "As long as you're honest, I'll support you.",
+"voice": "m"
+},
+"audio/s2933.mp3": {
+"text": "Even if I had the money, I wouldn't buy it.",
+"voice": "f"
+},
+"audio/s2934.mp3": {
+"text": "Given the circumstances, you did very well.",
+"voice": "m"
+},
+"audio/w-countryside.mp3": {
+"text": "countryside",
+"voice": "w"
+},
+"audio/s2935.mp3": {
+"text": "Whereas some love the city, others prefer the countryside.",
+"voice": "f"
+},
+"audio/w-thus.mp3": {
+"text": "Thus",
+"voice": "w"
+},
+"audio/w-correct.mp3": {
+"text": "correct",
+"voice": "w"
+},
+"audio/s2936.mp3": {
+"text": "Thus, the theory was proven correct.",
+"voice": "m"
+},
+"audio/w-granted.mp3": {
+"text": "Granted",
+"voice": "w"
+},
+"audio/w-perfect.mp3": {
+"text": "perfect",
+"voice": "w"
+},
+"audio/s2937.mp3": {
+"text": "Granted, it's not perfect, but it works.",
+"voice": "f"
+},
+"audio/s2938.mp3": {
+"text": "Many people dream of moving to the countryside.",
+"voice": "m"
+},
+"audio/w-admittedly.mp3": {
+"text": "Admittedly",
+"voice": "w"
+},
+"audio/s2939.mp3": {
+"text": "Admittedly, life there is quieter and cheaper.",
+"voice": "f"
+},
+"audio/w-cleaner.mp3": {
+"text": "cleaner",
+"voice": "w"
+},
+"audio/s2940.mp3": {
+"text": "Moreover, the air is cleaner and the people are friendly.",
+"voice": "m"
+},
+"audio/w-services.mp3": {
+"text": "services",
+"voice": "w"
+},
+"audio/s2941.mp3": {
+"text": "Nonetheless, jobs and services can be hard to find.",
+"voice": "f"
+},
+"audio/s2942.mp3": {
+"text": "Provided that you can work remotely, it might be ideal.",
+"voice": "m"
+},
+"audio/w-otherwise.mp3": {
+"text": "Otherwise",
+"voice": "w"
+},
+"audio/s2943.mp3": {
+"text": "Otherwise, you might end up feeling isolated.",
+"voice": "f"
+},
+"audio/w-furthermore.mp3": {
+"text": "Furthermore",
+"voice": "w"
+},
+"audio/s2944.mp3": {
+"text": "Furthermore, the costs are lower than expected.",
+"voice": "m"
+},
+"audio/s2945.mp3": {
+"text": "As long as you're careful, it's safe.",
+"voice": "f"
+},
+"audio/w-addition.mp3": {
+"text": "addition",
+"voice": "w"
+},
+"audio/w-volunteers.mp3": {
+"text": "volunteers",
+"voice": "w"
+},
+"audio/s2946.mp3": {
+"text": "In addition to his job, he volunteers on weekends.",
+"voice": "m"
+},
+"audio/w-act.mp3": {
+"text": "act",
+"voice": "w"
+},
+"audio/s2947.mp3": {
+"text": "Unless we act now, it will be too late.",
+"voice": "f"
+},
+"audio/s2948.mp3": {
+"text": "Consequently, the project was delayed.",
+"voice": "m"
+},
+"audio/w-contrary.mp3": {
+"text": "contrary",
+"voice": "w"
+},
+"audio/s2949.mp3": {
+"text": "On the contrary, I found it very useful.",
+"voice": "f"
+},
+"audio/s2950.mp3": {
+"text": "Given the circumstances, we did our best.",
+"voice": "m"
+},
+"audio/s2951.mp3": {
+"text": "By the time you get this, I'll have left.",
+"voice": "f"
+},
+"audio/w-bound.mp3": {
+"text": "bound",
+"voice": "w"
+},
+"audio/w-remind.mp3": {
+"text": "remind",
+"voice": "w"
+},
+"audio/s2952.mp3": {
+"text": "I'm bound to forget if you don't remind me.",
+"voice": "m"
+},
+"audio/w-it-ll.mp3": {
+"text": "it'll",
+"voice": "w"
+},
+"audio/s2953.mp3": {
+"text": "There's a good chance it'll snow tonight.",
+"voice": "f"
+},
+"audio/w-unlikely.mp3": {
+"text": "unlikely",
+"voice": "w"
+},
+"audio/s2954.mp3": {
+"text": "She's unlikely to accept the offer.",
+"voice": "m"
+},
+"audio/s2955.mp3": {
+"text": "The package should arrive any day now.",
+"voice": "f"
+},
+"audio/s2956.mp3": {
+"text": "I'll have been living here for ten years in May.",
+"voice": "m"
+},
+"audio/w-likelihood.mp3": {
+"text": "likelihood",
+"voice": "w"
+},
+"audio/s2957.mp3": {
+"text": "In all likelihood, the meeting will be canceled.",
+"voice": "f"
+},
+"audio/s2958.mp3": {
+"text": "We were about to leave when you called.",
+"voice": "m"
+},
+"audio/s2959.mp3": {
+"text": "The train is due to arrive at noon.",
+"voice": "f"
+},
+"audio/s2960.mp3": {
+"text": "There's no way he'll finish on time.",
+"voice": "m"
+},
+"audio/w-rise.mp3": {
+"text": "rise",
+"voice": "w"
+},
+"audio/s2961.mp3": {
+"text": "It's only a matter of time before prices rise.",
+"voice": "f"
+},
+"audio/s2962.mp3": {
+"text": "For the time being, let's keep it a secret.",
+"voice": "m"
+},
+"audio/s2963.mp3": {
+"text": "By this time next year, I'll have finished my degree.",
+"voice": "f"
+},
+"audio/s2964.mp3": {
+"text": "There's a good chance I'll move to California.",
+"voice": "m"
+},
+"audio/s2965.mp3": {
+"text": "I'm bound to miss my friends here.",
+"voice": "f"
+},
+"audio/s2966.mp3": {
+"text": "But it's unlikely that I'll stay in this town forever.",
+"voice": "m"
+},
+"audio/w-focusing.mp3": {
+"text": "focusing",
+"voice": "w"
+},
+"audio/s2967.mp3": {
+"text": "For the time being, I'm focusing on my exams.",
+"voice": "f"
+},
+"audio/s2968.mp3": {
+"text": "After that, it's only a matter of time.",
+"voice": "m"
+},
+"audio/w-verge.mp3": {
+"text": "verge",
+"voice": "w"
+},
+"audio/s2969.mp3": {
+"text": "I'm on the verge of quitting.",
+"voice": "f"
+},
+"audio/w-likely.mp3": {
+"text": "likely",
+"voice": "w"
+},
+"audio/s2970.mp3": {
+"text": "She's likely to win the election.",
+"voice": "m"
+},
+"audio/s2971.mp3": {
+"text": "It's highly unlikely that he'll come.",
+"voice": "f"
+},
+"audio/s2972.mp3": {
+"text": "I was about to call you.",
+"voice": "m"
+},
+"audio/s2973.mp3": {
+"text": "We're bound to see each other again.",
+"voice": "f"
+},
+"audio/s2974.mp3": {
+"text": "By the end of the week, the work will be done.",
+"voice": "m"
+},
+"audio/w-chances.mp3": {
+"text": "Chances",
+"voice": "w"
+},
+"audio/s2975.mp3": {
+"text": "Chances are he's already gone home.",
+"voice": "f"
+},
+"audio/w-listens.mp3": {
+"text": "listens",
+"voice": "w"
+},
+"audio/s2976.mp3": {
+"text": "The real problem is that nobody listens.",
+"voice": "m"
+},
+"audio/s2977.mp3": {
+"text": "The point is, we're running out of time.",
+"voice": "f"
+},
+"audio/w-treat.mp3": {
+"text": "treat",
+"voice": "w"
+},
+"audio/s2978.mp3": {
+"text": "What really matters is how you treat people.",
+"voice": "m"
+},
+"audio/s2979.mp3": {
+"text": "Above all, be honest with yourself.",
+"voice": "f"
+},
+"audio/s2980.mp3": {
+"text": "I can't stress this enough.",
+"voice": "m"
+},
+"audio/w-perfectly.mp3": {
+"text": "perfectly",
+"voice": "w"
+},
+"audio/s2981.mp3": {
+"text": "Let me make one thing perfectly clear.",
+"voice": "f"
+},
+"audio/w-calm.mp3": {
+"text": "calm",
+"voice": "w"
+},
+"audio/s2982.mp3": {
+"text": "The key thing to remember is to stay calm.",
+"voice": "m"
+},
+"audio/w-learned.mp3": {
+"text": "learned",
+"voice": "w"
+},
+"audio/s2983.mp3": {
+"text": "If there's one thing I've learned, it's patience.",
+"voice": "f"
+},
+"audio/s2984.mp3": {
+"text": "This is by far the best option.",
+"voice": "m"
+},
+"audio/w-precisely.mp3": {
+"text": "precisely",
+"voice": "w"
+},
+"audio/w-attitude.mp3": {
+"text": "attitude",
+"voice": "w"
+},
+"audio/w-worries.mp3": {
+"text": "worries",
+"voice": "w"
+},
+"audio/s2985.mp3": {
+"text": "It's precisely this attitude that worries me.",
+"voice": "f"
+},
+"audio/w-importantly.mp3": {
+"text": "importantly",
+"voice": "w"
+},
+"audio/s2986.mp3": {
+"text": "Most importantly, nobody got hurt.",
+"voice": "m"
+},
+"audio/w-bottom.mp3": {
+"text": "bottom",
+"voice": "w"
+},
+"audio/s2987.mp3": {
+"text": "The bottom line is that we need more money.",
+"voice": "f"
+},
+"audio/s2988.mp3": {
+"text": "People often ask me what the secret to learning English is.",
+"voice": "m"
+},
+"audio/w-magic.mp3": {
+"text": "magic",
+"voice": "w"
+},
+"audio/w-trick.mp3": {
+"text": "trick",
+"voice": "w"
+},
+"audio/s2989.mp3": {
+"text": "The truth is, there's no magic trick.",
+"voice": "f"
+},
+"audio/s2990.mp3": {
+"text": "What really matters is practicing a little every day.",
+"voice": "m"
+},
+"audio/s2991.mp3": {
+"text": "Above all, don't be afraid of making mistakes.",
+"voice": "f"
+},
+"audio/w-consistency.mp3": {
+"text": "consistency",
+"voice": "w"
+},
+"audio/w-wins.mp3": {
+"text": "wins",
+"voice": "w"
+},
+"audio/s2992.mp3": {
+"text": "If there's one thing I've learned, it's that consistency wins.",
+"voice": "m"
+},
+"audio/s2993.mp3": {
+"text": "I can't stress this enough: just keep going!",
+"voice": "f"
+},
+"audio/s2994.mp3": {
+"text": "It's the details that make the difference.",
+"voice": "m"
+},
+"audio/w-lack.mp3": {
+"text": "lack",
+"voice": "w"
+},
+"audio/s2995.mp3": {
+"text": "What worries me is the lack of time.",
+"voice": "f"
+},
+"audio/s2996.mp3": {
+"text": "The thing is, I can't afford it.",
+"voice": "m"
+},
+"audio/s2997.mp3": {
+"text": "Not a single person offered to help.",
+"voice": "f"
+},
+"audio/s2998.mp3": {
+"text": "It wasn't until midnight that he called.",
+"voice": "m"
+},
+"audio/s2999.mp3": {
+"text": "What we need is a clear plan.",
+"voice": "f"
+},
+"audio/s3000.mp3": {
+"text": "The very last thing I want is an argument.",
+"voice": "m"
+},
+"audio/s3001.mp3": {
+"text": "Hey, what's up?",
+"voice": "f"
+},
+"audio/w-assist.mp3": {
+"text": "assist",
+"voice": "w"
+},
+"audio/s3002.mp3": {
+"text": "Good evening. How may I assist you?",
+"voice": "m"
+},
+"audio/s3003.mp3": {
+"text": "Gotta run, see you later!",
+"voice": "f"
+},
+"audio/s3004.mp3": {
+"text": "I must leave now. I'll see you tomorrow.",
+"voice": "m"
+},
+"audio/s3005.mp3": {
+"text": "Can you give me a hand with this?",
+"voice": "f"
+},
+"audio/s3006.mp3": {
+"text": "Would you be able to assist me with this matter?",
+"voice": "m"
+},
+"audio/w-awesome.mp3": {
+"text": "awesome",
+"voice": "w"
+},
+"audio/s3007.mp3": {
+"text": "That movie was awesome!",
+"voice": "f"
+},
+"audio/w-performance.mp3": {
+"text": "performance",
+"voice": "w"
+},
+"audio/w-truly.mp3": {
+"text": "truly",
+"voice": "w"
+},
+"audio/w-remarkable.mp3": {
+"text": "remarkable",
+"voice": "w"
+},
+"audio/s3008.mp3": {
+"text": "The performance was truly remarkable.",
+"voice": "m"
+},
+"audio/s3009.mp3": {
+"text": "No worries, it's all good.",
+"voice": "f"
+},
+"audio/w-sincere.mp3": {
+"text": "sincere",
+"voice": "w"
+},
+"audio/w-apologies.mp3": {
+"text": "apologies",
+"voice": "w"
+},
+"audio/s3010.mp3": {
+"text": "Please accept my sincere apologies.",
+"voice": "m"
+},
+"audio/s3011.mp3": {
+"text": "Let's grab a bite after work.",
+"voice": "f"
+},
+"audio/w-delighted.mp3": {
+"text": "delighted",
+"voice": "w"
+},
+"audio/s3012.mp3": {
+"text": "We would be delighted if you could join us for dinner.",
+"voice": "m"
+},
+"audio/s3013.mp3": {
+"text": "With friends, I might say, \"Hey, wanna grab lunch?\"",
+"voice": "f"
+},
+"audio/s3014.mp3": {
+"text": "With my boss, I'd say, \"Would you like to have lunch together?\"",
+"voice": "m"
+},
+"audio/w-ton.mp3": {
+"text": "ton",
+"voice": "w"
+},
+"audio/s3015.mp3": {
+"text": "In a text, I might write, \"Thanks a ton!\"",
+"voice": "f"
+},
+"audio/w-formal.mp3": {
+"text": "formal",
+"voice": "w"
+},
+"audio/s3016.mp3": {
+"text": "In a formal email, I'd write, \"Thank you very much for your help.\"",
+"voice": "m"
+},
+"audio/w-knowing.mp3": {
+"text": "Knowing",
+"voice": "w"
+},
+"audio/w-fluency.mp3": {
+"text": "fluency",
+"voice": "w"
+},
+"audio/s3017.mp3": {
+"text": "Knowing when to be formal is a key part of fluency.",
+"voice": "f"
+},
+"audio/w-native.mp3": {
+"text": "Native",
+"voice": "w"
+},
+"audio/w-speakers.mp3": {
+"text": "speakers",
+"voice": "w"
+},
+"audio/w-styles.mp3": {
+"text": "styles",
+"voice": "w"
+},
+"audio/s3018.mp3": {
+"text": "Native speakers switch between styles all the time.",
+"voice": "m"
+},
+"audio/w-catch.mp3": {
+"text": "Catch",
+"voice": "w"
+},
+"audio/s3019.mp3": {
+"text": "Catch you later!",
+"voice": "f"
+},
+"audio/w-gratitude.mp3": {
+"text": "gratitude",
+"voice": "w"
+},
+"audio/s3020.mp3": {
+"text": "I would like to express my gratitude.",
+"voice": "m"
+},
+"audio/s3021.mp3": {
+"text": "Sorry, my bad.",
+"voice": "f"
+},
+"audio/w-misunderstanding.mp3": {
+"text": "misunderstanding",
+"voice": "w"
+},
+"audio/s3022.mp3": {
+"text": "I apologize for the misunderstanding.",
+"voice": "m"
+},
+"audio/w-million.mp3": {
+"text": "million",
+"voice": "w"
+},
+"audio/s3023.mp3": {
+"text": "Thanks a million!",
+"voice": "f"
+},
+"audio/s3024.mp3": {
+"text": "We appreciate your patience.",
+"voice": "m"
+},
+"audio/s3025.mp3": {
+"text": "What's the deal with this?",
+"voice": "f"
+},
+"audio/s3026.mp3": {
+"text": "Thank you all for being here tonight.",
+"voice": "m"
+},
+"audio/s3027.mp3": {
+"text": "Never have I felt so proud of a team.",
+"voice": "f"
+},
+"audio/w-succeed.mp3": {
+"text": "succeed",
+"voice": "w"
+},
+"audio/s3028.mp3": {
+"text": "When we started, few believed we would succeed.",
+"voice": "m"
+},
+"audio/s3029.mp3": {
+"text": "Had it not been for your hard work, we'd have failed.",
+"voice": "f"
+},
+"audio/w-spirit.mp3": {
+"text": "spirit",
+"voice": "w"
+},
+"audio/s3030.mp3": {
+"text": "It's essential that we keep this spirit alive.",
+"voice": "m"
+},
+"audio/w-commitment.mp3": {
+"text": "commitment",
+"voice": "w"
+},
+"audio/s3031.mp3": {
+"text": "What made the difference was your commitment.",
+"voice": "f"
+},
+"audio/w-faced.mp3": {
+"text": "faced",
+"voice": "w"
+},
+"audio/s3032.mp3": {
+"text": "We have faced many challenges along the way.",
+"voice": "m"
+},
+"audio/w-sight.mp3": {
+"text": "sight",
+"voice": "w"
+},
+"audio/w-goal.mp3": {
+"text": "goal",
+"voice": "w"
+},
+"audio/s3033.mp3": {
+"text": "Nonetheless, we never lost sight of our goal.",
+"voice": "f"
+},
+"audio/s3034.mp3": {
+"text": "By this time next year, we'll have doubled in size.",
+"voice": "m"
+},
+"audio/s3035.mp3": {
+"text": "I can't stress enough how grateful I am.",
+"voice": "f"
+},
+"audio/w-raise.mp3": {
+"text": "raise",
+"voice": "w"
+},
+"audio/s3036.mp3": {
+"text": "Let's raise our glasses to the future.",
+"voice": "m"
+},
+"audio/w-here-s.mp3": {
+"text": "Here's",
+"voice": "w"
+},
+"audio/s3037.mp3": {
+"text": "Here's to another successful year!",
+"voice": "f"
+},
+"audio/s3038.mp3": {
+"text": "Good evening, everyone, and thank you for coming.",
+"voice": "m"
+},
+"audio/s3039.mp3": {
+"text": "Five years ago, this company was just an idea in a garage.",
+"voice": "f"
+},
+"audio/w-achieve.mp3": {
+"text": "achieve",
+"voice": "w"
+},
+"audio/s3040.mp3": {
+"text": "Rarely does a small team achieve so much in so little time.",
+"voice": "m"
+},
+"audio/w-dedication.mp3": {
+"text": "dedication",
+"voice": "w"
+},
+"audio/w-none.mp3": {
+"text": "none",
+"voice": "w"
+},
+"audio/w-exist.mp3": {
+"text": "exist",
+"voice": "w"
+},
+"audio/s3041.mp3": {
+"text": "Had it not been for your dedication, none of this would exist.",
+"voice": "f"
+},
+"audio/w-humble.mp3": {
+"text": "humble",
+"voice": "w"
+},
+"audio/s3042.mp3": {
+"text": "What matters now is that we stay humble and keep learning.",
+"voice": "m"
+},
+"audio/s3043.mp3": {
+"text": "So please, raise your glasses: here's to the next five years!",
+"voice": "f"
+},
+"audio/w-award.mp3": {
+"text": "award",
+"voice": "w"
+},
+"audio/w-belongs.mp3": {
+"text": "belongs",
+"voice": "w"
+},
+"audio/s3044.mp3": {
+"text": "This award belongs to all of you.",
+"voice": "m"
+},
+"audio/s3045.mp3": {
+"text": "I remember the night we almost gave up.",
+"voice": "f"
+},
+"audio/s3046.mp3": {
+"text": "Not once did you let me down.",
+"voice": "m"
+},
+"audio/w-lies.mp3": {
+"text": "lies",
+"voice": "w"
+},
+"audio/w-exciting.mp3": {
+"text": "exciting",
+"voice": "w"
+},
+"audio/s3047.mp3": {
+"text": "What lies ahead is even more exciting.",
+"voice": "f"
+},
+"audio/s3048.mp3": {
+"text": "Let's never forget where we came from.",
+"voice": "m"
+},
+"audio/w-deeply.mp3": {
+"text": "deeply",
+"voice": "w"
+},
+"audio/s3049.mp3": {
+"text": "I'm deeply grateful to our customers.",
+"voice": "f"
+},
+"audio/s3050.mp3": {
+"text": "Together, there's nothing we can't do.",
+"voice": "m"
 }
 }
