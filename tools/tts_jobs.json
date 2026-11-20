@@ -13130,5 +13130,4561 @@
 "audio/s1850.mp3": {
 "text": "I might open a second shop next year.",
 "voice": "m"
+},
+"audio/s1851.mp3": {
+"text": "If I had known, I would have called you.",
+"voice": "f"
+},
+"audio/w-hurried.mp3": {
+"text": "hurried",
+"voice": "w"
+},
+"audio/s1852.mp3": {
+"text": "We would have missed the flight if we hadn't hurried.",
+"voice": "m"
+},
+"audio/s1853.mp3": {
+"text": "If she had studied harder, she would have passed.",
+"voice": "f"
+},
+"audio/w-done.mp3": {
+"text": "done",
+"voice": "w"
+},
+"audio/s1854.mp3": {
+"text": "What would you have done in my place?",
+"voice": "m"
+},
+"audio/s1855.mp3": {
+"text": "If it hadn't rained, the game wouldn't have been canceled.",
+"voice": "f"
+},
+"audio/s1856.mp3": {
+"text": "I wouldn't have met my wife if I hadn't moved here.",
+"voice": "m"
+},
+"audio/s1857.mp3": {
+"text": "If you had asked me, I would have helped.",
+"voice": "f"
+},
+"audio/w-trained.mp3": {
+"text": "trained",
+"voice": "w"
+},
+"audio/s1858.mp3": {
+"text": "He could have won if he had trained more.",
+"voice": "m"
+},
+"audio/w-avoided.mp3": {
+"text": "avoided",
+"voice": "w"
+},
+"audio/s1859.mp3": {
+"text": "If we had left earlier, we'd have avoided the traffic.",
+"voice": "f"
+},
+"audio/w-paid.mp3": {
+"text": "paid",
+"voice": "w"
+},
+"audio/s1860.mp3": {
+"text": "She might have stayed if they had paid her more.",
+"voice": "m"
+},
+"audio/w-believed.mp3": {
+"text": "believed",
+"voice": "w"
+},
+"audio/s1861.mp3": {
+"text": "If I hadn't seen it, I wouldn't have believed it.",
+"voice": "f"
+},
+"audio/w-listened.mp3": {
+"text": "listened",
+"voice": "w"
+},
+"audio/s1862.mp3": {
+"text": "Things would have been different if he had listened.",
+"voice": "m"
+},
+"audio/w-friend-s.mp3": {
+"text": "friend's",
+"voice": "w"
+},
+"audio/s1863.mp3": {
+"text": "Ten years ago I almost didn't go to a friend's party.",
+"voice": "f"
+},
+"audio/s1864.mp3": {
+"text": "I was tired, and it was raining.",
+"voice": "m"
+},
+"audio/w-laura.mp3": {
+"text": "Laura",
+"voice": "w"
+},
+"audio/s1865.mp3": {
+"text": "If I had stayed home, I wouldn't have met Laura.",
+"voice": "f"
+},
+"audio/w-gotten.mp3": {
+"text": "gotten",
+"voice": "w"
+},
+"audio/s1866.mp3": {
+"text": "If I hadn't met her, we wouldn't have gotten married.",
+"voice": "m"
+},
+"audio/w-twins.mp3": {
+"text": "twins",
+"voice": "w"
+},
+"audio/s1867.mp3": {
+"text": "And if we hadn't gotten married, we wouldn't have our twins.",
+"voice": "f"
+},
+"audio/s1868.mp3": {
+"text": "One small decision changed everything.",
+"voice": "m"
+},
+"audio/w-sign.mp3": {
+"text": "sign",
+"voice": "w"
+},
+"audio/w-stopped.mp3": {
+"text": "stopped",
+"voice": "w"
+},
+"audio/s1869.mp3": {
+"text": "If I had seen the sign, I would have stopped.",
+"voice": "f"
+},
+"audio/s1870.mp3": {
+"text": "She would have come if you had invited her.",
+"voice": "m"
+},
+"audio/s1871.mp3": {
+"text": "If we hadn't gotten lost, we would have arrived on time.",
+"voice": "f"
+},
+"audio/w-offer.mp3": {
+"text": "offer",
+"voice": "w"
+},
+"audio/s1872.mp3": {
+"text": "Would you have accepted the offer?",
+"voice": "m"
+},
+"audio/s1873.mp3": {
+"text": "If I'd known you were sick, I would have visited you.",
+"voice": "f"
+},
+"audio/w-crashed.mp3": {
+"text": "crashed",
+"voice": "w"
+},
+"audio/w-he-d.mp3": {
+"text": "he'd",
+"voice": "w"
+},
+"audio/w-careful.mp3": {
+"text": "careful",
+"voice": "w"
+},
+"audio/s1874.mp3": {
+"text": "He wouldn't have crashed if he'd been more careful.",
+"voice": "m"
+},
+"audio/s1875.mp3": {
+"text": "If they had told the truth, nobody would have been angry.",
+"voice": "f"
+},
+"audio/w-rich.mp3": {
+"text": "rich",
+"voice": "w"
+},
+"audio/s1876.mp3": {
+"text": "If I had taken that job, I would be rich now.",
+"voice": "m"
+},
+"audio/s1877.mp3": {
+"text": "If she weren't so shy, she would have spoken up.",
+"voice": "f"
+},
+"audio/s1878.mp3": {
+"text": "We'd be in Hawaii now if we hadn't missed the flight.",
+"voice": "m"
+},
+"audio/w-trouble.mp3": {
+"text": "trouble",
+"voice": "w"
+},
+"audio/s1879.mp3": {
+"text": "If you had listened to me, you wouldn't be in trouble.",
+"voice": "f"
+},
+"audio/w-understood.mp3": {
+"text": "understood",
+"voice": "w"
+},
+"audio/w-joke.mp3": {
+"text": "joke",
+"voice": "w"
+},
+"audio/s1880.mp3": {
+"text": "If I spoke Spanish, I would have understood the joke.",
+"voice": "m"
+},
+"audio/s1881.mp3": {
+"text": "He would be a doctor now if he had finished school.",
+"voice": "f"
+},
+"audio/w-saved.mp3": {
+"text": "saved",
+"voice": "w"
+},
+"audio/s1882.mp3": {
+"text": "If I had saved more money, I wouldn't be worried now.",
+"voice": "m"
+},
+"audio/s1883.mp3": {
+"text": "If they weren't so busy, they would have come.",
+"voice": "f"
+},
+"audio/s1884.mp3": {
+"text": "I'd feel better if I hadn't eaten so much.",
+"voice": "m"
+},
+"audio/s1885.mp3": {
+"text": "If he had moved to Boston, he'd be living near us.",
+"voice": "f"
+},
+"audio/w-braver.mp3": {
+"text": "braver",
+"voice": "w"
+},
+"audio/s1886.mp3": {
+"text": "If I were braver, I would have asked her out.",
+"voice": "m"
+},
+"audio/s1887.mp3": {
+"text": "We wouldn't be lost if you had brought the map.",
+"voice": "f"
+},
+"audio/w-choices.mp3": {
+"text": "choices",
+"voice": "w"
+},
+"audio/s1888.mp3": {
+"text": "I often think about my choices.",
+"voice": "m"
+},
+"audio/w-law.mp3": {
+"text": "law",
+"voice": "w"
+},
+"audio/w-judge.mp3": {
+"text": "judge",
+"voice": "w"
+},
+"audio/s1889.mp3": {
+"text": "If I had studied law, I might be a judge now.",
+"voice": "f"
+},
+"audio/w-hometown.mp3": {
+"text": "hometown",
+"voice": "w"
+},
+"audio/s1890.mp3": {
+"text": "If I had stayed in my hometown, I'd know everyone on my street.",
+"voice": "m"
+},
+"audio/w-curious.mp3": {
+"text": "curious",
+"voice": "w"
+},
+"audio/w-traveled.mp3": {
+"text": "traveled",
+"voice": "w"
+},
+"audio/s1891.mp3": {
+"text": "But if I weren't so curious, I wouldn't have traveled the world.",
+"voice": "f"
+},
+"audio/s1892.mp3": {
+"text": "And if I hadn't traveled, I wouldn't be the person I am today.",
+"voice": "m"
+},
+"audio/w-regrets.mp3": {
+"text": "regrets",
+"voice": "w"
+},
+"audio/s1893.mp3": {
+"text": "So I have no regrets.",
+"voice": "f"
+},
+"audio/s1894.mp3": {
+"text": "If I hadn't stayed up so late, I wouldn't be so tired now.",
+"voice": "m"
+},
+"audio/w-organized.mp3": {
+"text": "organized",
+"voice": "w"
+},
+"audio/w-deadline.mp3": {
+"text": "deadline",
+"voice": "w"
+},
+"audio/s1895.mp3": {
+"text": "If he were more organized, he wouldn't have missed the deadline.",
+"voice": "f"
+},
+"audio/s1896.mp3": {
+"text": "We'd have a garden now if we had bought that house.",
+"voice": "m"
+},
+"audio/s1897.mp3": {
+"text": "If she had taken the medicine, she'd be fine now.",
+"voice": "f"
+},
+"audio/w-flying.mp3": {
+"text": "flying",
+"voice": "w"
+},
+"audio/s1898.mp3": {
+"text": "If I weren't afraid of flying, I would have visited you.",
+"voice": "m"
+},
+"audio/w-you-d.mp3": {
+"text": "You'd",
+"voice": "w"
+},
+"audio/s1899.mp3": {
+"text": "You'd know the answer if you had read the book.",
+"voice": "f"
+},
+"audio/s1900.mp3": {
+"text": "If we had left on time, we'd be there by now.",
+"voice": "m"
+},
+"audio/w-wish.mp3": {
+"text": "wish",
+"voice": "w"
+},
+"audio/s1901.mp3": {
+"text": "I wish I had more free time.",
+"voice": "f"
+},
+"audio/w-wishes.mp3": {
+"text": "wishes",
+"voice": "w"
+},
+"audio/s1902.mp3": {
+"text": "She wishes she lived closer to her parents.",
+"voice": "m"
+},
+"audio/s1903.mp3": {
+"text": "I wish I hadn't said that.",
+"voice": "f"
+},
+"audio/w-french.mp3": {
+"text": "French",
+"voice": "w"
+},
+"audio/s1904.mp3": {
+"text": "If only I could speak French!",
+"voice": "m"
+},
+"audio/s1905.mp3": {
+"text": "We wish you were here with us.",
+"voice": "f"
+},
+"audio/s1906.mp3": {
+"text": "I wish it would stop raining.",
+"voice": "m"
+},
+"audio/s1907.mp3": {
+"text": "He wishes he had studied medicine.",
+"voice": "f"
+},
+"audio/s1908.mp3": {
+"text": "If only we had left earlier!",
+"voice": "m"
+},
+"audio/s1909.mp3": {
+"text": "I wish my neighbors weren't so noisy.",
+"voice": "f"
+},
+"audio/w-fly.mp3": {
+"text": "fly",
+"voice": "w"
+},
+"audio/s1910.mp3": {
+"text": "Don't you wish you could fly?",
+"voice": "m"
+},
+"audio/s1911.mp3": {
+"text": "I wish I knew the answer.",
+"voice": "f"
+},
+"audio/s1912.mp3": {
+"text": "If only he would listen for once!",
+"voice": "m"
+},
+"audio/s1913.mp3": {
+"text": "Sometimes I wish I were a kid again.",
+"voice": "f"
+},
+"audio/w-bills.mp3": {
+"text": "bills",
+"voice": "w"
+},
+"audio/s1914.mp3": {
+"text": "I wish I didn't have to pay bills.",
+"voice": "m"
+},
+"audio/s1915.mp3": {
+"text": "I wish I had played more and worried less.",
+"voice": "f"
+},
+"audio/w-younger.mp3": {
+"text": "younger",
+"voice": "w"
+},
+"audio/w-self.mp3": {
+"text": "self",
+"voice": "w"
+},
+"audio/s1916.mp3": {
+"text": "If only I could talk to my younger self!",
+"voice": "m"
+},
+"audio/s1917.mp3": {
+"text": "I would tell him, \"Enjoy every moment.\"",
+"voice": "f"
+},
+"audio/s1918.mp3": {
+"text": "But I'm happy with the life I have now.",
+"voice": "m"
+},
+"audio/s1919.mp3": {
+"text": "I wish I could stay longer.",
+"voice": "f"
+},
+"audio/s1920.mp3": {
+"text": "She wishes she hadn't sold her car.",
+"voice": "m"
+},
+"audio/w-complaining.mp3": {
+"text": "complaining",
+"voice": "w"
+},
+"audio/s1921.mp3": {
+"text": "I wish you would stop complaining.",
+"voice": "f"
+},
+"audio/w-patience.mp3": {
+"text": "patience",
+"voice": "w"
+},
+"audio/s1922.mp3": {
+"text": "If only I had more patience!",
+"voice": "m"
+},
+"audio/s1923.mp3": {
+"text": "We wish we had bought the tickets earlier.",
+"voice": "f"
+},
+"audio/s1924.mp3": {
+"text": "I wish it were summer already.",
+"voice": "m"
+},
+"audio/s1925.mp3": {
+"text": "He wishes he were taller.",
+"voice": "f"
+},
+"audio/w-being.mp3": {
+"text": "being",
+"voice": "w"
+},
+"audio/s1926.mp3": {
+"text": "The new bridge is being built right now.",
+"voice": "m"
+},
+"audio/w-results.mp3": {
+"text": "results",
+"voice": "w"
+},
+"audio/w-announced.mp3": {
+"text": "announced",
+"voice": "w"
+},
+"audio/s1927.mp3": {
+"text": "The results will be announced next week.",
+"voice": "f"
+},
+"audio/w-manager.mp3": {
+"text": "manager",
+"voice": "w"
+},
+"audio/s1928.mp3": {
+"text": "The report has already been sent to the manager.",
+"voice": "m"
+},
+"audio/s1929.mp3": {
+"text": "The problem should be fixed by tomorrow.",
+"voice": "f"
+},
+"audio/s1930.mp3": {
+"text": "I don't like being told what to do.",
+"voice": "m"
+},
+"audio/w-suspect.mp3": {
+"text": "suspect",
+"voice": "w"
+},
+"audio/w-mexico.mp3": {
+"text": "Mexico",
+"voice": "w"
+},
+"audio/s1931.mp3": {
+"text": "The suspect is believed to be in Mexico.",
+"voice": "f"
+},
+"audio/s1932.mp3": {
+"text": "Our flight has been delayed again.",
+"voice": "m"
+},
+"audio/s1933.mp3": {
+"text": "The road was being repaired when we passed.",
+"voice": "f"
+},
+"audio/s1934.mp3": {
+"text": "All the tickets had been sold before noon.",
+"voice": "m"
+},
+"audio/w-haunted.mp3": {
+"text": "haunted",
+"voice": "w"
+},
+"audio/s1935.mp3": {
+"text": "It is said that the house is haunted.",
+"voice": "f"
+},
+"audio/w-winners.mp3": {
+"text": "winners",
+"voice": "w"
+},
+"audio/w-chosen.mp3": {
+"text": "chosen",
+"voice": "w"
+},
+"audio/w-public.mp3": {
+"text": "public",
+"voice": "w"
+},
+"audio/s1936.mp3": {
+"text": "The winners are going to be chosen by the public.",
+"voice": "m"
+},
+"audio/w-recorded.mp3": {
+"text": "recorded",
+"voice": "w"
+},
+"audio/w-eighties.mp3": {
+"text": "eighties",
+"voice": "w"
+},
+"audio/s1937.mp3": {
+"text": "This song must have been recorded in the eighties.",
+"voice": "f"
+},
+"audio/s1938.mp3": {
+"text": "Our city is changing fast.",
+"voice": "m"
+},
+"audio/s1939.mp3": {
+"text": "A new subway line is being built downtown.",
+"voice": "f"
+},
+"audio/w-turned.mp3": {
+"text": "turned",
+"voice": "w"
+},
+"audio/w-into.mp3": {
+"text": "into",
+"voice": "w"
+},
+"audio/s1940.mp3": {
+"text": "Many old buildings have been turned into apartments.",
+"voice": "m"
+},
+"audio/w-main.mp3": {
+"text": "main",
+"voice": "w"
+},
+"audio/w-redesigned.mp3": {
+"text": "redesigned",
+"voice": "w"
+},
+"audio/s1941.mp3": {
+"text": "The main park will be redesigned next year.",
+"voice": "f"
+},
+"audio/w-expected.mp3": {
+"text": "expected",
+"voice": "w"
+},
+"audio/w-thousands.mp3": {
+"text": "thousands",
+"voice": "w"
+},
+"audio/w-created.mp3": {
+"text": "created",
+"voice": "w"
+},
+"audio/s1942.mp3": {
+"text": "It is expected that thousands of jobs will be created.",
+"voice": "m"
+},
+"audio/w-likes.mp3": {
+"text": "likes",
+"voice": "w"
+},
+"audio/w-reborn.mp3": {
+"text": "reborn",
+"voice": "w"
+},
+"audio/s1943.mp3": {
+"text": "Not everyone likes it, but the city is being reborn.",
+"voice": "f"
+},
+"audio/s1944.mp3": {
+"text": "The package is being delivered as we speak.",
+"voice": "m"
+},
+"audio/s1945.mp3": {
+"text": "All the rooms have been booked.",
+"voice": "f"
+},
+"audio/w-held.mp3": {
+"text": "held",
+"voice": "w"
+},
+"audio/w-hall.mp3": {
+"text": "hall",
+"voice": "w"
+},
+"audio/s1946.mp3": {
+"text": "The meeting will be held in the main hall.",
+"voice": "m"
+},
+"audio/w-chef.mp3": {
+"text": "chef",
+"voice": "w"
+},
+"audio/s1947.mp3": {
+"text": "He is said to be the best chef in town.",
+"voice": "f"
+},
+"audio/w-needs.mp3": {
+"text": "needs",
+"voice": "w"
+},
+"audio/s1948.mp3": {
+"text": "The car needs to be washed.",
+"voice": "m"
+},
+"audio/w-followed.mp3": {
+"text": "followed",
+"voice": "w"
+},
+"audio/w-strange.mp3": {
+"text": "strange",
+"voice": "w"
+},
+"audio/s1949.mp3": {
+"text": "I was being followed by a strange man.",
+"voice": "f"
+},
+"audio/w-documents.mp3": {
+"text": "documents",
+"voice": "w"
+},
+"audio/s1950.mp3": {
+"text": "The documents must be signed by Friday.",
+"voice": "m"
+},
+"audio/s1951.mp3": {
+"text": "I had my hair cut yesterday.",
+"voice": "f"
+},
+"audio/w-remodeled.mp3": {
+"text": "remodeled",
+"voice": "w"
+},
+"audio/s1952.mp3": {
+"text": "We're having our kitchen remodeled.",
+"voice": "m"
+},
+"audio/w-garage.mp3": {
+"text": "garage",
+"voice": "w"
+},
+"audio/s1953.mp3": {
+"text": "She got her car fixed at a local garage.",
+"voice": "f"
+},
+"audio/w-checked.mp3": {
+"text": "checked",
+"voice": "w"
+},
+"audio/s1954.mp3": {
+"text": "You should have your eyes checked.",
+"voice": "m"
+},
+"audio/s1955.mp3": {
+"text": "He had his phone stolen on the train.",
+"voice": "f"
+},
+"audio/w-suits.mp3": {
+"text": "suits",
+"voice": "w"
+},
+"audio/s1956.mp3": {
+"text": "Where do you get your suits made?",
+"voice": "m"
+},
+"audio/w-roof.mp3": {
+"text": "roof",
+"voice": "w"
+},
+"audio/s1957.mp3": {
+"text": "We need to have the roof repaired.",
+"voice": "f"
+},
+"audio/s1958.mp3": {
+"text": "I'm going to get my teeth cleaned on Monday.",
+"voice": "m"
+},
+"audio/w-painted.mp3": {
+"text": "painted",
+"voice": "w"
+},
+"audio/w-selling.mp3": {
+"text": "selling",
+"voice": "w"
+},
+"audio/s1959.mp3": {
+"text": "They had the house painted before selling it.",
+"voice": "f"
+},
+"audio/s1960.mp3": {
+"text": "Did you have your package delivered?",
+"voice": "m"
+},
+"audio/w-groceries.mp3": {
+"text": "groceries",
+"voice": "w"
+},
+"audio/s1961.mp3": {
+"text": "She has her groceries delivered every week.",
+"voice": "f"
+},
+"audio/w-renewed.mp3": {
+"text": "renewed",
+"voice": "w"
+},
+"audio/s1962.mp3": {
+"text": "I got my passport renewed last month.",
+"voice": "m"
+},
+"audio/s1963.mp3": {
+"text": "Before we sold our old house, we had a lot of work done.",
+"voice": "f"
+},
+"audio/w-floors.mp3": {
+"text": "floors",
+"voice": "w"
+},
+"audio/s1964.mp3": {
+"text": "We had the walls painted and the floors cleaned.",
+"voice": "m"
+},
+"audio/s1965.mp3": {
+"text": "We got the roof repaired after a big storm.",
+"voice": "f"
+},
+"audio/w-even.mp3": {
+"text": "even",
+"voice": "w"
+},
+"audio/s1966.mp3": {
+"text": "We even had the garden redesigned.",
+"voice": "m"
+},
+"audio/s1967.mp3": {
+"text": "It cost a lot, but the house sold in one week.",
+"voice": "f"
+},
+"audio/w-definitely.mp3": {
+"text": "definitely",
+"voice": "w"
+},
+"audio/s1968.mp3": {
+"text": "It was definitely worth it.",
+"voice": "m"
+},
+"audio/s1969.mp3": {
+"text": "I need to get my car washed.",
+"voice": "f"
+},
+"audio/w-nails.mp3": {
+"text": "nails",
+"voice": "w"
+},
+"audio/s1970.mp3": {
+"text": "She had her nails done for the wedding.",
+"voice": "m"
+},
+"audio/w-installed.mp3": {
+"text": "installed",
+"voice": "w"
+},
+"audio/s1971.mp3": {
+"text": "We're getting a new kitchen installed.",
+"voice": "f"
+},
+"audio/w-tooth.mp3": {
+"text": "tooth",
+"voice": "w"
+},
+"audio/w-pulled.mp3": {
+"text": "pulled",
+"voice": "w"
+},
+"audio/s1972.mp3": {
+"text": "He had his tooth pulled yesterday.",
+"voice": "m"
+},
+"audio/s1973.mp3": {
+"text": "Where can I get my watch repaired?",
+"voice": "f"
+},
+"audio/w-tailor.mp3": {
+"text": "tailor",
+"voice": "w"
+},
+"audio/s1974.mp3": {
+"text": "I'm having my dress made by a tailor.",
+"voice": "m"
+},
+"audio/s1975.mp3": {
+"text": "You should get that checked by a doctor.",
+"voice": "f"
+},
+"audio/w-suggested.mp3": {
+"text": "suggested",
+"voice": "w"
+},
+"audio/s1976.mp3": {
+"text": "She suggested that we take a taxi.",
+"voice": "m"
+},
+"audio/w-admitted.mp3": {
+"text": "admitted",
+"voice": "w"
+},
+"audio/s1977.mp3": {
+"text": "He admitted that he had made a mistake.",
+"voice": "f"
+},
+"audio/w-warned.mp3": {
+"text": "warned",
+"voice": "w"
+},
+"audio/s1978.mp3": {
+"text": "They warned us not to swim in the river.",
+"voice": "m"
+},
+"audio/w-whether.mp3": {
+"text": "whether",
+"voice": "w"
+},
+"audio/s1979.mp3": {
+"text": "My manager asked whether I could work on Sunday.",
+"voice": "f"
+},
+"audio/w-denied.mp3": {
+"text": "denied",
+"voice": "w"
+},
+"audio/s1980.mp3": {
+"text": "She denied taking the money.",
+"voice": "m"
+},
+"audio/s1981.mp3": {
+"text": "He promised that he would never do it again.",
+"voice": "f"
+},
+"audio/w-reminded.mp3": {
+"text": "reminded",
+"voice": "w"
+},
+"audio/s1982.mp3": {
+"text": "The teacher reminded us to bring our books.",
+"voice": "m"
+},
+"audio/w-explained.mp3": {
+"text": "explained",
+"voice": "w"
+},
+"audio/s1983.mp3": {
+"text": "They explained that the store had closed early.",
+"voice": "f"
+},
+"audio/w-complained.mp3": {
+"text": "complained",
+"voice": "w"
+},
+"audio/s1984.mp3": {
+"text": "She complained that the room was too cold.",
+"voice": "m"
+},
+"audio/w-insisted.mp3": {
+"text": "insisted",
+"voice": "w"
+},
+"audio/w-paying.mp3": {
+"text": "paying",
+"voice": "w"
+},
+"audio/s1985.mp3": {
+"text": "He insisted on paying for dinner.",
+"voice": "f"
+},
+"audio/w-advised.mp3": {
+"text": "advised",
+"voice": "w"
+},
+"audio/w-specialist.mp3": {
+"text": "specialist",
+"voice": "w"
+},
+"audio/s1986.mp3": {
+"text": "I was advised to see a specialist.",
+"voice": "m"
+},
+"audio/s1987.mp3": {
+"text": "They announced that the flight would be delayed.",
+"voice": "f"
+},
+"audio/w-quitting.mp3": {
+"text": "quitting",
+"voice": "w"
+},
+"audio/s1988.mp3": {
+"text": "At dinner my brother announced that he was quitting his job.",
+"voice": "m"
+},
+"audio/w-carefully.mp3": {
+"text": "carefully",
+"voice": "w"
+},
+"audio/s1989.mp3": {
+"text": "My father asked him whether he had thought about it carefully.",
+"voice": "f"
+},
+"audio/w-business.mp3": {
+"text": "business",
+"voice": "w"
+},
+"audio/s1990.mp3": {
+"text": "My brother explained that he wanted to start a business.",
+"voice": "m"
+},
+"audio/w-savings.mp3": {
+"text": "savings",
+"voice": "w"
+},
+"audio/s1991.mp3": {
+"text": "My mother warned him not to spend all his savings.",
+"voice": "f"
+},
+"audio/s1992.mp3": {
+"text": "He promised that he would be careful.",
+"voice": "m"
+},
+"audio/w-everyone-s.mp3": {
+"text": "everyone's",
+"voice": "w"
+},
+"audio/s1993.mp3": {
+"text": "Then he insisted on paying for everyone's dessert!",
+"voice": "f"
+},
+"audio/w-promoted.mp3": {
+"text": "promoted",
+"voice": "w"
+},
+"audio/s1994.mp3": {
+"text": "She told me that she had been promoted.",
+"voice": "m"
+},
+"audio/s1995.mp3": {
+"text": "He asked me whether I had ever been to Chicago.",
+"voice": "f"
+},
+"audio/s1996.mp3": {
+"text": "The doctor advised me to get more sleep.",
+"voice": "m"
+},
+"audio/w-apologized.mp3": {
+"text": "apologized",
+"voice": "w"
+},
+"audio/s1997.mp3": {
+"text": "My friend apologized for being late.",
+"voice": "f"
+},
+"audio/w-accused.mp3": {
+"text": "accused",
+"voice": "w"
+},
+"audio/w-lying.mp3": {
+"text": "lying",
+"voice": "w"
+},
+"audio/s1998.mp3": {
+"text": "They accused him of lying.",
+"voice": "m"
+},
+"audio/w-offered.mp3": {
+"text": "offered",
+"voice": "w"
+},
+"audio/s1999.mp3": {
+"text": "She offered to drive me home.",
+"voice": "f"
+},
+"audio/w-refused.mp3": {
+"text": "refused",
+"voice": "w"
+},
+"audio/s2000.mp3": {
+"text": "He refused to answer the question.",
+"voice": "m"
+},
+"audio/w-set.mp3": {
+"text": "set",
+"voice": "w"
+},
+"audio/s2001.mp3": {
+"text": "Can you set up a meeting for Thursday?",
+"voice": "f"
+},
+"audio/s2002.mp3": {
+"text": "We need to come up with a better plan.",
+"voice": "m"
+},
+"audio/w-laid.mp3": {
+"text": "laid",
+"voice": "w"
+},
+"audio/w-workers.mp3": {
+"text": "workers",
+"voice": "w"
+},
+"audio/s2003.mp3": {
+"text": "The company laid off two hundred workers.",
+"voice": "f"
+},
+"audio/w-away.mp3": {
+"text": "away",
+"voice": "w"
+},
+"audio/s2004.mp3": {
+"text": "I'll look into the problem right away.",
+"voice": "m"
+},
+"audio/w-projects.mp3": {
+"text": "projects",
+"voice": "w"
+},
+"audio/s2005.mp3": {
+"text": "She's taking over my projects next month.",
+"voice": "f"
+},
+"audio/w-numbers.mp3": {
+"text": "numbers",
+"voice": "w"
+},
+"audio/s2006.mp3": {
+"text": "Let's go over the numbers one more time.",
+"voice": "m"
+},
+"audio/s2007.mp3": {
+"text": "He was let go after three years.",
+"voice": "f"
+},
+"audio/w-expenses.mp3": {
+"text": "expenses",
+"voice": "w"
+},
+"audio/s2008.mp3": {
+"text": "We have to cut back on expenses.",
+"voice": "m"
+},
+"audio/s2009.mp3": {
+"text": "Please fill in for me while I'm away.",
+"voice": "f"
+},
+"audio/s2010.mp3": {
+"text": "I'll get back to you by Friday.",
+"voice": "m"
+},
+"audio/s2011.mp3": {
+"text": "The deal fell through at the last minute.",
+"voice": "f"
+},
+"audio/w-client.mp3": {
+"text": "client",
+"voice": "w"
+},
+"audio/s2012.mp3": {
+"text": "Can you follow up with the client?",
+"voice": "m"
+},
+"audio/s2013.mp3": {
+"text": "Monday started with bad news.",
+"voice": "f"
+},
+"audio/w-fallen.mp3": {
+"text": "fallen",
+"voice": "w"
+},
+"audio/s2014.mp3": {
+"text": "A big deal with a client had fallen through.",
+"voice": "m"
+},
+"audio/s2015.mp3": {
+"text": "Our boss told us to cut back on expenses.",
+"voice": "f"
+},
+"audio/w-clients.mp3": {
+"text": "clients",
+"voice": "w"
+},
+"audio/s2016.mp3": {
+"text": "I offered to look into new clients.",
+"voice": "m"
+},
+"audio/s2017.mp3": {
+"text": "By Friday we had come up with a new plan.",
+"voice": "f"
+},
+"audio/w-luckily.mp3": {
+"text": "Luckily",
+"voice": "w"
+},
+"audio/s2018.mp3": {
+"text": "Luckily, nobody was laid off.",
+"voice": "m"
+},
+"audio/s2019.mp3": {
+"text": "I'm going to call in sick today.",
+"voice": "f"
+},
+"audio/s2020.mp3": {
+"text": "She turned down the job offer.",
+"voice": "m"
+},
+"audio/w-sort.mp3": {
+"text": "sort",
+"voice": "w"
+},
+"audio/s2021.mp3": {
+"text": "We need to sort out this problem.",
+"voice": "f"
+},
+"audio/w-invitations.mp3": {
+"text": "invitations",
+"voice": "w"
+},
+"audio/s2022.mp3": {
+"text": "Could you send out the invitations?",
+"voice": "m"
+},
+"audio/w-putting.mp3": {
+"text": "putting",
+"voice": "w"
+},
+"audio/s2023.mp3": {
+"text": "He's been putting off the report for days.",
+"voice": "f"
+},
+"audio/s2024.mp3": {
+"text": "Let's run through the plan again.",
+"voice": "m"
+},
+"audio/w-draw.mp3": {
+"text": "draw",
+"voice": "w"
+},
+"audio/w-contract.mp3": {
+"text": "contract",
+"voice": "w"
+},
+"audio/s2025.mp3": {
+"text": "I'll draw up a contract tomorrow.",
+"voice": "f"
+},
+"audio/s2026.mp3": {
+"text": "I ran into an old friend at the airport.",
+"voice": "m"
+},
+"audio/s2027.mp3": {
+"text": "She takes after her mother.",
+"voice": "f"
+},
+"audio/s2028.mp3": {
+"text": "We broke up last summer.",
+"voice": "m"
+},
+"audio/s2029.mp3": {
+"text": "Could you turn down the music?",
+"voice": "f"
+},
+"audio/w-showed.mp3": {
+"text": "showed",
+"voice": "w"
+},
+"audio/s2030.mp3": {
+"text": "He finally showed up at ten.",
+"voice": "m"
+},
+"audio/s2031.mp3": {
+"text": "They brought up three children.",
+"voice": "f"
+},
+"audio/s2032.mp3": {
+"text": "I can't put up with this noise anymore.",
+"voice": "m"
+},
+"audio/s2033.mp3": {
+"text": "We got along well from the start.",
+"voice": "f"
+},
+"audio/s2034.mp3": {
+"text": "Don't let me down.",
+"voice": "m"
+},
+"audio/s2035.mp3": {
+"text": "She's getting over a bad cold.",
+"voice": "f"
+},
+"audio/w-drop.mp3": {
+"text": "drop",
+"voice": "w"
+},
+"audio/s2036.mp3": {
+"text": "Why don't you drop by after work?",
+"voice": "m"
+},
+"audio/w-chris.mp3": {
+"text": "Chris",
+"voice": "w"
+},
+"audio/s2037.mp3": {
+"text": "Last week I ran into my old roommate, Chris.",
+"voice": "f"
+},
+"audio/s2038.mp3": {
+"text": "We used to get along really well.",
+"voice": "m"
+},
+"audio/w-girlfriend.mp3": {
+"text": "girlfriend",
+"voice": "w"
+},
+"audio/s2039.mp3": {
+"text": "He told me he had broken up with his girlfriend.",
+"voice": "f"
+},
+"audio/s2040.mp3": {
+"text": "He's getting over it slowly.",
+"voice": "m"
+},
+"audio/s2041.mp3": {
+"text": "I told him to drop by for dinner on Saturday.",
+"voice": "f"
+},
+"audio/s2042.mp3": {
+"text": "I'm really looking forward to it.",
+"voice": "m"
+},
+"audio/s2043.mp3": {
+"text": "I need to cut down on coffee.",
+"voice": "f"
+},
+"audio/w-iowa.mp3": {
+"text": "Iowa",
+"voice": "w"
+},
+"audio/s2044.mp3": {
+"text": "She grew up in a small town in Iowa.",
+"voice": "m"
+},
+"audio/w-low.mp3": {
+"text": "low",
+"voice": "w"
+},
+"audio/s2045.mp3": {
+"text": "We're running low on gas.",
+"voice": "f"
+},
+"audio/s2046.mp3": {
+"text": "Can you pick up some bread on your way home?",
+"voice": "m"
+},
+"audio/s2047.mp3": {
+"text": "I came across an old photo of us.",
+"voice": "f"
+},
+"audio/w-figured.mp3": {
+"text": "figured",
+"voice": "w"
+},
+"audio/s2048.mp3": {
+"text": "He finally figured out the answer.",
+"voice": "m"
+},
+"audio/s2049.mp3": {
+"text": "Let's eat out tonight.",
+"voice": "f"
+},
+"audio/w-highway.mp3": {
+"text": "highway",
+"voice": "w"
+},
+"audio/s2050.mp3": {
+"text": "My car broke down on the highway.",
+"voice": "m"
+},
+"audio/s2051.mp3": {
+"text": "My sister, who lives in Denver, is a pilot.",
+"voice": "f"
+},
+"audio/w-reason.mp3": {
+"text": "reason",
+"voice": "w"
+},
+"audio/s2052.mp3": {
+"text": "That's the reason why I left.",
+"voice": "m"
+},
+"audio/s2053.mp3": {
+"text": "The town where I was born has changed a lot.",
+"voice": "f"
+},
+"audio/w-whose.mp3": {
+"text": "whose",
+"voice": "w"
+},
+"audio/s2054.mp3": {
+"text": "He's the man whose car was stolen.",
+"voice": "m"
+},
+"audio/s2055.mp3": {
+"text": "She gave me a book, which I haven't read yet.",
+"voice": "f"
+},
+"audio/s2056.mp3": {
+"text": "The day when we met was rainy.",
+"voice": "m"
+},
+"audio/w-whom.mp3": {
+"text": "whom",
+"voice": "w"
+},
+"audio/w-lawyers.mp3": {
+"text": "lawyers",
+"voice": "w"
+},
+"audio/s2057.mp3": {
+"text": "I have two brothers, both of whom are lawyers.",
+"voice": "f"
+},
+"audio/s2058.mp3": {
+"text": "The hotel we stayed at was amazing.",
+"voice": "m"
+},
+"audio/s2059.mp3": {
+"text": "Everything she said was true.",
+"voice": "f"
+},
+"audio/s2060.mp3": {
+"text": "The person to whom I spoke was very polite.",
+"voice": "m"
+},
+"audio/s2061.mp3": {
+"text": "He failed the test, which surprised everyone.",
+"voice": "f"
+},
+"audio/w-lasted.mp3": {
+"text": "lasted",
+"voice": "w"
+},
+"audio/s2062.mp3": {
+"text": "The movie, which lasted three hours, was boring.",
+"voice": "m"
+},
+"audio/w-drives.mp3": {
+"text": "drives",
+"voice": "w"
+},
+"audio/s2063.mp3": {
+"text": "My grandfather, who is ninety, still drives.",
+"voice": "f"
+},
+"audio/w-knows.mp3": {
+"text": "knows",
+"voice": "w"
+},
+"audio/s2064.mp3": {
+"text": "He lives in a small town where everyone knows him.",
+"voice": "m"
+},
+"audio/w-himself.mp3": {
+"text": "himself",
+"voice": "w"
+},
+"audio/s2065.mp3": {
+"text": "His house, which he built himself, is full of books.",
+"voice": "f"
+},
+"audio/w-barks.mp3": {
+"text": "barks",
+"voice": "w"
+},
+"audio/s2066.mp3": {
+"text": "The neighbor whose dog barks all night is his best friend.",
+"voice": "m"
+},
+"audio/s2067.mp3": {
+"text": "Everything he says makes people laugh.",
+"voice": "f"
+},
+"audio/w-admire.mp3": {
+"text": "admire",
+"voice": "w"
+},
+"audio/s2068.mp3": {
+"text": "He's the person I admire most.",
+"voice": "m"
+},
+"audio/w-fascinating.mp3": {
+"text": "fascinating",
+"voice": "w"
+},
+"audio/s2069.mp3": {
+"text": "The book that I'm reading now is fascinating.",
+"voice": "f"
+},
+"audio/w-plays.mp3": {
+"text": "plays",
+"voice": "w"
+},
+"audio/w-lakers.mp3": {
+"text": "Lakers",
+"voice": "w"
+},
+"audio/s2070.mp3": {
+"text": "She's the woman whose son plays for the Lakers.",
+"voice": "m"
+},
+"audio/s2071.mp3": {
+"text": "I visited Seattle, where my brother lives.",
+"voice": "f"
+},
+"audio/s2072.mp3": {
+"text": "The reason I called is to say thank you.",
+"voice": "m"
+},
+"audio/w-owner.mp3": {
+"text": "owner",
+"voice": "w"
+},
+"audio/s2073.mp3": {
+"text": "That's the restaurant whose owner is from Iran.",
+"voice": "f"
+},
+"audio/w-meant.mp3": {
+"text": "meant",
+"voice": "w"
+},
+"audio/s2074.mp3": {
+"text": "We missed the bus, which meant we were late.",
+"voice": "m"
+},
+"audio/s2075.mp3": {
+"text": "Anyone who wants to join is welcome.",
+"voice": "f"
+},
+"audio/w-although.mp3": {
+"text": "Although",
+"voice": "w"
+},
+"audio/s2076.mp3": {
+"text": "Although it was raining, we went for a walk.",
+"voice": "m"
+},
+"audio/w-however.mp3": {
+"text": "However",
+"voice": "w"
+},
+"audio/s2077.mp3": {
+"text": "The hotel was expensive. However, it was worth it.",
+"voice": "f"
+},
+"audio/w-though.mp3": {
+"text": "though",
+"voice": "w"
+},
+"audio/w-simply.mp3": {
+"text": "simply",
+"voice": "w"
+},
+"audio/s2078.mp3": {
+"text": "Even though he's rich, he lives simply.",
+"voice": "m"
+},
+"audio/w-despite.mp3": {
+"text": "Despite",
+"voice": "w"
+},
+"audio/s2079.mp3": {
+"text": "Despite the traffic, we arrived on time.",
+"voice": "f"
+},
+"audio/s2080.mp3": {
+"text": "She's smart, but she doesn't work hard.",
+"voice": "m"
+},
+"audio/w-spite.mp3": {
+"text": "spite",
+"voice": "w"
+},
+"audio/w-injury.mp3": {
+"text": "injury",
+"voice": "w"
+},
+"audio/w-race.mp3": {
+"text": "race",
+"voice": "w"
+},
+"audio/s2081.mp3": {
+"text": "In spite of his injury, he finished the race.",
+"voice": "f"
+},
+"audio/s2082.mp3": {
+"text": "I like my job. On the other hand, the pay is low.",
+"voice": "m"
+},
+"audio/s2083.mp3": {
+"text": "Although I was tired, I couldn't sleep.",
+"voice": "f"
+},
+"audio/w-service.mp3": {
+"text": "service",
+"voice": "w"
+},
+"audio/w-slow.mp3": {
+"text": "slow",
+"voice": "w"
+},
+"audio/s2084.mp3": {
+"text": "The food was good, while the service was slow.",
+"voice": "m"
+},
+"audio/s2085.mp3": {
+"text": "Despite being nervous, she gave a great speech.",
+"voice": "f"
+},
+"audio/w-nevertheless.mp3": {
+"text": "Nevertheless",
+"voice": "w"
+},
+"audio/w-quality.mp3": {
+"text": "quality",
+"voice": "w"
+},
+"audio/w-excellent.mp3": {
+"text": "excellent",
+"voice": "w"
+},
+"audio/s2086.mp3": {
+"text": "It's cheap. Nevertheless, the quality is excellent.",
+"voice": "m"
+},
+"audio/w-respect.mp3": {
+"text": "respect",
+"voice": "w"
+},
+"audio/s2087.mp3": {
+"text": "Even though I disagree, I respect your opinion.",
+"voice": "f"
+},
+"audio/w-utah.mp3": {
+"text": "Utah",
+"voice": "w"
+},
+"audio/w-unforgettable.mp3": {
+"text": "unforgettable",
+"voice": "w"
+},
+"audio/s2088.mp3": {
+"text": "Although our trip to Utah was short, it was unforgettable.",
+"voice": "m"
+},
+"audio/w-views.mp3": {
+"text": "views",
+"voice": "w"
+},
+"audio/w-incredible.mp3": {
+"text": "incredible",
+"voice": "w"
+},
+"audio/s2089.mp3": {
+"text": "The weather was very hot. However, the views were incredible.",
+"voice": "f"
+},
+"audio/w-hiked.mp3": {
+"text": "hiked",
+"voice": "w"
+},
+"audio/s2090.mp3": {
+"text": "Despite the heat, we hiked every morning.",
+"voice": "m"
+},
+"audio/s2091.mp3": {
+"text": "Even though the hotel was simple, it was clean.",
+"voice": "f"
+},
+"audio/s2092.mp3": {
+"text": "On the other hand, the food wasn't great.",
+"voice": "m"
+},
+"audio/s2093.mp3": {
+"text": "Nevertheless, we'd love to go back.",
+"voice": "f"
+},
+"audio/s2094.mp3": {
+"text": "Even though it was late, she called me.",
+"voice": "m"
+},
+"audio/s2095.mp3": {
+"text": "Despite the rain, the concert went on.",
+"voice": "f"
+},
+"audio/s2096.mp3": {
+"text": "I love my city. However, it's too expensive.",
+"voice": "m"
+},
+"audio/w-wise.mp3": {
+"text": "wise",
+"voice": "w"
+},
+"audio/s2097.mp3": {
+"text": "Although he's young, he's very wise.",
+"voice": "f"
+},
+"audio/s2098.mp3": {
+"text": "She kept working in spite of the noise.",
+"voice": "m"
+},
+"audio/s2099.mp3": {
+"text": "The test was hard, but I passed.",
+"voice": "f"
+},
+"audio/s2100.mp3": {
+"text": "Even though we were tired, we kept walking.",
+"voice": "m"
+},
+"audio/s2101.mp3": {
+"text": "The flight was canceled due to bad weather.",
+"voice": "f"
+},
+"audio/w-strike.mp3": {
+"text": "strike",
+"voice": "w"
+},
+"audio/w-trains.mp3": {
+"text": "trains",
+"voice": "w"
+},
+"audio/s2102.mp3": {
+"text": "Because of the strike, the trains aren't running.",
+"voice": "m"
+},
+"audio/s2103.mp3": {
+"text": "He didn't study, so he failed the exam.",
+"voice": "f"
+},
+"audio/s2104.mp3": {
+"text": "Since you're here, let's start the meeting.",
+"voice": "m"
+},
+"audio/w-result.mp3": {
+"text": "result",
+"voice": "w"
+},
+"audio/s2105.mp3": {
+"text": "Prices went up. As a result, sales dropped.",
+"voice": "f"
+},
+"audio/w-roads.mp3": {
+"text": "roads",
+"voice": "w"
+},
+"audio/w-icy.mp3": {
+"text": "icy",
+"voice": "w"
+},
+"audio/w-caused.mp3": {
+"text": "caused",
+"voice": "w"
+},
+"audio/w-several.mp3": {
+"text": "several",
+"voice": "w"
+},
+"audio/w-accidents.mp3": {
+"text": "accidents",
+"voice": "w"
+},
+"audio/s2106.mp3": {
+"text": "The roads were icy, which caused several accidents.",
+"voice": "m"
+},
+"audio/w-feeling.mp3": {
+"text": "feeling",
+"voice": "w"
+},
+"audio/s2107.mp3": {
+"text": "I stayed home because I wasn't feeling well.",
+"voice": "f"
+},
+"audio/w-therefore.mp3": {
+"text": "Therefore",
+"voice": "w"
+},
+"audio/w-staff.mp3": {
+"text": "staff",
+"voice": "w"
+},
+"audio/s2108.mp3": {
+"text": "Therefore, we need to hire more staff.",
+"voice": "m"
+},
+"audio/w-postponed.mp3": {
+"text": "postponed",
+"voice": "w"
+},
+"audio/w-owing.mp3": {
+"text": "owing",
+"voice": "w"
+},
+"audio/s2109.mp3": {
+"text": "The game was postponed owing to the storm.",
+"voice": "f"
+},
+"audio/s2110.mp3": {
+"text": "Thanks to your help, we finished early.",
+"voice": "m"
+},
+"audio/w-lead.mp3": {
+"text": "lead",
+"voice": "w"
+},
+"audio/w-health.mp3": {
+"text": "health",
+"voice": "w"
+},
+"audio/w-problems.mp3": {
+"text": "problems",
+"voice": "w"
+},
+"audio/s2111.mp3": {
+"text": "Too much sugar can lead to health problems.",
+"voice": "f"
+},
+"audio/s2112.mp3": {
+"text": "That's why I always carry an umbrella.",
+"voice": "m"
+},
+"audio/w-huge.mp3": {
+"text": "huge",
+"voice": "w"
+},
+"audio/w-hit.mp3": {
+"text": "hit",
+"voice": "w"
+},
+"audio/s2113.mp3": {
+"text": "Last winter a huge storm hit our town.",
+"voice": "f"
+},
+"audio/w-schools.mp3": {
+"text": "schools",
+"voice": "w"
+},
+"audio/s2114.mp3": {
+"text": "Because of the snow, schools closed for a week.",
+"voice": "m"
+},
+"audio/s2115.mp3": {
+"text": "Many roads were icy, which caused accidents.",
+"voice": "f"
+},
+"audio/w-power.mp3": {
+"text": "power",
+"voice": "w"
+},
+"audio/w-cuts.mp3": {
+"text": "cuts",
+"voice": "w"
+},
+"audio/w-homes.mp3": {
+"text": "homes",
+"voice": "w"
+},
+"audio/s2116.mp3": {
+"text": "Due to the power cuts, people couldn't heat their homes.",
+"voice": "m"
+},
+"audio/s2117.mp3": {
+"text": "Thanks to our neighbors, nobody was alone.",
+"voice": "f"
+},
+"audio/s2118.mp3": {
+"text": "As a result, the storm brought us closer together.",
+"voice": "m"
+},
+"audio/s2119.mp3": {
+"text": "I missed the train, so I took a taxi.",
+"voice": "f"
+},
+"audio/s2120.mp3": {
+"text": "Because of the noise, I couldn't sleep.",
+"voice": "m"
+},
+"audio/s2121.mp3": {
+"text": "He was late because his car broke down.",
+"voice": "f"
+},
+"audio/s2122.mp3": {
+"text": "The store closed due to low sales.",
+"voice": "m"
+},
+"audio/s2123.mp3": {
+"text": "As a result of the storm, we lost power.",
+"voice": "f"
+},
+"audio/s2124.mp3": {
+"text": "She trained every day, so she won the race.",
+"voice": "m"
+},
+"audio/w-shorter.mp3": {
+"text": "shorter",
+"voice": "w"
+},
+"audio/s2125.mp3": {
+"text": "Thanks to the new road, the trip is shorter.",
+"voice": "f"
+},
+"audio/w-miami.mp3": {
+"text": "Miami",
+"voice": "w"
+},
+"audio/s2126.mp3": {
+"text": "This time tomorrow I'll be flying to Miami.",
+"voice": "m"
+},
+"audio/w-degree.mp3": {
+"text": "degree",
+"voice": "w"
+},
+"audio/s2127.mp3": {
+"text": "By next year, I will have finished my degree.",
+"voice": "f"
+},
+"audio/w-using.mp3": {
+"text": "using",
+"voice": "w"
+},
+"audio/s2128.mp3": {
+"text": "Will you be using the car tonight?",
+"voice": "m"
+},
+"audio/s2129.mp3": {
+"text": "By the time you arrive, we'll have eaten.",
+"voice": "f"
+},
+"audio/s2130.mp3": {
+"text": "In ten years, we'll be living in a different city.",
+"voice": "m"
+},
+"audio/s2131.mp3": {
+"text": "She will have worked here for twenty years in May.",
+"voice": "f"
+},
+"audio/s2132.mp3": {
+"text": "Don't call at eight, I'll be watching the game.",
+"voice": "m"
+},
+"audio/w-they-ll.mp3": {
+"text": "They'll",
+"voice": "w"
+},
+"audio/s2133.mp3": {
+"text": "They'll have left by the time we get there.",
+"voice": "f"
+},
+"audio/w-entrance.mp3": {
+"text": "entrance",
+"voice": "w"
+},
+"audio/s2134.mp3": {
+"text": "I'll be waiting for you at the entrance.",
+"voice": "m"
+},
+"audio/s2135.mp3": {
+"text": "By Friday, I will have read the whole report.",
+"voice": "f"
+},
+"audio/s2136.mp3": {
+"text": "Will you have finished by noon?",
+"voice": "m"
+},
+"audio/w-traveling.mp3": {
+"text": "traveling",
+"voice": "w"
+},
+"audio/w-europe.mp3": {
+"text": "Europe",
+"voice": "w"
+},
+"audio/s2137.mp3": {
+"text": "Next summer I'll be traveling around Europe.",
+"voice": "f"
+},
+"audio/s2138.mp3": {
+"text": "By this time next year, my life will have changed a lot.",
+"voice": "m"
+},
+"audio/w-nursing.mp3": {
+"text": "nursing",
+"voice": "w"
+},
+"audio/s2139.mp3": {
+"text": "I will have graduated from nursing school.",
+"voice": "f"
+},
+"audio/w-san.mp3": {
+"text": "San",
+"voice": "w"
+},
+"audio/w-diego.mp3": {
+"text": "Diego",
+"voice": "w"
+},
+"audio/s2140.mp3": {
+"text": "I'll be working at a hospital in San Diego.",
+"voice": "m"
+},
+"audio/w-own.mp3": {
+"text": "own",
+"voice": "w"
+},
+"audio/s2141.mp3": {
+"text": "I'll be living in my own apartment near the beach.",
+"voice": "f"
+},
+"audio/s2142.mp3": {
+"text": "And I will have saved enough money for a car.",
+"voice": "m"
+},
+"audio/s2143.mp3": {
+"text": "I can't wait!",
+"voice": "f"
+},
+"audio/w-sitting.mp3": {
+"text": "sitting",
+"voice": "w"
+},
+"audio/s2144.mp3": {
+"text": "At nine tomorrow, I'll be sitting in a meeting.",
+"voice": "m"
+},
+"audio/w-loan.mp3": {
+"text": "loan",
+"voice": "w"
+},
+"audio/s2145.mp3": {
+"text": "By the end of the month, I'll have paid off my loan.",
+"voice": "f"
+},
+"audio/s2146.mp3": {
+"text": "Will you be coming to the party?",
+"voice": "m"
+},
+"audio/s2147.mp3": {
+"text": "They'll be living in their new house by June.",
+"voice": "f"
+},
+"audio/w-retires.mp3": {
+"text": "retires",
+"voice": "w"
+},
+"audio/w-he-ll.mp3": {
+"text": "he'll",
+"voice": "w"
+},
+"audio/s2148.mp3": {
+"text": "By the time he retires, he'll have worked for forty years.",
+"voice": "m"
+},
+"audio/s2149.mp3": {
+"text": "Don't worry, I'll be thinking of you.",
+"voice": "f"
+},
+"audio/s2150.mp3": {
+"text": "The movie will have started by the time we get there.",
+"voice": "m"
+},
+"audio/s2151.mp3": {
+"text": "I've been waiting for over an hour.",
+"voice": "f"
+},
+"audio/s2152.mp3": {
+"text": "She has been working here since two thousand nineteen.",
+"voice": "m"
+},
+"audio/s2153.mp3": {
+"text": "How long have you been learning English?",
+"voice": "f"
+},
+"audio/s2154.mp3": {
+"text": "It's been raining all day.",
+"voice": "m"
+},
+"audio/w-they-ve.mp3": {
+"text": "They've",
+"voice": "w"
+},
+"audio/w-arguing.mp3": {
+"text": "arguing",
+"voice": "w"
+},
+"audio/s2155.mp3": {
+"text": "They've been arguing all morning.",
+"voice": "f"
+},
+"audio/s2156.mp3": {
+"text": "You look tired. Have you been running?",
+"voice": "m"
+},
+"audio/w-coast.mp3": {
+"text": "coast",
+"voice": "w"
+},
+"audio/s2157.mp3": {
+"text": "We've been thinking about moving to the coast.",
+"voice": "f"
+},
+"audio/s2158.mp3": {
+"text": "He's been feeling sick for a few days.",
+"voice": "m"
+},
+"audio/w-lately.mp3": {
+"text": "lately",
+"voice": "w"
+},
+"audio/s2159.mp3": {
+"text": "I haven't been sleeping well lately.",
+"voice": "f"
+},
+"audio/s2160.mp3": {
+"text": "What have you been doing all this time?",
+"voice": "m"
+},
+"audio/s2161.mp3": {
+"text": "She's been saving for a house for years.",
+"voice": "f"
+},
+"audio/w-acting.mp3": {
+"text": "acting",
+"voice": "w"
+},
+"audio/w-recently.mp3": {
+"text": "recently",
+"voice": "w"
+},
+"audio/s2162.mp3": {
+"text": "My phone has been acting strange recently.",
+"voice": "m"
+},
+"audio/s2163.mp3": {
+"text": "I've been learning English for three years now.",
+"voice": "f"
+},
+"audio/s2164.mp3": {
+"text": "I've been taking classes twice a week.",
+"voice": "m"
+},
+"audio/w-american.mp3": {
+"text": "American",
+"voice": "w"
+},
+"audio/w-shows.mp3": {
+"text": "shows",
+"voice": "w"
+},
+"audio/w-without.mp3": {
+"text": "without",
+"voice": "w"
+},
+"audio/w-subtitles.mp3": {
+"text": "subtitles",
+"voice": "w"
+},
+"audio/s2165.mp3": {
+"text": "Lately I've been watching American TV shows without subtitles.",
+"voice": "f"
+},
+"audio/w-practicing.mp3": {
+"text": "practicing",
+"voice": "w"
+},
+"audio/s2166.mp3": {
+"text": "I've also been practicing with a friend from Oregon.",
+"voice": "m"
+},
+"audio/w-accent.mp3": {
+"text": "accent",
+"voice": "w"
+},
+"audio/s2167.mp3": {
+"text": "My accent has been getting better.",
+"voice": "f"
+},
+"audio/w-enjoying.mp3": {
+"text": "enjoying",
+"voice": "w"
+},
+"audio/s2168.mp3": {
+"text": "I've been enjoying every minute of it.",
+"voice": "m"
+},
+"audio/s2169.mp3": {
+"text": "I've been trying to call you all day.",
+"voice": "f"
+},
+"audio/w-crying.mp3": {
+"text": "crying",
+"voice": "w"
+},
+"audio/s2170.mp3": {
+"text": "Have you been crying?",
+"voice": "m"
+},
+"audio/s2171.mp3": {
+"text": "We've been living here for almost a year.",
+"voice": "f"
+},
+"audio/s2172.mp3": {
+"text": "He's been working too hard lately.",
+"voice": "m"
+},
+"audio/w-snowing.mp3": {
+"text": "snowing",
+"voice": "w"
+},
+"audio/s2173.mp3": {
+"text": "How long has it been snowing?",
+"voice": "f"
+},
+"audio/w-meaning.mp3": {
+"text": "meaning",
+"voice": "w"
+},
+"audio/s2174.mp3": {
+"text": "I've been meaning to tell you something.",
+"voice": "m"
+},
+"audio/s2175.mp3": {
+"text": "They've been building that house for two years.",
+"voice": "f"
+},
+"audio/w-joking.mp3": {
+"text": "joking",
+"voice": "w"
+},
+"audio/s2176.mp3": {
+"text": "He must have been joking.",
+"voice": "m"
+},
+"audio/s2177.mp3": {
+"text": "She can't have known about the party.",
+"voice": "f"
+},
+"audio/s2178.mp3": {
+"text": "They might have gotten lost on the way.",
+"voice": "m"
+},
+"audio/w-yourself.mp3": {
+"text": "yourself",
+"voice": "w"
+},
+"audio/s2179.mp3": {
+"text": "You could have hurt yourself!",
+"voice": "f"
+},
+"audio/s2180.mp3": {
+"text": "The thief must have come in through the window.",
+"voice": "m"
+},
+"audio/s2181.mp3": {
+"text": "I may have made a mistake in the report.",
+"voice": "f"
+},
+"audio/s2182.mp3": {
+"text": "It couldn't have been Tom; he was with me.",
+"voice": "m"
+},
+"audio/s2183.mp3": {
+"text": "She must have been waiting for hours.",
+"voice": "f"
+},
+"audio/w-received.mp3": {
+"text": "received",
+"voice": "w"
+},
+"audio/s2184.mp3": {
+"text": "He might not have received my message.",
+"voice": "m"
+},
+"audio/s2185.mp3": {
+"text": "They can't have finished already.",
+"voice": "f"
+},
+"audio/s2186.mp3": {
+"text": "The power must have gone out during the night.",
+"voice": "m"
+},
+"audio/s2187.mp3": {
+"text": "You must have been really scared.",
+"voice": "f"
+},
+"audio/w-destroyed.mp3": {
+"text": "destroyed",
+"voice": "w"
+},
+"audio/s2188.mp3": {
+"text": "When we got back from vacation, the garden was destroyed.",
+"voice": "m"
+},
+"audio/s2189.mp3": {
+"text": "At first we thought someone must have broken in.",
+"voice": "f"
+},
+"audio/w-missing.mp3": {
+"text": "missing",
+"voice": "w"
+},
+"audio/s2190.mp3": {
+"text": "But nothing was missing from the house.",
+"voice": "m"
+},
+"audio/s2191.mp3": {
+"text": "It might have been the storm.",
+"voice": "f"
+},
+"audio/w-tracks.mp3": {
+"text": "tracks",
+"voice": "w"
+},
+"audio/w-deer.mp3": {
+"text": "deer",
+"voice": "w"
+},
+"audio/s2192.mp3": {
+"text": "Then we saw tracks everywhere. It must have been a deer!",
+"voice": "m"
+},
+"audio/w-roses.mp3": {
+"text": "roses",
+"voice": "w"
+},
+"audio/s2193.mp3": {
+"text": "It can't have been very hungry, because it ate only the roses.",
+"voice": "f"
+},
+"audio/w-anniversary.mp3": {
+"text": "anniversary",
+"voice": "w"
+},
+"audio/s2194.mp3": {
+"text": "He must have forgotten our anniversary.",
+"voice": "m"
+},
+"audio/s2195.mp3": {
+"text": "She might have taken the wrong bus.",
+"voice": "f"
+},
+"audio/w-saying.mp3": {
+"text": "saying",
+"voice": "w"
+},
+"audio/s2196.mp3": {
+"text": "They can't have left without saying goodbye.",
+"voice": "m"
+},
+"audio/w-somewhere.mp3": {
+"text": "somewhere",
+"voice": "w"
+},
+"audio/s2197.mp3": {
+"text": "I must have dropped my keys somewhere.",
+"voice": "f"
+},
+"audio/w-mentioned.mp3": {
+"text": "mentioned",
+"voice": "w"
+},
+"audio/s2198.mp3": {
+"text": "You might have mentioned it earlier.",
+"voice": "m"
+},
+"audio/s2199.mp3": {
+"text": "It must have been very expensive.",
+"voice": "f"
+},
+"audio/s2200.mp3": {
+"text": "He could have been more polite.",
+"voice": "m"
+},
+"audio/s2201.mp3": {
+"text": "Tell me a little about yourself.",
+"voice": "f"
+},
+"audio/s2202.mp3": {
+"text": "Why do you want to work for us?",
+"voice": "m"
+},
+"audio/w-greatest.mp3": {
+"text": "greatest",
+"voice": "w"
+},
+"audio/w-strengths.mp3": {
+"text": "strengths",
+"voice": "w"
+},
+"audio/s2203.mp3": {
+"text": "What are your greatest strengths?",
+"voice": "f"
+},
+"audio/w-experience.mp3": {
+"text": "experience",
+"voice": "w"
+},
+"audio/w-marketing.mp3": {
+"text": "marketing",
+"voice": "w"
+},
+"audio/s2204.mp3": {
+"text": "I have five years of experience in marketing.",
+"voice": "m"
+},
+"audio/s2205.mp3": {
+"text": "Where do you see yourself in five years?",
+"voice": "f"
+},
+"audio/w-pressure.mp3": {
+"text": "pressure",
+"voice": "w"
+},
+"audio/s2206.mp3": {
+"text": "I work well under pressure.",
+"voice": "m"
+},
+"audio/w-learner.mp3": {
+"text": "learner",
+"voice": "w"
+},
+"audio/w-player.mp3": {
+"text": "player",
+"voice": "w"
+},
+"audio/s2207.mp3": {
+"text": "I'm a fast learner and a team player.",
+"voice": "f"
+},
+"audio/s2208.mp3": {
+"text": "Why did you leave your last job?",
+"voice": "m"
+},
+"audio/w-expectations.mp3": {
+"text": "expectations",
+"voice": "w"
+},
+"audio/s2209.mp3": {
+"text": "What are your salary expectations?",
+"voice": "f"
+},
+"audio/s2210.mp3": {
+"text": "Do you have any questions for us?",
+"voice": "m"
+},
+"audio/s2211.mp3": {
+"text": "When would you be able to start?",
+"voice": "f"
+},
+"audio/s2212.mp3": {
+"text": "Thank you for taking the time to meet me.",
+"voice": "m"
+},
+"audio/w-tech.mp3": {
+"text": "tech",
+"voice": "w"
+},
+"audio/s2213.mp3": {
+"text": "Yesterday I had a job interview at a tech company.",
+"voice": "f"
+},
+"audio/w-myself.mp3": {
+"text": "myself",
+"voice": "w"
+},
+"audio/s2214.mp3": {
+"text": "The manager asked me to tell her about myself.",
+"voice": "m"
+},
+"audio/s2215.mp3": {
+"text": "I explained that I have five years of experience.",
+"voice": "f"
+},
+"audio/w-current.mp3": {
+"text": "current",
+"voice": "w"
+},
+"audio/s2216.mp3": {
+"text": "She asked why I wanted to leave my current job.",
+"voice": "m"
+},
+"audio/w-challenges.mp3": {
+"text": "challenges",
+"voice": "w"
+},
+"audio/s2217.mp3": {
+"text": "I said I was looking for new challenges.",
+"voice": "f"
+},
+"audio/w-they-re.mp3": {
+"text": "They're",
+"voice": "w"
+},
+"audio/s2218.mp3": {
+"text": "They're going to let me know by Friday.",
+"voice": "m"
+},
+"audio/w-interested.mp3": {
+"text": "interested",
+"voice": "w"
+},
+"audio/w-position.mp3": {
+"text": "position",
+"voice": "w"
+},
+"audio/s2219.mp3": {
+"text": "I'm very interested in this position.",
+"voice": "f"
+},
+"audio/w-weakness.mp3": {
+"text": "weakness",
+"voice": "w"
+},
+"audio/w-perfectionist.mp3": {
+"text": "perfectionist",
+"voice": "w"
+},
+"audio/s2220.mp3": {
+"text": "My biggest weakness is that I'm a perfectionist.",
+"voice": "m"
+},
+"audio/w-led.mp3": {
+"text": "led",
+"voice": "w"
+},
+"audio/s2221.mp3": {
+"text": "I led a team of six people.",
+"voice": "f"
+},
+"audio/w-example.mp3": {
+"text": "example",
+"voice": "w"
+},
+"audio/s2222.mp3": {
+"text": "Can you give me an example?",
+"voice": "m"
+},
+"audio/w-available.mp3": {
+"text": "available",
+"voice": "w"
+},
+"audio/s2223.mp3": {
+"text": "I'm available to start next month.",
+"voice": "f"
+},
+"audio/w-typical.mp3": {
+"text": "typical",
+"voice": "w"
+},
+"audio/s2224.mp3": {
+"text": "What does a typical day look like here?",
+"voice": "m"
+},
+"audio/s2225.mp3": {
+"text": "I'm comfortable working in a team.",
+"voice": "f"
+},
+"audio/s2226.mp3": {
+"text": "Let's get started, everyone.",
+"voice": "m"
+},
+"audio/w-purpose.mp3": {
+"text": "purpose",
+"voice": "w"
+},
+"audio/w-review.mp3": {
+"text": "review",
+"voice": "w"
+},
+"audio/w-budget.mp3": {
+"text": "budget",
+"voice": "w"
+},
+"audio/s2227.mp3": {
+"text": "The purpose of this meeting is to review our budget.",
+"voice": "f"
+},
+"audio/w-share.mp3": {
+"text": "share",
+"voice": "w"
+},
+"audio/w-screen.mp3": {
+"text": "screen",
+"voice": "w"
+},
+"audio/s2228.mp3": {
+"text": "Could you share your screen?",
+"voice": "m"
+},
+"audio/w-writing.mp3": {
+"text": "writing",
+"voice": "w"
+},
+"audio/w-conversation.mp3": {
+"text": "conversation",
+"voice": "w"
+},
+"audio/s2229.mp3": {
+"text": "I'm writing to follow up on our conversation.",
+"voice": "f"
+},
+"audio/w-attached.mp3": {
+"text": "attached",
+"voice": "w"
+},
+"audio/w-file.mp3": {
+"text": "file",
+"voice": "w"
+},
+"audio/s2230.mp3": {
+"text": "Please find the attached file.",
+"voice": "m"
+},
+"audio/w-agenda.mp3": {
+"text": "agenda",
+"voice": "w"
+},
+"audio/s2231.mp3": {
+"text": "Let's put that on the agenda for next week.",
+"voice": "f"
+},
+"audio/s2232.mp3": {
+"text": "I'm afraid I have to disagree with that point.",
+"voice": "m"
+},
+"audio/w-push.mp3": {
+"text": "push",
+"voice": "w"
+},
+"audio/s2233.mp3": {
+"text": "Can we push the meeting to Thursday?",
+"voice": "f"
+},
+"audio/s2234.mp3": {
+"text": "Let me know if you have any questions.",
+"voice": "m"
+},
+"audio/w-mute.mp3": {
+"text": "mute",
+"voice": "w"
+},
+"audio/s2235.mp3": {
+"text": "Sorry, you're on mute.",
+"voice": "f"
+},
+"audio/w-wrap.mp3": {
+"text": "wrap",
+"voice": "w"
+},
+"audio/s2236.mp3": {
+"text": "We're running out of time, so let's wrap up.",
+"voice": "m"
+},
+"audio/w-hearing.mp3": {
+"text": "hearing",
+"voice": "w"
+},
+"audio/s2237.mp3": {
+"text": "I look forward to hearing from you.",
+"voice": "f"
+},
+"audio/w-joining.mp3": {
+"text": "joining",
+"voice": "w"
+},
+"audio/w-today-s.mp3": {
+"text": "today's",
+"voice": "w"
+},
+"audio/s2238.mp3": {
+"text": "Hi team, thanks for joining today's call.",
+"voice": "m"
+},
+"audio/s2239.mp3": {
+"text": "I'll share my screen so everyone can see the numbers.",
+"voice": "f"
+},
+"audio/w-spending.mp3": {
+"text": "spending",
+"voice": "w"
+},
+"audio/s2240.mp3": {
+"text": "We're spending too much on travel.",
+"voice": "m"
+},
+"audio/w-summary.mp3": {
+"text": "summary",
+"voice": "w"
+},
+"audio/s2241.mp3": {
+"text": "I'll send everyone a summary by email this afternoon.",
+"voice": "f"
+},
+"audio/s2242.mp3": {
+"text": "Let's go around the table.",
+"voice": "m"
+},
+"audio/s2243.mp3": {
+"text": "Does anyone have any questions?",
+"voice": "f"
+},
+"audio/s2244.mp3": {
+"text": "I'll keep this short.",
+"voice": "m"
+},
+"audio/s2245.mp3": {
+"text": "Can everyone hear me?",
+"voice": "f"
+},
+"audio/w-quick.mp3": {
+"text": "quick",
+"voice": "w"
+},
+"audio/w-reply.mp3": {
+"text": "reply",
+"voice": "w"
+},
+"audio/s2246.mp3": {
+"text": "Thanks for your quick reply.",
+"voice": "m"
+},
+"audio/s2247.mp3": {
+"text": "Please let me know by the end of the day.",
+"voice": "f"
+},
+"audio/w-copying.mp3": {
+"text": "copying",
+"voice": "w"
+},
+"audio/s2248.mp3": {
+"text": "I'm copying my manager on this email.",
+"voice": "m"
+},
+"audio/w-schedule.mp3": {
+"text": "schedule",
+"voice": "w"
+},
+"audio/w-follow-up.mp3": {
+"text": "follow-up",
+"voice": "w"
+},
+"audio/s2249.mp3": {
+"text": "Let's schedule a follow-up meeting.",
+"voice": "f"
+},
+"audio/s2250.mp3": {
+"text": "Sorry for the late reply.",
+"voice": "m"
+},
+"audio/w-president.mp3": {
+"text": "president",
+"voice": "w"
+},
+"audio/s2251.mp3": {
+"text": "The president will give a speech tonight.",
+"voice": "f"
+},
+"audio/w-according.mp3": {
+"text": "According",
+"voice": "w"
+},
+"audio/w-unemployment.mp3": {
+"text": "unemployment",
+"voice": "w"
+},
+"audio/s2252.mp3": {
+"text": "According to the report, unemployment has fallen.",
+"voice": "m"
+},
+"audio/w-viral.mp3": {
+"text": "viral",
+"voice": "w"
+},
+"audio/s2253.mp3": {
+"text": "The story went viral in a few hours.",
+"voice": "f"
+},
+"audio/w-trust.mp3": {
+"text": "trust",
+"voice": "w"
+},
+"audio/s2254.mp3": {
+"text": "I don't trust everything I read online.",
+"voice": "m"
+},
+"audio/w-journalist.mp3": {
+"text": "journalist",
+"voice": "w"
+},
+"audio/w-interviewed.mp3": {
+"text": "interviewed",
+"voice": "w"
+},
+"audio/w-witnesses.mp3": {
+"text": "witnesses",
+"voice": "w"
+},
+"audio/s2255.mp3": {
+"text": "The journalist interviewed several witnesses.",
+"voice": "f"
+},
+"audio/w-breaking.mp3": {
+"text": "Breaking",
+"voice": "w"
+},
+"audio/s2256.mp3": {
+"text": "Breaking news: a fire has destroyed a factory.",
+"voice": "m"
+},
+"audio/w-social.mp3": {
+"text": "social",
+"voice": "w"
+},
+"audio/w-media.mp3": {
+"text": "media",
+"voice": "w"
+},
+"audio/s2257.mp3": {
+"text": "Many people get their news from social media.",
+"voice": "f"
+},
+"audio/w-headline.mp3": {
+"text": "headline",
+"voice": "w"
+},
+"audio/w-completely.mp3": {
+"text": "completely",
+"voice": "w"
+},
+"audio/w-misleading.mp3": {
+"text": "misleading",
+"voice": "w"
+},
+"audio/s2258.mp3": {
+"text": "The headline was completely misleading.",
+"voice": "m"
+},
+"audio/w-officials.mp3": {
+"text": "Officials",
+"voice": "w"
+},
+"audio/w-commented.mp3": {
+"text": "commented",
+"voice": "w"
+},
+"audio/s2259.mp3": {
+"text": "Officials have not commented yet.",
+"voice": "f"
+},
+"audio/w-broadcast.mp3": {
+"text": "broadcast",
+"voice": "w"
+},
+"audio/s2260.mp3": {
+"text": "The interview will be broadcast live.",
+"voice": "m"
+},
+"audio/w-sources.mp3": {
+"text": "sources",
+"voice": "w"
+},
+"audio/s2261.mp3": {
+"text": "It's important to check your sources.",
+"voice": "f"
+},
+"audio/w-newspaper.mp3": {
+"text": "newspaper",
+"voice": "w"
+},
+"audio/w-published.mp3": {
+"text": "published",
+"voice": "w"
+},
+"audio/w-apology.mp3": {
+"text": "apology",
+"voice": "w"
+},
+"audio/s2262.mp3": {
+"text": "The newspaper published an apology.",
+"voice": "m"
+},
+"audio/s2263.mp3": {
+"text": "Last night a story went viral online.",
+"voice": "f"
+},
+"audio/w-actor.mp3": {
+"text": "actor",
+"voice": "w"
+},
+"audio/w-died.mp3": {
+"text": "died",
+"voice": "w"
+},
+"audio/s2264.mp3": {
+"text": "It said that a famous actor had died.",
+"voice": "m"
+},
+"audio/w-shared.mp3": {
+"text": "shared",
+"voice": "w"
+},
+"audio/w-within.mp3": {
+"text": "within",
+"voice": "w"
+},
+"audio/s2265.mp3": {
+"text": "Millions of people shared it within hours.",
+"voice": "f"
+},
+"audio/w-posted.mp3": {
+"text": "posted",
+"voice": "w"
+},
+"audio/w-video.mp3": {
+"text": "video",
+"voice": "w"
+},
+"audio/s2266.mp3": {
+"text": "But the next morning the actor posted a video.",
+"voice": "m"
+},
+"audio/w-alive.mp3": {
+"text": "alive",
+"voice": "w"
+},
+"audio/s2267.mp3": {
+"text": "He was alive and having breakfast in Paris!",
+"voice": "f"
+},
+"audio/s2268.mp3": {
+"text": "That's why you should always check your sources.",
+"voice": "m"
+},
+"audio/w-spread.mp3": {
+"text": "spread",
+"voice": "w"
+},
+"audio/s2269.mp3": {
+"text": "The news spread quickly on social media.",
+"voice": "f"
+},
+"audio/w-investigating.mp3": {
+"text": "investigating",
+"voice": "w"
+},
+"audio/w-incident.mp3": {
+"text": "incident",
+"voice": "w"
+},
+"audio/s2270.mp3": {
+"text": "The police are investigating the incident.",
+"voice": "m"
+},
+"audio/w-experts.mp3": {
+"text": "Experts",
+"voice": "w"
+},
+"audio/w-economy.mp3": {
+"text": "economy",
+"voice": "w"
+},
+"audio/w-improve.mp3": {
+"text": "improve",
+"voice": "w"
+},
+"audio/s2271.mp3": {
+"text": "Experts say the economy will improve.",
+"voice": "f"
+},
+"audio/w-article.mp3": {
+"text": "article",
+"voice": "w"
+},
+"audio/w-false.mp3": {
+"text": "false",
+"voice": "w"
+},
+"audio/w-information.mp3": {
+"text": "information",
+"voice": "w"
+},
+"audio/s2272.mp3": {
+"text": "The article was full of false information.",
+"voice": "m"
+},
+"audio/w-latest.mp3": {
+"text": "latest",
+"voice": "w"
+},
+"audio/s2273.mp3": {
+"text": "Have you seen the latest news?",
+"voice": "f"
+},
+"audio/w-reporter.mp3": {
+"text": "reporter",
+"voice": "w"
+},
+"audio/w-tough.mp3": {
+"text": "tough",
+"voice": "w"
+},
+"audio/s2274.mp3": {
+"text": "The reporter asked a tough question.",
+"voice": "m"
+},
+"audio/w-event.mp3": {
+"text": "event",
+"voice": "w"
+},
+"audio/w-covered.mp3": {
+"text": "covered",
+"voice": "w"
+},
+"audio/w-channel.mp3": {
+"text": "channel",
+"voice": "w"
+},
+"audio/s2275.mp3": {
+"text": "The event was covered by every major channel.",
+"voice": "f"
+},
+"audio/w-plastic.mp3": {
+"text": "plastic",
+"voice": "w"
+},
+"audio/s2276.mp3": {
+"text": "We should use less plastic.",
+"voice": "m"
+},
+"audio/w-climate.mp3": {
+"text": "Climate",
+"voice": "w"
+},
+"audio/w-affects.mp3": {
+"text": "affects",
+"voice": "w"
+},
+"audio/s2277.mp3": {
+"text": "Climate change affects everyone.",
+"voice": "f"
+},
+"audio/w-recycles.mp3": {
+"text": "recycles",
+"voice": "w"
+},
+"audio/w-paper.mp3": {
+"text": "paper",
+"voice": "w"
+},
+"audio/w-metal.mp3": {
+"text": "metal",
+"voice": "w"
+},
+"audio/s2278.mp3": {
+"text": "Our city recycles paper, glass, and metal.",
+"voice": "m"
+},
+"audio/w-animals.mp3": {
+"text": "animals",
+"voice": "w"
+},
+"audio/w-losing.mp3": {
+"text": "losing",
+"voice": "w"
+},
+"audio/w-habitats.mp3": {
+"text": "habitats",
+"voice": "w"
+},
+"audio/s2279.mp3": {
+"text": "Many animals are losing their habitats.",
+"voice": "f"
+},
+"audio/w-solar.mp3": {
+"text": "Solar",
+"voice": "w"
+},
+"audio/w-becoming.mp3": {
+"text": "becoming",
+"voice": "w"
+},
+"audio/s2280.mp3": {
+"text": "Solar energy is becoming cheaper every year.",
+"voice": "m"
+},
+"audio/s2281.mp3": {
+"text": "I try to walk instead of driving.",
+"voice": "f"
+},
+"audio/w-air.mp3": {
+"text": "air",
+"voice": "w"
+},
+"audio/w-pollution.mp3": {
+"text": "pollution",
+"voice": "w"
+},
+"audio/s2282.mp3": {
+"text": "The air pollution here is getting worse.",
+"voice": "m"
+},
+"audio/w-planted.mp3": {
+"text": "planted",
+"voice": "w"
+},
+"audio/w-trees.mp3": {
+"text": "trees",
+"voice": "w"
+},
+"audio/s2283.mp3": {
+"text": "We planted fifty trees in the park.",
+"voice": "f"
+},
+"audio/s2284.mp3": {
+"text": "Turn off the lights when you leave the room.",
+"voice": "m"
+},
+"audio/w-waste.mp3": {
+"text": "waste",
+"voice": "w"
+},
+"audio/s2285.mp3": {
+"text": "The ocean is full of plastic waste.",
+"voice": "f"
+},
+"audio/w-electric.mp3": {
+"text": "Electric",
+"voice": "w"
+},
+"audio/w-produce.mp3": {
+"text": "produce",
+"voice": "w"
+},
+"audio/s2286.mp3": {
+"text": "Electric cars produce less pollution.",
+"voice": "m"
+},
+"audio/w-action.mp3": {
+"text": "action",
+"voice": "w"
+},
+"audio/w-difference.mp3": {
+"text": "difference",
+"voice": "w"
+},
+"audio/s2287.mp3": {
+"text": "Every small action makes a difference.",
+"voice": "f"
+},
+"audio/s2288.mp3": {
+"text": "Our neighborhood started a green project last spring.",
+"voice": "m"
+},
+"audio/s2289.mp3": {
+"text": "We planted fifty trees along the main street.",
+"voice": "f"
+},
+"audio/w-families.mp3": {
+"text": "families",
+"voice": "w"
+},
+"audio/w-recycle.mp3": {
+"text": "recycle",
+"voice": "w"
+},
+"audio/w-compost.mp3": {
+"text": "compost",
+"voice": "w"
+},
+"audio/s2290.mp3": {
+"text": "Now most families recycle and compost their food waste.",
+"voice": "m"
+},
+"audio/w-panels.mp3": {
+"text": "panels",
+"voice": "w"
+},
+"audio/s2291.mp3": {
+"text": "Some neighbors have even installed solar panels.",
+"voice": "f"
+},
+"audio/s2292.mp3": {
+"text": "The kids walk or bike to school.",
+"voice": "m"
+},
+"audio/s2293.mp3": {
+"text": "It's a small change, but it makes a difference.",
+"voice": "f"
+},
+"audio/w-protect.mp3": {
+"text": "protect",
+"voice": "w"
+},
+"audio/w-forests.mp3": {
+"text": "forests",
+"voice": "w"
+},
+"audio/s2294.mp3": {
+"text": "We need to protect our forests.",
+"voice": "m"
+},
+"audio/s2295.mp3": {
+"text": "Bring your own bag to the store.",
+"voice": "f"
+},
+"audio/w-polluted.mp3": {
+"text": "polluted",
+"voice": "w"
+},
+"audio/s2296.mp3": {
+"text": "The river is badly polluted.",
+"voice": "m"
+},
+"audio/w-source.mp3": {
+"text": "source",
+"voice": "w"
+},
+"audio/s2297.mp3": {
+"text": "Wind power is a clean source of energy.",
+"voice": "f"
+},
+"audio/w-showers.mp3": {
+"text": "showers",
+"voice": "w"
+},
+"audio/s2298.mp3": {
+"text": "I take shorter showers to save water.",
+"voice": "m"
+},
+"audio/w-species.mp3": {
+"text": "species",
+"voice": "w"
+},
+"audio/w-danger.mp3": {
+"text": "danger",
+"voice": "w"
+},
+"audio/w-extinction.mp3": {
+"text": "extinction",
+"voice": "w"
+},
+"audio/s2299.mp3": {
+"text": "Many species are in danger of extinction.",
+"voice": "f"
+},
+"audio/s2300.mp3": {
+"text": "Summers are getting hotter every year.",
+"voice": "m"
+},
+"audio/s2301.mp3": {
+"text": "My laptop keeps freezing.",
+"voice": "f"
+},
+"audio/w-turning.mp3": {
+"text": "turning",
+"voice": "w"
+},
+"audio/s2302.mp3": {
+"text": "Have you tried turning it off and on again?",
+"voice": "m"
+},
+"audio/w-update.mp3": {
+"text": "update",
+"voice": "w"
+},
+"audio/w-app.mp3": {
+"text": "app",
+"voice": "w"
+},
+"audio/s2303.mp3": {
+"text": "I need to update the app.",
+"voice": "f"
+},
+"audio/w-files.mp3": {
+"text": "files",
+"voice": "w"
+},
+"audio/s2304.mp3": {
+"text": "Don't forget to back up your files.",
+"voice": "m"
+},
+"audio/w-wi-fi.mp3": {
+"text": "Wi-Fi",
+"voice": "w"
+},
+"audio/s2305.mp3": {
+"text": "The Wi-Fi is really slow today.",
+"voice": "f"
+},
+"audio/w-hacked.mp3": {
+"text": "hacked",
+"voice": "w"
+},
+"audio/s2306.mp3": {
+"text": "Someone hacked my email account.",
+"voice": "m"
+},
+"audio/w-password.mp3": {
+"text": "password",
+"voice": "w"
+},
+"audio/s2307.mp3": {
+"text": "You should use a stronger password.",
+"voice": "f"
+},
+"audio/w-artificial.mp3": {
+"text": "Artificial",
+"voice": "w"
+},
+"audio/w-intelligence.mp3": {
+"text": "intelligence",
+"voice": "w"
+},
+"audio/s2308.mp3": {
+"text": "Artificial intelligence is changing many jobs.",
+"voice": "m"
+},
+"audio/s2309.mp3": {
+"text": "I spend too much time on my phone.",
+"voice": "f"
+},
+"audio/w-link.mp3": {
+"text": "link",
+"voice": "w"
+},
+"audio/s2310.mp3": {
+"text": "Can you send me the link?",
+"voice": "m"
+},
+"audio/w-dies.mp3": {
+"text": "dies",
+"voice": "w"
+},
+"audio/s2311.mp3": {
+"text": "The battery dies after just a few hours.",
+"voice": "f"
+},
+"audio/w-deleted.mp3": {
+"text": "deleted",
+"voice": "w"
+},
+"audio/s2312.mp3": {
+"text": "I deleted the file by accident.",
+"voice": "m"
+},
+"audio/w-suddenly.mp3": {
+"text": "suddenly",
+"voice": "w"
+},
+"audio/s2313.mp3": {
+"text": "Last week my computer suddenly stopped working.",
+"voice": "f"
+},
+"audio/w-backed.mp3": {
+"text": "backed",
+"voice": "w"
+},
+"audio/s2314.mp3": {
+"text": "I hadn't backed up my files for months.",
+"voice": "m"
+},
+"audio/w-repair.mp3": {
+"text": "repair",
+"voice": "w"
+},
+"audio/s2315.mp3": {
+"text": "I took it to a repair shop downtown.",
+"voice": "f"
+},
+"audio/w-technician.mp3": {
+"text": "technician",
+"voice": "w"
+},
+"audio/s2316.mp3": {
+"text": "The technician said the hard drive was damaged.",
+"voice": "m"
+},
+"audio/s2317.mp3": {
+"text": "Luckily, he was able to save most of my photos.",
+"voice": "f"
+},
+"audio/s2318.mp3": {
+"text": "Now I back up everything every Sunday.",
+"voice": "m"
+},
+"audio/w-storage.mp3": {
+"text": "storage",
+"voice": "w"
+},
+"audio/s2319.mp3": {
+"text": "My phone is almost out of storage.",
+"voice": "f"
+},
+"audio/w-bluetooth.mp3": {
+"text": "Bluetooth",
+"voice": "w"
+},
+"audio/s2320.mp3": {
+"text": "Can you turn on Bluetooth?",
+"voice": "m"
+},
+"audio/s2321.mp3": {
+"text": "I forgot my password again.",
+"voice": "f"
+},
+"audio/s2322.mp3": {
+"text": "This app is really easy to use.",
+"voice": "m"
+},
+"audio/w-cracked.mp3": {
+"text": "cracked",
+"voice": "w"
+},
+"audio/s2323.mp3": {
+"text": "The screen on my phone is cracked.",
+"voice": "f"
+},
+"audio/s2324.mp3": {
+"text": "I'll send you the file by email.",
+"voice": "m"
+},
+"audio/w-connected.mp3": {
+"text": "connected",
+"voice": "w"
+},
+"audio/w-internet.mp3": {
+"text": "internet",
+"voice": "w"
+},
+"audio/s2325.mp3": {
+"text": "Is your computer connected to the internet?",
+"voice": "f"
+},
+"audio/w-piece.mp3": {
+"text": "piece",
+"voice": "w"
+},
+"audio/s2326.mp3": {
+"text": "It's a piece of cake.",
+"voice": "m"
+},
+"audio/w-leg.mp3": {
+"text": "leg",
+"voice": "w"
+},
+"audio/s2327.mp3": {
+"text": "Break a leg tonight!",
+"voice": "f"
+},
+"audio/s2328.mp3": {
+"text": "I'm feeling a little under the weather.",
+"voice": "m"
+},
+"audio/s2329.mp3": {
+"text": "Let's call it a day.",
+"voice": "f"
+},
+"audio/s2330.mp3": {
+"text": "That costs an arm and a leg.",
+"voice": "m"
+},
+"audio/w-nail.mp3": {
+"text": "nail",
+"voice": "w"
+},
+"audio/s2331.mp3": {
+"text": "You hit the nail on the head.",
+"voice": "f"
+},
+"audio/s2332.mp3": {
+"text": "I'll take a rain check.",
+"voice": "m"
+},
+"audio/w-beat.mp3": {
+"text": "beat",
+"voice": "w"
+},
+"audio/w-bush.mp3": {
+"text": "bush",
+"voice": "w"
+},
+"audio/s2333.mp3": {
+"text": "Don't beat around the bush.",
+"voice": "f"
+},
+"audio/w-page.mp3": {
+"text": "page",
+"voice": "w"
+},
+"audio/s2334.mp3": {
+"text": "We're on the same page.",
+"voice": "m"
+},
+"audio/w-rocket.mp3": {
+"text": "rocket",
+"voice": "w"
+},
+"audio/s2335.mp3": {
+"text": "It's not rocket science.",
+"voice": "f"
+},
+"audio/w-spilled.mp3": {
+"text": "spilled",
+"voice": "w"
+},
+"audio/w-beans.mp3": {
+"text": "beans",
+"voice": "w"
+},
+"audio/s2336.mp3": {
+"text": "He spilled the beans about the party.",
+"voice": "m"
+},
+"audio/w-hang.mp3": {
+"text": "Hang",
+"voice": "w"
+},
+"audio/s2337.mp3": {
+"text": "Hang in there, it will get better.",
+"voice": "f"
+},
+"audio/s2338.mp3": {
+"text": "My first week at the new job was tough.",
+"voice": "m"
+},
+"audio/s2339.mp3": {
+"text": "I was feeling a little under the weather.",
+"voice": "f"
+},
+"audio/s2340.mp3": {
+"text": "My boss said, \"Hang in there. It's not rocket science.\"",
+"voice": "m"
+},
+"audio/s2341.mp3": {
+"text": "By Friday, the work was a piece of cake.",
+"voice": "f"
+},
+"audio/s2342.mp3": {
+"text": "My coworkers invited me for drinks, but I took a rain check.",
+"voice": "m"
+},
+"audio/s2343.mp3": {
+"text": "I was ready to call it a day!",
+"voice": "f"
+},
+"audio/w-ear.mp3": {
+"text": "ear",
+"voice": "w"
+},
+"audio/s2344.mp3": {
+"text": "Let's play it by ear.",
+"voice": "m"
+},
+"audio/w-ears.mp3": {
+"text": "ears",
+"voice": "w"
+},
+"audio/s2345.mp3": {
+"text": "I'm all ears.",
+"voice": "f"
+},
+"audio/w-eye.mp3": {
+"text": "eye",
+"voice": "w"
+},
+"audio/s2346.mp3": {
+"text": "Keep an eye on my bag, please.",
+"voice": "m"
+},
+"audio/w-rings.mp3": {
+"text": "rings",
+"voice": "w"
+},
+"audio/w-bell.mp3": {
+"text": "bell",
+"voice": "w"
+},
+"audio/s2347.mp3": {
+"text": "That rings a bell.",
+"voice": "f"
+},
+"audio/w-cloud.mp3": {
+"text": "cloud",
+"voice": "w"
+},
+"audio/s2348.mp3": {
+"text": "She's on cloud nine.",
+"voice": "m"
+},
+"audio/s2349.mp3": {
+"text": "It's raining cats and dogs.",
+"voice": "f"
+},
+"audio/w-ball.mp3": {
+"text": "ball",
+"voice": "w"
+},
+"audio/w-rolling.mp3": {
+"text": "rolling",
+"voice": "w"
+},
+"audio/s2350.mp3": {
+"text": "Let's get the ball rolling.",
+"voice": "m"
+},
+"audio/w-gonna.mp3": {
+"text": "gonna",
+"voice": "w"
+},
+"audio/w-grab.mp3": {
+"text": "grab",
+"voice": "w"
+},
+"audio/s2351.mp3": {
+"text": "I'm gonna grab some coffee.",
+"voice": "f"
+},
+"audio/w-wanna.mp3": {
+"text": "wanna",
+"voice": "w"
+},
+"audio/s2352.mp3": {
+"text": "Do you wanna come with me?",
+"voice": "m"
+},
+"audio/w-gotta.mp3": {
+"text": "gotta",
+"voice": "w"
+},
+"audio/s2353.mp3": {
+"text": "I gotta go, talk to you later.",
+"voice": "f"
+},
+"audio/s2354.mp3": {
+"text": "What are you gonna do this weekend?",
+"voice": "m"
+},
+"audio/w-kinda.mp3": {
+"text": "kinda",
+"voice": "w"
+},
+"audio/s2355.mp3": {
+"text": "I kinda like this song.",
+"voice": "f"
+},
+"audio/w-kidding.mp3": {
+"text": "kidding",
+"voice": "w"
+},
+"audio/s2356.mp3": {
+"text": "You gotta be kidding me!",
+"voice": "m"
+},
+"audio/s2357.mp3": {
+"text": "We're gonna be late again.",
+"voice": "f"
+},
+"audio/s2358.mp3": {
+"text": "I don't wanna talk about it.",
+"voice": "m"
+},
+"audio/w-gimme.mp3": {
+"text": "Gimme",
+"voice": "w"
+},
+"audio/s2359.mp3": {
+"text": "Gimme a second.",
+"voice": "f"
+},
+"audio/w-sorta.mp3": {
+"text": "sorta",
+"voice": "w"
+},
+"audio/w-complicated.mp3": {
+"text": "complicated",
+"voice": "w"
+},
+"audio/s2360.mp3": {
+"text": "It's sorta complicated.",
+"voice": "m"
+},
+"audio/w-whaddya.mp3": {
+"text": "Whaddya",
+"voice": "w"
+},
+"audio/s2361.mp3": {
+"text": "Whaddya think?",
+"voice": "f"
+},
+"audio/s2362.mp3": {
+"text": "I'm gonna miss you, man.",
+"voice": "m"
+},
+"audio/w-hey.mp3": {
+"text": "Hey",
+"voice": "w"
+},
+"audio/s2363.mp3": {
+"text": "Hey, what are you gonna do tonight?",
+"voice": "f"
+},
+"audio/w-dunno.mp3": {
+"text": "dunno",
+"voice": "w"
+},
+"audio/s2364.mp3": {
+"text": "I dunno, I kinda wanna stay home.",
+"voice": "m"
+},
+"audio/w-mike-s.mp3": {
+"text": "Mike's",
+"voice": "w"
+},
+"audio/s2365.mp3": {
+"text": "Come on! We're gonna watch the game at Mike's.",
+"voice": "f"
+},
+"audio/s2366.mp3": {
+"text": "Okay, fine. Gimme ten minutes.",
+"voice": "m"
+},
+"audio/s2367.mp3": {
+"text": "Do you wanna grab some pizza on the way?",
+"voice": "f"
+},
+"audio/s2368.mp3": {
+"text": "Sure, I gotta eat something first.",
+"voice": "m"
+},
+"audio/w-nap.mp3": {
+"text": "nap",
+"voice": "w"
+},
+"audio/s2369.mp3": {
+"text": "I'm gonna take a nap.",
+"voice": "f"
+},
+"audio/w-bite.mp3": {
+"text": "bite",
+"voice": "w"
+},
+"audio/s2370.mp3": {
+"text": "Wanna grab a bite?",
+"voice": "m"
+},
+"audio/s2371.mp3": {
+"text": "I gotta finish this first.",
+"voice": "f"
+},
+"audio/w-secret.mp3": {
+"text": "secret",
+"voice": "w"
+},
+"audio/s2372.mp3": {
+"text": "You wanna know a secret?",
+"voice": "m"
+},
+"audio/s2373.mp3": {
+"text": "It's kinda cold in here.",
+"voice": "f"
+},
+"audio/w-lemme.mp3": {
+"text": "Lemme",
+"voice": "w"
+},
+"audio/s2374.mp3": {
+"text": "Lemme see that.",
+"voice": "m"
+},
+"audio/s2375.mp3": {
+"text": "What are you gonna order?",
+"voice": "f"
+},
+"audio/s2376.mp3": {
+"text": "I do love this city.",
+"voice": "m"
+},
+"audio/s2377.mp3": {
+"text": "She does work hard, I promise.",
+"voice": "f"
+},
+"audio/s2378.mp3": {
+"text": "We did enjoy the concert.",
+"voice": "m"
+},
+"audio/s2379.mp3": {
+"text": "I do understand how you feel.",
+"voice": "f"
+},
+"audio/s2380.mp3": {
+"text": "He did call, but you were asleep.",
+"voice": "m"
+},
+"audio/s2381.mp3": {
+"text": "Do come in and sit down.",
+"voice": "f"
+},
+"audio/s2382.mp3": {
+"text": "You do look tired today.",
+"voice": "m"
+},
+"audio/s2383.mp3": {
+"text": "I did tell you about the meeting!",
+"voice": "f"
+},
+"audio/s2384.mp3": {
+"text": "They do have a point.",
+"voice": "m"
+},
+"audio/w-seem.mp3": {
+"text": "seem",
+"voice": "w"
+},
+"audio/s2385.mp3": {
+"text": "She does seem happier lately.",
+"voice": "f"
+},
+"audio/s2386.mp3": {
+"text": "I did lock the door, didn't I?",
+"voice": "m"
+},
+"audio/s2387.mp3": {
+"text": "We do need to talk about this.",
+"voice": "f"
+},
+"audio/s2388.mp3": {
+"text": "My friends say I don't like cats, but that's not true.",
+"voice": "m"
+},
+"audio/s2389.mp3": {
+"text": "I do like cats. I just don't like cat hair on my clothes.",
+"voice": "f"
+},
+"audio/s2390.mp3": {
+"text": "I did have a cat once, when I was a kid.",
+"voice": "m"
+},
+"audio/s2391.mp3": {
+"text": "And I do miss her sometimes.",
+"voice": "f"
+},
+"audio/s2392.mp3": {
+"text": "So maybe I'll get a cat after all.",
+"voice": "m"
+},
+"audio/s2393.mp3": {
+"text": "But I'll buy a good brush first!",
+"voice": "f"
+},
+"audio/s2394.mp3": {
+"text": "I do want to help you.",
+"voice": "m"
+},
+"audio/s2395.mp3": {
+"text": "She did say she'd be late.",
+"voice": "f"
+},
+"audio/s2396.mp3": {
+"text": "You do have a beautiful voice.",
+"voice": "m"
+},
+"audio/s2397.mp3": {
+"text": "I did try to call you.",
+"voice": "f"
+},
+"audio/s2398.mp3": {
+"text": "He does know a lot about cars.",
+"voice": "m"
+},
+"audio/s2399.mp3": {
+"text": "We did have fun, didn't we?",
+"voice": "f"
+},
+"audio/s2400.mp3": {
+"text": "Do be careful on the ice.",
+"voice": "m"
+},
+"audio/s2401.mp3": {
+"text": "What I need is a long vacation.",
+"voice": "f"
+},
+"audio/w-reaction.mp3": {
+"text": "reaction",
+"voice": "w"
+},
+"audio/s2402.mp3": {
+"text": "What surprised me was his reaction.",
+"voice": "m"
+},
+"audio/w-sarah.mp3": {
+"text": "Sarah",
+"voice": "w"
+},
+"audio/w-solution.mp3": {
+"text": "solution",
+"voice": "w"
+},
+"audio/s2403.mp3": {
+"text": "It was Sarah who found the solution.",
+"voice": "f"
+},
+"audio/s2404.mp3": {
+"text": "What I love about this city is the food.",
+"voice": "m"
+},
+"audio/w-bothers.mp3": {
+"text": "bothers",
+"voice": "w"
+},
+"audio/s2405.mp3": {
+"text": "It's the noise that bothers me.",
+"voice": "f"
+},
+"audio/w-peace.mp3": {
+"text": "peace",
+"voice": "w"
+},
+"audio/s2406.mp3": {
+"text": "All I want is some peace and quiet.",
+"voice": "m"
+},
+"audio/s2407.mp3": {
+"text": "What we should do is call the police.",
+"voice": "f"
+},
+"audio/s2408.mp3": {
+"text": "It was in Chicago that we first met.",
+"voice": "m"
+},
+"audio/w-annoys.mp3": {
+"text": "annoys",
+"voice": "w"
+},
+"audio/s2409.mp3": {
+"text": "What annoys me is people who are always late.",
+"voice": "f"
+},
+"audio/w-thing.mp3": {
+"text": "thing",
+"voice": "w"
+},
+"audio/w-mom-s.mp3": {
+"text": "mom's",
+"voice": "w"
+},
+"audio/s2410.mp3": {
+"text": "The thing I miss most is my mom's cooking.",
+"voice": "m"
+},
+"audio/w-mattered.mp3": {
+"text": "mattered",
+"voice": "w"
+},
+"audio/s2411.mp3": {
+"text": "It wasn't the money that mattered, it was respect.",
+"voice": "f"
+},
+"audio/s2412.mp3": {
+"text": "What happened next was incredible.",
+"voice": "m"
+},
+"audio/w-variety.mp3": {
+"text": "variety",
+"voice": "w"
+},
+"audio/s2413.mp3": {
+"text": "What I love most about America is the variety.",
+"voice": "f"
+},
+"audio/s2414.mp3": {
+"text": "What surprised me at first was the size of everything.",
+"voice": "m"
+},
+"audio/w-giant.mp3": {
+"text": "giant",
+"voice": "w"
+},
+"audio/w-pickup.mp3": {
+"text": "pickup",
+"voice": "w"
+},
+"audio/s2415.mp3": {
+"text": "It was in Texas that I saw my first giant pickup truck.",
+"voice": "f"
+},
+"audio/s2416.mp3": {
+"text": "What I find hard is being so far from family.",
+"voice": "m"
+},
+"audio/s2417.mp3": {
+"text": "But all I need is a video call to feel better.",
+"voice": "f"
+},
+"audio/s2418.mp3": {
+"text": "What I need right now is a cup of coffee.",
+"voice": "m"
+},
+"audio/w-taught.mp3": {
+"text": "taught",
+"voice": "w"
+},
+"audio/s2419.mp3": {
+"text": "It was my dad who taught me to drive.",
+"voice": "f"
+},
+"audio/s2420.mp3": {
+"text": "What makes me happy is spending time with family.",
+"voice": "m"
+},
+"audio/s2421.mp3": {
+"text": "It's the weather that I don't like here.",
+"voice": "f"
+},
+"audio/s2422.mp3": {
+"text": "What I don't understand is why he left.",
+"voice": "m"
+},
+"audio/s2423.mp3": {
+"text": "All I did was ask a question.",
+"voice": "f"
+},
+"audio/s2424.mp3": {
+"text": "It was last summer that we bought the house.",
+"voice": "m"
+},
+"audio/s2425.mp3": {
+"text": "What she really wants is a new job.",
+"voice": "f"
+},
+"audio/w-sides.mp3": {
+"text": "sides",
+"voice": "w"
+},
+"audio/s2426.mp3": {
+"text": "There are two sides to every story.",
+"voice": "m"
+},
+"audio/w-argument.mp3": {
+"text": "argument",
+"voice": "w"
+},
+"audio/w-against.mp3": {
+"text": "against",
+"voice": "w"
+},
+"audio/s2427.mp3": {
+"text": "The main argument against it is the cost.",
+"voice": "f"
+},
+"audio/w-saves.mp3": {
+"text": "saves",
+"voice": "w"
+},
+"audio/s2428.mp3": {
+"text": "On the one hand, it saves time.",
+"voice": "m"
+},
+"audio/w-consider.mp3": {
+"text": "consider",
+"voice": "w"
+},
+"audio/w-risks.mp3": {
+"text": "risks",
+"voice": "w"
+},
+"audio/s2429.mp3": {
+"text": "I see your point, but consider the risks.",
+"voice": "f"
+},
+"audio/w-evidence.mp3": {
+"text": "evidence",
+"voice": "w"
+},
+"audio/w-support.mp3": {
+"text": "support",
+"voice": "w"
+},
+"audio/s2430.mp3": {
+"text": "There's no evidence to support that claim.",
+"voice": "m"
+},
+"audio/s2431.mp3": {
+"text": "That's a fair point, but it's not the whole picture.",
+"voice": "f"
+},
+"audio/w-devil-s.mp3": {
+"text": "devil's",
+"voice": "w"
+},
+"audio/w-advocate.mp3": {
+"text": "advocate",
+"voice": "w"
+},
+"audio/s2432.mp3": {
+"text": "Let me play devil's advocate for a moment.",
+"voice": "m"
+},
+"audio/w-facts.mp3": {
+"text": "facts",
+"voice": "w"
+},
+"audio/w-themselves.mp3": {
+"text": "themselves",
+"voice": "w"
+},
+"audio/s2433.mp3": {
+"text": "The facts speak for themselves.",
+"voice": "f"
+},
+"audio/s2434.mp3": {
+"text": "It's not that simple.",
+"voice": "m"
+},
+"audio/w-increases.mp3": {
+"text": "increases",
+"voice": "w"
+},
+"audio/w-productivity.mp3": {
+"text": "productivity",
+"voice": "w"
+},
+"audio/s2435.mp3": {
+"text": "Studies show that remote work increases productivity.",
+"voice": "f"
+},
+"audio/s2436.mp3": {
+"text": "What's your evidence for that?",
+"voice": "m"
+},
+"audio/s2437.mp3": {
+"text": "In the long run, it will pay off.",
+"voice": "f"
+},
+"audio/w-ban.mp3": {
+"text": "ban",
+"voice": "w"
+},
+"audio/w-phones.mp3": {
+"text": "phones",
+"voice": "w"
+},
+"audio/w-classroom.mp3": {
+"text": "classroom",
+"voice": "w"
+},
+"audio/s2438.mp3": {
+"text": "Should schools ban phones in the classroom?",
+"voice": "m"
+},
+"audio/w-distraction.mp3": {
+"text": "distraction",
+"voice": "w"
+},
+"audio/s2439.mp3": {
+"text": "On the one hand, phones can be a big distraction.",
+"voice": "f"
+},
+"audio/w-focus.mp3": {
+"text": "focus",
+"voice": "w"
+},
+"audio/s2440.mp3": {
+"text": "Studies show that students focus better without them.",
+"voice": "m"
+},
+"audio/w-useful.mp3": {
+"text": "useful",
+"voice": "w"
+},
+"audio/w-research.mp3": {
+"text": "research",
+"voice": "w"
+},
+"audio/s2441.mp3": {
+"text": "On the other hand, phones can be useful for research.",
+"voice": "f"
+},
+"audio/w-emergency.mp3": {
+"text": "emergency",
+"voice": "w"
+},
+"audio/s2442.mp3": {
+"text": "Parents also want to reach their kids in an emergency.",
+"voice": "m"
+},
+"audio/w-rules.mp3": {
+"text": "rules",
+"voice": "w"
+},
+"audio/s2443.mp3": {
+"text": "In my view, the best solution is clear rules.",
+"voice": "f"
+},
+"audio/w-convinced.mp3": {
+"text": "convinced",
+"voice": "w"
+},
+"audio/s2444.mp3": {
+"text": "I'm not convinced.",
+"voice": "m"
+},
+"audio/w-prove.mp3": {
+"text": "prove",
+"voice": "w"
+},
+"audio/s2445.mp3": {
+"text": "That doesn't prove anything.",
+"voice": "f"
+},
+"audio/s2446.mp3": {
+"text": "Let's look at the facts.",
+"voice": "m"
+},
+"audio/s2447.mp3": {
+"text": "You're missing the point.",
+"voice": "f"
+},
+"audio/w-benefits.mp3": {
+"text": "benefits",
+"voice": "w"
+},
+"audio/w-outweigh.mp3": {
+"text": "outweigh",
+"voice": "w"
+},
+"audio/s2448.mp3": {
+"text": "The benefits outweigh the costs.",
+"voice": "m"
+},
+"audio/s2449.mp3": {
+"text": "There's another way to look at it.",
+"voice": "f"
+},
+"audio/s2450.mp3": {
+"text": "Can you back that up with evidence?",
+"voice": "m"
+},
+"audio/s2451.mp3": {
+"text": "You'll never believe what happened to me today.",
+"voice": "f"
+},
+"audio/s2452.mp3": {
+"text": "So there I was, standing in line at the bank.",
+"voice": "m"
+},
+"audio/w-sudden.mp3": {
+"text": "sudden",
+"voice": "w"
+},
+"audio/s2453.mp3": {
+"text": "All of a sudden, the lights went out.",
+"voice": "f"
+},
+"audio/s2454.mp3": {
+"text": "At first, nobody knew what to do.",
+"voice": "m"
+},
+"audio/s2455.mp3": {
+"text": "Then a little girl started singing.",
+"voice": "f"
+},
+"audio/s2456.mp3": {
+"text": "Before long, everyone was singing with her.",
+"voice": "m"
+},
+"audio/w-meanwhile.mp3": {
+"text": "Meanwhile",
+"voice": "w"
+},
+"audio/w-fix.mp3": {
+"text": "fix",
+"voice": "w"
+},
+"audio/s2457.mp3": {
+"text": "Meanwhile, the manager was trying to fix the power.",
+"voice": "f"
+},
+"audio/w-squirrel.mp3": {
+"text": "squirrel",
+"voice": "w"
+},
+"audio/w-bitten.mp3": {
+"text": "bitten",
+"voice": "w"
+},
+"audio/w-cable.mp3": {
+"text": "cable",
+"voice": "w"
+},
+"audio/s2458.mp3": {
+"text": "It turned out that a squirrel had bitten a cable.",
+"voice": "m"
+},
+"audio/s2459.mp3": {
+"text": "In the end, the lights came back on.",
+"voice": "f"
+},
+"audio/w-clapped.mp3": {
+"text": "clapped",
+"voice": "w"
+},
+"audio/w-cheered.mp3": {
+"text": "cheered",
+"voice": "w"
+},
+"audio/s2460.mp3": {
+"text": "Everyone clapped and cheered.",
+"voice": "m"
+},
+"audio/w-strangest.mp3": {
+"text": "strangest",
+"voice": "w"
+},
+"audio/s2461.mp3": {
+"text": "It was the strangest day I've ever had at a bank.",
+"voice": "f"
+},
+"audio/s2462.mp3": {
+"text": "I'll never forget it as long as I live.",
+"voice": "m"
+},
+"audio/s2463.mp3": {
+"text": "You'll never believe what happened at the bank today.",
+"voice": "f"
+},
+"audio/s2464.mp3": {
+"text": "I was waiting in a long line when the lights went out.",
+"voice": "m"
+},
+"audio/w-joined.mp3": {
+"text": "joined",
+"voice": "w"
+},
+"audio/s2465.mp3": {
+"text": "A little girl started singing, and soon everyone joined in.",
+"voice": "f"
+},
+"audio/s2466.mp3": {
+"text": "It turned out a squirrel had bitten a cable outside.",
+"voice": "m"
+},
+"audio/s2467.mp3": {
+"text": "When the power came back, everyone cheered.",
+"voice": "f"
+},
+"audio/s2468.mp3": {
+"text": "It was the best time I've ever had in a line!",
+"voice": "m"
+},
+"audio/s2469.mp3": {
+"text": "It all started on a Monday morning.",
+"voice": "f"
+},
+"audio/s2470.mp3": {
+"text": "Suddenly, I heard a loud noise.",
+"voice": "m"
+},
+"audio/s2471.mp3": {
+"text": "I couldn't believe my eyes.",
+"voice": "f"
+},
+"audio/s2472.mp3": {
+"text": "To make a long story short, we got married.",
+"voice": "m"
+},
+"audio/s2473.mp3": {
+"text": "Guess what happened next?",
+"voice": "f"
+},
+"audio/s2474.mp3": {
+"text": "Luckily, nobody was hurt.",
+"voice": "m"
+},
+"audio/s2475.mp3": {
+"text": "As soon as I opened the door, the dog ran out.",
+"voice": "f"
+},
+"audio/w-future.mp3": {
+"text": "future",
+"voice": "w"
+},
+"audio/s2476.mp3": {
+"text": "Should we all work from home in the future?",
+"voice": "m"
+},
+"audio/w-supporters.mp3": {
+"text": "Supporters",
+"voice": "w"
+},
+"audio/s2477.mp3": {
+"text": "Supporters say it saves time and money.",
+"voice": "f"
+},
+"audio/s2478.mp3": {
+"text": "If I had worked from home last year, I'd have saved hours.",
+"voice": "m"
+},
+"audio/w-isolated.mp3": {
+"text": "isolated",
+"voice": "w"
+},
+"audio/s2479.mp3": {
+"text": "However, some people feel isolated at home.",
+"voice": "f"
+},
+"audio/w-managers.mp3": {
+"text": "managers",
+"voice": "w"
+},
+"audio/w-communication.mp3": {
+"text": "communication",
+"voice": "w"
+},
+"audio/s2480.mp3": {
+"text": "What many managers worry about is communication.",
+"voice": "m"
+},
+"audio/w-teams.mp3": {
+"text": "Teams",
+"voice": "w"
+},
+"audio/w-creativity.mp3": {
+"text": "creativity",
+"voice": "w"
+},
+"audio/s2481.mp3": {
+"text": "Teams that never meet may lose their creativity.",
+"voice": "f"
+},
+"audio/w-shown.mp3": {
+"text": "shown",
+"voice": "w"
+},
+"audio/s2482.mp3": {
+"text": "Studies have shown mixed results so far.",
+"voice": "m"
+},
+"audio/w-remotely.mp3": {
+"text": "remotely",
+"voice": "w"
+},
+"audio/s2483.mp3": {
+"text": "I've been working remotely for two years.",
+"voice": "f"
+},
+"audio/s2484.mp3": {
+"text": "Although I enjoy it, I do miss my coworkers.",
+"voice": "m"
+},
+"audio/w-mix.mp3": {
+"text": "mix",
+"voice": "w"
+},
+"audio/w-ideal.mp3": {
+"text": "ideal",
+"voice": "w"
+},
+"audio/s2485.mp3": {
+"text": "In my view, a mix of both is ideal.",
+"voice": "f"
+},
+"audio/w-offices.mp3": {
+"text": "offices",
+"voice": "w"
+},
+"audio/s2486.mp3": {
+"text": "By twenty thirty, most offices will have changed completely.",
+"voice": "m"
+},
+"audio/w-discussing.mp3": {
+"text": "discussing",
+"voice": "w"
+},
+"audio/s2487.mp3": {
+"text": "It's not that simple, but it's worth discussing.",
+"voice": "f"
+},
+"audio/w-stress.mp3": {
+"text": "stress",
+"voice": "w"
+},
+"audio/s2488.mp3": {
+"text": "Supporters say it saves time, money, and stress.",
+"voice": "m"
+},
+"audio/w-critics.mp3": {
+"text": "critics",
+"voice": "w"
+},
+"audio/w-argue.mp3": {
+"text": "argue",
+"voice": "w"
+},
+"audio/s2489.mp3": {
+"text": "However, critics argue that people feel isolated.",
+"voice": "f"
+},
+"audio/s2490.mp3": {
+"text": "I've been working remotely for two years, and I do love it.",
+"voice": "m"
+},
+"audio/s2491.mp3": {
+"text": "But what I miss is talking to people face to face.",
+"voice": "f"
+},
+"audio/s2492.mp3": {
+"text": "In my view, the future is a mix of both.",
+"voice": "m"
+},
+"audio/w-productive.mp3": {
+"text": "productive",
+"voice": "w"
+},
+"audio/s2493.mp3": {
+"text": "Some people are more productive at home.",
+"voice": "f"
+},
+"audio/w-others.mp3": {
+"text": "Others",
+"voice": "w"
+},
+"audio/w-structure.mp3": {
+"text": "structure",
+"voice": "w"
+},
+"audio/s2494.mp3": {
+"text": "Others need the structure of an office.",
+"voice": "m"
+},
+"audio/w-commuting.mp3": {
+"text": "Commuting",
+"voice": "w"
+},
+"audio/w-wastes.mp3": {
+"text": "wastes",
+"voice": "w"
+},
+"audio/s2495.mp3": {
+"text": "Commuting wastes a lot of time.",
+"voice": "f"
+},
+"audio/w-planned.mp3": {
+"text": "planned",
+"voice": "w"
+},
+"audio/w-easier.mp3": {
+"text": "easier",
+"voice": "w"
+},
+"audio/s2496.mp3": {
+"text": "If companies had planned better, the change would have been easier.",
+"voice": "m"
+},
+"audio/w-proper.mp3": {
+"text": "proper",
+"voice": "w"
+},
+"audio/s2497.mp3": {
+"text": "I wish I had a proper home office.",
+"voice": "f"
+},
+"audio/w-exhausting.mp3": {
+"text": "exhausting",
+"voice": "w"
+},
+"audio/s2498.mp3": {
+"text": "Video calls can be exhausting.",
+"voice": "m"
+},
+"audio/w-convenient.mp3": {
+"text": "convenient",
+"voice": "w"
+},
+"audio/s2499.mp3": {
+"text": "Although it's convenient, it isn't for everyone.",
+"voice": "f"
+},
+"audio/w-matters.mp3": {
+"text": "matters",
+"voice": "w"
+},
+"audio/s2500.mp3": {
+"text": "What really matters is getting the job done.",
+"voice": "m"
 }
 }
