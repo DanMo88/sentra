@@ -22138,5 +22138,4477 @@
 "audio/s3050.mp3": {
 "text": "Together, there's nothing we can't do.",
 "voice": "m"
+},
+"audio/s3051.mp3": {
+"text": "She was alone, but she didn't feel lonely.",
+"voice": "f"
+},
+"audio/w-effect.mp3": {
+"text": "effect",
+"voice": "w"
+},
+"audio/s3052.mp3": {
+"text": "The medicine had a strong effect on him.",
+"voice": "m"
+},
+"audio/w-affect.mp3": {
+"text": "affect",
+"voice": "w"
+},
+"audio/s3053.mp3": {
+"text": "The weather will affect our plans.",
+"voice": "f"
+},
+"audio/w-economical.mp3": {
+"text": "economical",
+"voice": "w"
+},
+"audio/w-uses.mp3": {
+"text": "uses",
+"voice": "w"
+},
+"audio/s3054.mp3": {
+"text": "This is an economical car that uses very little gas.",
+"voice": "m"
+},
+"audio/w-sensible.mp3": {
+"text": "sensible",
+"voice": "w"
+},
+"audio/w-sensitive.mp3": {
+"text": "sensitive",
+"voice": "w"
+},
+"audio/s3055.mp3": {
+"text": "He's a very sensible person, not a sensitive one.",
+"voice": "f"
+},
+"audio/w-historic.mp3": {
+"text": "historic",
+"voice": "w"
+},
+"audio/s3056.mp3": {
+"text": "The historic building is now a hotel.",
+"voice": "m"
+},
+"audio/w-compliment.mp3": {
+"text": "compliment",
+"voice": "w"
+},
+"audio/s3057.mp3": {
+"text": "Her compliment made my day.",
+"voice": "f"
+},
+"audio/w-scarf.mp3": {
+"text": "scarf",
+"voice": "w"
+},
+"audio/w-complements.mp3": {
+"text": "complements",
+"voice": "w"
+},
+"audio/s3058.mp3": {
+"text": "The red scarf complements your coat perfectly.",
+"voice": "m"
+},
+"audio/w-doors.mp3": {
+"text": "doors",
+"voice": "w"
+},
+"audio/w-locked.mp3": {
+"text": "locked",
+"voice": "w"
+},
+"audio/s3059.mp3": {
+"text": "Please ensure the doors are locked.",
+"voice": "f"
+},
+"audio/w-disinterested.mp3": {
+"text": "disinterested",
+"voice": "w"
+},
+"audio/w-uninterested.mp3": {
+"text": "uninterested",
+"voice": "w"
+},
+"audio/s3060.mp3": {
+"text": "The judge must remain disinterested, not uninterested.",
+"voice": "m"
+},
+"audio/s3061.mp3": {
+"text": "I can't stand him, but I respect his work.",
+"voice": "f"
+},
+"audio/w-continuous.mp3": {
+"text": "Continuous",
+"voice": "w"
+},
+"audio/s3062.mp3": {
+"text": "Continuous rain fell for three days.",
+"voice": "m"
+},
+"audio/w-alike.mp3": {
+"text": "alike",
+"voice": "w"
+},
+"audio/s3063.mp3": {
+"text": "English is full of words that look alike but mean different things.",
+"voice": "f"
+},
+"audio/w-historical.mp3": {
+"text": "historical",
+"voice": "w"
+},
+"audio/s3064.mp3": {
+"text": "A historic event is important, while a historical one is simply from the past.",
+"voice": "m"
+},
+"audio/w-affected.mp3": {
+"text": "affected",
+"voice": "w"
+},
+"audio/s3065.mp3": {
+"text": "Sensible means reasonable, but sensitive means easily affected.",
+"voice": "f"
+},
+"audio/s3066.mp3": {
+"text": "You affect something, but the result is an effect.",
+"voice": "m"
+},
+"audio/s3067.mp3": {
+"text": "Even native speakers sometimes mix these words up.",
+"voice": "f"
+},
+"audio/w-precise.mp3": {
+"text": "precise",
+"voice": "w"
+},
+"audio/s3068.mp3": {
+"text": "Paying attention to them will make your English more precise.",
+"voice": "m"
+},
+"audio/w-peckish.mp3": {
+"text": "peckish",
+"voice": "w"
+},
+"audio/s3069.mp3": {
+"text": "I'm not hungry, but I'm a bit peckish.",
+"voice": "f"
+},
+"audio/w-reluctant.mp3": {
+"text": "reluctant",
+"voice": "w"
+},
+"audio/w-unwilling.mp3": {
+"text": "unwilling",
+"voice": "w"
+},
+"audio/s3070.mp3": {
+"text": "He's reluctant, not unwilling.",
+"voice": "m"
+},
+"audio/s3071.mp3": {
+"text": "She gave me some good advice.",
+"voice": "f"
+},
+"audio/w-advise.mp3": {
+"text": "advise",
+"voice": "w"
+},
+"audio/s3072.mp3": {
+"text": "I'd advise you to wait.",
+"voice": "m"
+},
+"audio/w-fairly.mp3": {
+"text": "fairly",
+"voice": "w"
+},
+"audio/s3073.mp3": {
+"text": "The rules are fairly strict here.",
+"voice": "f"
+},
+"audio/w-lend.mp3": {
+"text": "lend",
+"voice": "w"
+},
+"audio/s3074.mp3": {
+"text": "Can you lend me your car?",
+"voice": "m"
+},
+"audio/s3075.mp3": {
+"text": "May I borrow your pen?",
+"voice": "f"
+},
+"audio/w-burning.mp3": {
+"text": "burning",
+"voice": "w"
+},
+"audio/w-candle.mp3": {
+"text": "candle",
+"voice": "w"
+},
+"audio/w-ends.mp3": {
+"text": "ends",
+"voice": "w"
+},
+"audio/s3076.mp3": {
+"text": "He's been burning the candle at both ends.",
+"voice": "m"
+},
+"audio/w-sails.mp3": {
+"text": "sails",
+"voice": "w"
+},
+"audio/s3077.mp3": {
+"text": "She really took the wind out of his sails.",
+"voice": "f"
+},
+"audio/w-throw.mp3": {
+"text": "throw",
+"voice": "w"
+},
+"audio/w-bathwater.mp3": {
+"text": "bathwater",
+"voice": "w"
+},
+"audio/s3078.mp3": {
+"text": "Let's not throw the baby out with the bathwater.",
+"voice": "m"
+},
+"audio/w-shot.mp3": {
+"text": "shot",
+"voice": "w"
+},
+"audio/s3079.mp3": {
+"text": "That was a real shot in the arm for the economy.",
+"voice": "f"
+},
+"audio/w-joneses.mp3": {
+"text": "Joneses",
+"voice": "w"
+},
+"audio/s3080.mp3": {
+"text": "He's always trying to keep up with the Joneses.",
+"voice": "m"
+},
+"audio/w-double-edged.mp3": {
+"text": "double-edged",
+"voice": "w"
+},
+"audio/w-sword.mp3": {
+"text": "sword",
+"voice": "w"
+},
+"audio/s3081.mp3": {
+"text": "The new law is a double-edged sword.",
+"voice": "f"
+},
+"audio/w-swept.mp3": {
+"text": "swept",
+"voice": "w"
+},
+"audio/w-rug.mp3": {
+"text": "rug",
+"voice": "w"
+},
+"audio/s3082.mp3": {
+"text": "They swept the problem under the rug.",
+"voice": "m"
+},
+"audio/w-bone.mp3": {
+"text": "bone",
+"voice": "w"
+},
+"audio/s3083.mp3": {
+"text": "I have a bone to pick with you.",
+"voice": "f"
+},
+"audio/w-plate.mp3": {
+"text": "plate",
+"voice": "w"
+},
+"audio/s3084.mp3": {
+"text": "She's got a lot on her plate right now.",
+"voice": "m"
+},
+"audio/w-count.mp3": {
+"text": "count",
+"voice": "w"
+},
+"audio/w-chickens.mp3": {
+"text": "chickens",
+"voice": "w"
+},
+"audio/w-hatch.mp3": {
+"text": "hatch",
+"voice": "w"
+},
+"audio/s3085.mp3": {
+"text": "Don't count your chickens before they hatch.",
+"voice": "f"
+},
+"audio/s3086.mp3": {
+"text": "His argument doesn't hold water.",
+"voice": "m"
+},
+"audio/w-woods.mp3": {
+"text": "woods",
+"voice": "w"
+},
+"audio/s3087.mp3": {
+"text": "We're not out of the woods yet.",
+"voice": "f"
+},
+"audio/s3088.mp3": {
+"text": "My brother has always had a lot on his plate.",
+"voice": "m"
+},
+"audio/w-burned.mp3": {
+"text": "burned",
+"voice": "w"
+},
+"audio/w-build.mp3": {
+"text": "build",
+"voice": "w"
+},
+"audio/w-startup.mp3": {
+"text": "startup",
+"voice": "w"
+},
+"audio/s3089.mp3": {
+"text": "He burned the candle at both ends to build his startup.",
+"voice": "f"
+},
+"audio/s3090.mp3": {
+"text": "When investors pulled out, it took the wind out of his sails.",
+"voice": "m"
+},
+"audio/s3091.mp3": {
+"text": "But a new client gave him a real shot in the arm.",
+"voice": "f"
+},
+"audio/w-growing.mp3": {
+"text": "growing",
+"voice": "w"
+},
+"audio/s3092.mp3": {
+"text": "The company is growing, though it's not out of the woods yet.",
+"voice": "m"
+},
+"audio/s3093.mp3": {
+"text": "He says he won't count his chickens before they hatch.",
+"voice": "f"
+},
+"audio/w-skating.mp3": {
+"text": "skating",
+"voice": "w"
+},
+"audio/w-thin.mp3": {
+"text": "thin",
+"voice": "w"
+},
+"audio/s3094.mp3": {
+"text": "He's skating on thin ice.",
+"voice": "m"
+},
+"audio/s3095.mp3": {
+"text": "It's water under the bridge.",
+"voice": "f"
+},
+"audio/w-spitting.mp3": {
+"text": "spitting",
+"voice": "w"
+},
+"audio/w-image.mp3": {
+"text": "image",
+"voice": "w"
+},
+"audio/s3096.mp3": {
+"text": "She's the spitting image of her mother.",
+"voice": "m"
+},
+"audio/w-cloth.mp3": {
+"text": "cloth",
+"voice": "w"
+},
+"audio/s3097.mp3": {
+"text": "They're cut from the same cloth.",
+"voice": "f"
+},
+"audio/w-chest.mp3": {
+"text": "chest",
+"voice": "w"
+},
+"audio/s3098.mp3": {
+"text": "He always plays his cards close to his chest.",
+"voice": "m"
+},
+"audio/w-pill.mp3": {
+"text": "pill",
+"voice": "w"
+},
+"audio/w-swallow.mp3": {
+"text": "swallow",
+"voice": "w"
+},
+"audio/s3099.mp3": {
+"text": "That's a tough pill to swallow.",
+"voice": "f"
+},
+"audio/w-bury.mp3": {
+"text": "bury",
+"voice": "w"
+},
+"audio/w-hatchet.mp3": {
+"text": "hatchet",
+"voice": "w"
+},
+"audio/s3100.mp3": {
+"text": "Let's bury the hatchet.",
+"voice": "m"
+},
+"audio/w-bird.mp3": {
+"text": "bird",
+"voice": "w"
+},
+"audio/w-catches.mp3": {
+"text": "catches",
+"voice": "w"
+},
+"audio/w-worm.mp3": {
+"text": "worm",
+"voice": "w"
+},
+"audio/s3101.mp3": {
+"text": "The early bird catches the worm.",
+"voice": "f"
+},
+"audio/w-actions.mp3": {
+"text": "Actions",
+"voice": "w"
+},
+"audio/s3102.mp3": {
+"text": "Actions speak louder than words.",
+"voice": "m"
+},
+"audio/w-cover.mp3": {
+"text": "cover",
+"voice": "w"
+},
+"audio/s3103.mp3": {
+"text": "Don't judge a book by its cover.",
+"voice": "f"
+},
+"audio/w-greener.mp3": {
+"text": "greener",
+"voice": "w"
+},
+"audio/w-side.mp3": {
+"text": "side",
+"voice": "w"
+},
+"audio/s3104.mp3": {
+"text": "The grass is always greener on the other side.",
+"voice": "m"
+},
+"audio/w-rome.mp3": {
+"text": "Rome",
+"voice": "w"
+},
+"audio/w-romans.mp3": {
+"text": "Romans",
+"voice": "w"
+},
+"audio/s3105.mp3": {
+"text": "When in Rome, do as the Romans do.",
+"voice": "f"
+},
+"audio/s3106.mp3": {
+"text": "Better late than never.",
+"voice": "m"
+},
+"audio/w-ain-t.mp3": {
+"text": "ain't",
+"voice": "w"
+},
+"audio/s3107.mp3": {
+"text": "If it ain't broke, don't fix it.",
+"voice": "f"
+},
+"audio/s3108.mp3": {
+"text": "There's no such thing as a free lunch.",
+"voice": "m"
+},
+"audio/s3109.mp3": {
+"text": "You can't have your cake and eat it too.",
+"voice": "f"
+},
+"audio/s3110.mp3": {
+"text": "Where there's a will, there's a way.",
+"voice": "m"
+},
+"audio/s3111.mp3": {
+"text": "Rome wasn't built in a day.",
+"voice": "f"
+},
+"audio/s3112.mp3": {
+"text": "Practice makes perfect.",
+"voice": "m"
+},
+"audio/w-proverbs.mp3": {
+"text": "proverbs",
+"voice": "w"
+},
+"audio/s3113.mp3": {
+"text": "My grandmother loved proverbs, both Persian and American.",
+"voice": "f"
+},
+"audio/s3114.mp3": {
+"text": "When I complained about school, she'd say, \"Practice makes perfect.\"",
+"voice": "m"
+},
+"audio/w-envied.mp3": {
+"text": "envied",
+"voice": "w"
+},
+"audio/s3115.mp3": {
+"text": "When I envied my friends, she'd remind me that the grass is always greener.",
+"voice": "f"
+},
+"audio/s3116.mp3": {
+"text": "And when I gave up too quickly, she'd say, \"Rome wasn't built in a day.\"",
+"voice": "m"
+},
+"audio/s3117.mp3": {
+"text": "I didn't always listen, but her words stayed with me.",
+"voice": "f"
+},
+"audio/s3118.mp3": {
+"text": "Now I find myself saying the same things to my kids.",
+"voice": "m"
+},
+"audio/w-heads.mp3": {
+"text": "heads",
+"voice": "w"
+},
+"audio/s3119.mp3": {
+"text": "Two heads are better than one.",
+"voice": "f"
+},
+"audio/s3120.mp3": {
+"text": "Don't cry over spilled milk.",
+"voice": "m"
+},
+"audio/w-silver.mp3": {
+"text": "silver",
+"voice": "w"
+},
+"audio/w-lining.mp3": {
+"text": "lining",
+"voice": "w"
+},
+"audio/s3121.mp3": {
+"text": "Every cloud has a silver lining.",
+"voice": "f"
+},
+"audio/s3122.mp3": {
+"text": "You can lead a horse to water, but you can't make it drink.",
+"voice": "m"
+},
+"audio/w-absence.mp3": {
+"text": "Absence",
+"voice": "w"
+},
+"audio/w-grow.mp3": {
+"text": "grow",
+"voice": "w"
+},
+"audio/w-fonder.mp3": {
+"text": "fonder",
+"voice": "w"
+},
+"audio/s3123.mp3": {
+"text": "Absence makes the heart grow fonder.",
+"voice": "f"
+},
+"audio/w-honesty.mp3": {
+"text": "Honesty",
+"voice": "w"
+},
+"audio/s3124.mp3": {
+"text": "Honesty is the best policy.",
+"voice": "m"
+},
+"audio/s3125.mp3": {
+"text": "A picture is worth a thousand words.",
+"voice": "f"
+},
+"audio/w-moon.mp3": {
+"text": "moon",
+"voice": "w"
+},
+"audio/w-hung.mp3": {
+"text": "hung",
+"voice": "w"
+},
+"audio/w-coin.mp3": {
+"text": "coin",
+"voice": "w"
+},
+"audio/w-sea.mp3": {
+"text": "sea",
+"voice": "w"
+},
+"audio/s3126.mp3": {
+"text": "The moon hung like a silver coin above the sea.",
+"voice": "m"
+},
+"audio/w-laughter.mp3": {
+"text": "laughter",
+"voice": "w"
+},
+"audio/w-filled.mp3": {
+"text": "filled",
+"voice": "w"
+},
+"audio/s3127.mp3": {
+"text": "Her laughter filled the empty house with light.",
+"voice": "f"
+},
+"audio/w-steals.mp3": {
+"text": "steals",
+"voice": "w"
+},
+"audio/w-youth.mp3": {
+"text": "youth",
+"voice": "w"
+},
+"audio/s3128.mp3": {
+"text": "Time is a thief that steals our youth.",
+"voice": "m"
+},
+"audio/w-whispered.mp3": {
+"text": "whispered",
+"voice": "w"
+},
+"audio/w-secrets.mp3": {
+"text": "secrets",
+"voice": "w"
+},
+"audio/s3129.mp3": {
+"text": "The wind whispered secrets through the trees.",
+"voice": "f"
+},
+"audio/s3130.mp3": {
+"text": "His heart was a locked door.",
+"voice": "m"
+},
+"audio/w-sang.mp3": {
+"text": "sang",
+"voice": "w"
+},
+"audio/w-softly.mp3": {
+"text": "softly",
+"voice": "w"
+},
+"audio/w-moonlight.mp3": {
+"text": "moonlight",
+"voice": "w"
+},
+"audio/s3131.mp3": {
+"text": "The river sang softly in the moonlight.",
+"voice": "f"
+},
+"audio/w-silence.mp3": {
+"text": "Silence",
+"voice": "w"
+},
+"audio/s3132.mp3": {
+"text": "Silence fell like snow upon the room.",
+"voice": "m"
+},
+"audio/w-drifted.mp3": {
+"text": "drifted",
+"voice": "w"
+},
+"audio/w-autumn.mp3": {
+"text": "autumn",
+"voice": "w"
+},
+"audio/s3133.mp3": {
+"text": "Memories drifted back like leaves in autumn.",
+"voice": "f"
+},
+"audio/w-feathers.mp3": {
+"text": "feathers",
+"voice": "w"
+},
+"audio/s3134.mp3": {
+"text": "Hope is the thing with feathers.",
+"voice": "m"
+},
+"audio/w-stretched.mp3": {
+"text": "stretched",
+"voice": "w"
+},
+"audio/w-endlessly.mp3": {
+"text": "endlessly",
+"voice": "w"
+},
+"audio/w-toward.mp3": {
+"text": "toward",
+"voice": "w"
+},
+"audio/w-horizon.mp3": {
+"text": "horizon",
+"voice": "w"
+},
+"audio/s3135.mp3": {
+"text": "The road stretched endlessly toward the horizon.",
+"voice": "f"
+},
+"audio/w-oceans.mp3": {
+"text": "oceans",
+"voice": "w"
+},
+"audio/w-sadness.mp3": {
+"text": "sadness",
+"voice": "w"
+},
+"audio/s3136.mp3": {
+"text": "Her eyes were oceans of sadness.",
+"voice": "m"
+},
+"audio/w-breathe.mp3": {
+"text": "breathe",
+"voice": "w"
+},
+"audio/s3137.mp3": {
+"text": "The old house seemed to breathe in the dark.",
+"voice": "f"
+},
+"audio/w-lay.mp3": {
+"text": "lay",
+"voice": "w"
+},
+"audio/w-beneath.mp3": {
+"text": "beneath",
+"voice": "w"
+},
+"audio/w-blanket.mp3": {
+"text": "blanket",
+"voice": "w"
+},
+"audio/s3138.mp3": {
+"text": "The town lay quiet beneath a blanket of snow.",
+"voice": "m"
+},
+"audio/w-curled.mp3": {
+"text": "curled",
+"voice": "w"
+},
+"audio/w-chimneys.mp3": {
+"text": "chimneys",
+"voice": "w"
+},
+"audio/w-gray.mp3": {
+"text": "gray",
+"voice": "w"
+},
+"audio/w-ribbons.mp3": {
+"text": "ribbons",
+"voice": "w"
+},
+"audio/s3139.mp3": {
+"text": "Smoke curled from the chimneys like gray ribbons.",
+"voice": "f"
+},
+"audio/w-shadow.mp3": {
+"text": "shadow",
+"voice": "w"
+},
+"audio/s3140.mp3": {
+"text": "An old man walked slowly, his shadow long and thin.",
+"voice": "m"
+},
+"audio/w-barked.mp3": {
+"text": "barked",
+"voice": "w"
+},
+"audio/w-returned.mp3": {
+"text": "returned",
+"voice": "w"
+},
+"audio/s3141.mp3": {
+"text": "Somewhere a dog barked, and then the silence returned.",
+"voice": "f"
+},
+"audio/w-appeared.mp3": {
+"text": "appeared",
+"voice": "w"
+},
+"audio/s3142.mp3": {
+"text": "The stars appeared one by one, like shy children.",
+"voice": "m"
+},
+"audio/w-gentle.mp3": {
+"text": "gentle",
+"voice": "w"
+},
+"audio/w-arms.mp3": {
+"text": "arms",
+"voice": "w"
+},
+"audio/s3143.mp3": {
+"text": "And the night held the town in its gentle arms.",
+"voice": "f"
+},
+"audio/s3144.mp3": {
+"text": "The city slept beneath a sky of broken stars.",
+"voice": "m"
+},
+"audio/w-stones.mp3": {
+"text": "stones",
+"voice": "w"
+},
+"audio/s3145.mp3": {
+"text": "His words fell like stones into still water.",
+"voice": "f"
+},
+"audio/w-hills.mp3": {
+"text": "hills",
+"voice": "w"
+},
+"audio/w-gold.mp3": {
+"text": "gold",
+"voice": "w"
+},
+"audio/s3146.mp3": {
+"text": "Autumn painted the hills in red and gold.",
+"voice": "m"
+},
+"audio/s3147.mp3": {
+"text": "The silence between them grew heavy.",
+"voice": "f"
+},
+"audio/w-soft.mp3": {
+"text": "soft",
+"voice": "w"
+},
+"audio/s3148.mp3": {
+"text": "Her voice was as soft as morning rain.",
+"voice": "m"
+},
+"audio/w-clock.mp3": {
+"text": "clock",
+"voice": "w"
+},
+"audio/w-ticked.mp3": {
+"text": "ticked",
+"voice": "w"
+},
+"audio/s3149.mp3": {
+"text": "The clock ticked away the last hours of the year.",
+"voice": "f"
+},
+"audio/w-darkness.mp3": {
+"text": "Darkness",
+"voice": "w"
+},
+"audio/w-swallowed.mp3": {
+"text": "swallowed",
+"voice": "w"
+},
+"audio/w-narrow.mp3": {
+"text": "narrow",
+"voice": "w"
+},
+"audio/s3150.mp3": {
+"text": "Darkness swallowed the narrow street.",
+"voice": "m"
+},
+"audio/w-defendant.mp3": {
+"text": "defendant",
+"voice": "w"
+},
+"audio/w-pleaded.mp3": {
+"text": "pleaded",
+"voice": "w"
+},
+"audio/w-charges.mp3": {
+"text": "charges",
+"voice": "w"
+},
+"audio/s3151.mp3": {
+"text": "The defendant pleaded not guilty to all charges.",
+"voice": "f"
+},
+"audio/w-ruled.mp3": {
+"text": "ruled",
+"voice": "w"
+},
+"audio/w-plaintiff.mp3": {
+"text": "plaintiff",
+"voice": "w"
+},
+"audio/s3152.mp3": {
+"text": "The court ruled in favor of the plaintiff.",
+"voice": "m"
+},
+"audio/w-witness.mp3": {
+"text": "witness",
+"voice": "w"
+},
+"audio/w-cross-examined.mp3": {
+"text": "cross-examined",
+"voice": "w"
+},
+"audio/w-defense.mp3": {
+"text": "defense",
+"voice": "w"
+},
+"audio/s3153.mp3": {
+"text": "The witness was cross-examined by the defense.",
+"voice": "f"
+},
+"audio/w-governed.mp3": {
+"text": "governed",
+"voice": "w"
+},
+"audio/s3154.mp3": {
+"text": "This agreement shall be governed by state law.",
+"voice": "m"
+},
+"audio/w-hereby.mp3": {
+"text": "hereby",
+"voice": "w"
+},
+"audio/w-following.mp3": {
+"text": "following",
+"voice": "w"
+},
+"audio/s3155.mp3": {
+"text": "The parties hereby agree to the following terms.",
+"voice": "f"
+},
+"audio/w-bail.mp3": {
+"text": "bail",
+"voice": "w"
+},
+"audio/s3156.mp3": {
+"text": "The suspect was released on bail.",
+"voice": "m"
+},
+"audio/w-ruling.mp3": {
+"text": "ruling",
+"voice": "w"
+},
+"audio/w-overturned.mp3": {
+"text": "overturned",
+"voice": "w"
+},
+"audio/w-appeal.mp3": {
+"text": "appeal",
+"voice": "w"
+},
+"audio/s3157.mp3": {
+"text": "The ruling was overturned on appeal.",
+"voice": "f"
+},
+"audio/w-sentenced.mp3": {
+"text": "sentenced",
+"voice": "w"
+},
+"audio/w-prison.mp3": {
+"text": "prison",
+"voice": "w"
+},
+"audio/s3158.mp3": {
+"text": "He was sentenced to five years in prison.",
+"voice": "m"
+},
+"audio/w-deemed.mp3": {
+"text": "deemed",
+"voice": "w"
+},
+"audio/w-inadmissible.mp3": {
+"text": "inadmissible",
+"voice": "w"
+},
+"audio/s3159.mp3": {
+"text": "The evidence was deemed inadmissible.",
+"voice": "f"
+},
+"audio/w-rights.mp3": {
+"text": "rights",
+"voice": "w"
+},
+"audio/w-reserved.mp3": {
+"text": "reserved",
+"voice": "w"
+},
+"audio/w-publisher.mp3": {
+"text": "publisher",
+"voice": "w"
+},
+"audio/s3160.mp3": {
+"text": "All rights are reserved by the publisher.",
+"voice": "m"
+},
+"audio/w-burden.mp3": {
+"text": "burden",
+"voice": "w"
+},
+"audio/w-proof.mp3": {
+"text": "proof",
+"voice": "w"
+},
+"audio/w-prosecution.mp3": {
+"text": "prosecution",
+"voice": "w"
+},
+"audio/s3161.mp3": {
+"text": "The burden of proof lies with the prosecution.",
+"voice": "f"
+},
+"audio/w-presumed.mp3": {
+"text": "presumed",
+"voice": "w"
+},
+"audio/w-innocent.mp3": {
+"text": "innocent",
+"voice": "w"
+},
+"audio/s3162.mp3": {
+"text": "Everyone is presumed innocent until proven guilty.",
+"voice": "m"
+},
+"audio/w-courts.mp3": {
+"text": "courts",
+"voice": "w"
+},
+"audio/s3163.mp3": {
+"text": "In American courts, the defendant is presumed innocent until proven guilty.",
+"voice": "f"
+},
+"audio/w-beyond.mp3": {
+"text": "beyond",
+"voice": "w"
+},
+"audio/s3164.mp3": {
+"text": "The prosecution must prove its case beyond a reasonable doubt.",
+"voice": "m"
+},
+"audio/s3165.mp3": {
+"text": "Both sides present evidence and question witnesses.",
+"voice": "f"
+},
+"audio/w-decides.mp3": {
+"text": "decides",
+"voice": "w"
+},
+"audio/s3166.mp3": {
+"text": "A jury of ordinary citizens then decides the verdict.",
+"voice": "m"
+},
+"audio/w-disagrees.mp3": {
+"text": "disagrees",
+"voice": "w"
+},
+"audio/s3167.mp3": {
+"text": "If either side disagrees, it may file an appeal.",
+"voice": "f"
+},
+"audio/w-citizen.mp3": {
+"text": "citizen",
+"voice": "w"
+},
+"audio/s3168.mp3": {
+"text": "This system is meant to protect the rights of every citizen.",
+"voice": "m"
+},
+"audio/s3169.mp3": {
+"text": "The case was dismissed for lack of evidence.",
+"voice": "f"
+},
+"audio/s3170.mp3": {
+"text": "The jury found him not guilty.",
+"voice": "m"
+},
+"audio/w-filed.mp3": {
+"text": "filed",
+"voice": "w"
+},
+"audio/w-motion.mp3": {
+"text": "motion",
+"voice": "w"
+},
+"audio/w-delay.mp3": {
+"text": "delay",
+"voice": "w"
+},
+"audio/w-trial.mp3": {
+"text": "trial",
+"voice": "w"
+},
+"audio/s3171.mp3": {
+"text": "The lawyer filed a motion to delay the trial.",
+"voice": "f"
+},
+"audio/w-testified.mp3": {
+"text": "testified",
+"voice": "w"
+},
+"audio/w-oath.mp3": {
+"text": "oath",
+"voice": "w"
+},
+"audio/s3172.mp3": {
+"text": "She testified under oath.",
+"voice": "m"
+},
+"audio/w-null.mp3": {
+"text": "null",
+"voice": "w"
+},
+"audio/w-void.mp3": {
+"text": "void",
+"voice": "w"
+},
+"audio/s3173.mp3": {
+"text": "The contract is null and void.",
+"voice": "f"
+},
+"audio/w-settle.mp3": {
+"text": "settle",
+"voice": "w"
+},
+"audio/w-lawsuit.mp3": {
+"text": "lawsuit",
+"voice": "w"
+},
+"audio/s3174.mp3": {
+"text": "The company agreed to settle the lawsuit.",
+"voice": "m"
+},
+"audio/s3175.mp3": {
+"text": "The judge granted the request.",
+"voice": "f"
+},
+"audio/w-severe.mp3": {
+"text": "severe",
+"voice": "w"
+},
+"audio/s3176.mp3": {
+"text": "The patient was admitted with severe chest pain.",
+"voice": "m"
+},
+"audio/w-blood.mp3": {
+"text": "blood",
+"voice": "w"
+},
+"audio/w-dangerously.mp3": {
+"text": "dangerously",
+"voice": "w"
+},
+"audio/s3177.mp3": {
+"text": "Her blood pressure is dangerously high.",
+"voice": "f"
+},
+"audio/w-series.mp3": {
+"text": "series",
+"voice": "w"
+},
+"audio/w-tests.mp3": {
+"text": "tests",
+"voice": "w"
+},
+"audio/s3178.mp3": {
+"text": "The doctor ordered a series of blood tests.",
+"voice": "m"
+},
+"audio/w-diagnosed.mp3": {
+"text": "diagnosed",
+"voice": "w"
+},
+"audio/w-type.mp3": {
+"text": "type",
+"voice": "w"
+},
+"audio/w-diabetes.mp3": {
+"text": "diabetes",
+"voice": "w"
+},
+"audio/s3179.mp3": {
+"text": "He's been diagnosed with type two diabetes.",
+"voice": "f"
+},
+"audio/w-tablet.mp3": {
+"text": "tablet",
+"voice": "w"
+},
+"audio/s3180.mp3": {
+"text": "Take one tablet twice a day with food.",
+"voice": "m"
+},
+"audio/w-symptoms.mp3": {
+"text": "symptoms",
+"voice": "w"
+},
+"audio/w-include.mp3": {
+"text": "include",
+"voice": "w"
+},
+"audio/w-dry.mp3": {
+"text": "dry",
+"voice": "w"
+},
+"audio/w-cough.mp3": {
+"text": "cough",
+"voice": "w"
+},
+"audio/s3181.mp3": {
+"text": "The symptoms include fever and a dry cough.",
+"voice": "f"
+},
+"audio/w-complete.mp3": {
+"text": "complete",
+"voice": "w"
+},
+"audio/s3182.mp3": {
+"text": "The surgery was a complete success.",
+"voice": "m"
+},
+"audio/s3183.mp3": {
+"text": "She's allergic to penicillin.",
+"voice": "f"
+},
+"audio/w-wound.mp3": {
+"text": "wound",
+"voice": "w"
+},
+"audio/w-infected.mp3": {
+"text": "infected",
+"voice": "w"
+},
+"audio/w-antibiotics.mp3": {
+"text": "antibiotics",
+"voice": "w"
+},
+"audio/s3184.mp3": {
+"text": "The wound became infected and needed antibiotics.",
+"voice": "m"
+},
+"audio/w-detection.mp3": {
+"text": "detection",
+"voice": "w"
+},
+"audio/w-recovery.mp3": {
+"text": "recovery",
+"voice": "w"
+},
+"audio/s3185.mp3": {
+"text": "Early detection greatly improves the chances of recovery.",
+"voice": "f"
+},
+"audio/w-mild.mp3": {
+"text": "mild",
+"voice": "w"
+},
+"audio/s3186.mp3": {
+"text": "The side effects are usually mild.",
+"voice": "m"
+},
+"audio/w-stable.mp3": {
+"text": "stable",
+"voice": "w"
+},
+"audio/w-condition.mp3": {
+"text": "condition",
+"voice": "w"
+},
+"audio/w-operation.mp3": {
+"text": "operation",
+"voice": "w"
+},
+"audio/s3187.mp3": {
+"text": "He's in stable condition after the operation.",
+"voice": "f"
+},
+"audio/w-sharp.mp3": {
+"text": "sharp",
+"voice": "w"
+},
+"audio/s3188.mp3": {
+"text": "Last month, my father felt a sharp pain in his chest.",
+"voice": "m"
+},
+"audio/w-rushed.mp3": {
+"text": "rushed",
+"voice": "w"
+},
+"audio/s3189.mp3": {
+"text": "We rushed him to the emergency room.",
+"voice": "f"
+},
+"audio/w-doctors.mp3": {
+"text": "doctors",
+"voice": "w"
+},
+"audio/w-blocked.mp3": {
+"text": "blocked",
+"voice": "w"
+},
+"audio/w-artery.mp3": {
+"text": "artery",
+"voice": "w"
+},
+"audio/s3190.mp3": {
+"text": "The doctors ran several tests and found a blocked artery.",
+"voice": "m"
+},
+"audio/w-procedure.mp3": {
+"text": "procedure",
+"voice": "w"
+},
+"audio/s3191.mp3": {
+"text": "He had a minor procedure the same evening.",
+"voice": "f"
+},
+"audio/s3192.mp3": {
+"text": "Thanks to early detection, he made a full recovery.",
+"voice": "m"
+},
+"audio/w-exercises.mp3": {
+"text": "exercises",
+"voice": "w"
+},
+"audio/w-watches.mp3": {
+"text": "watches",
+"voice": "w"
+},
+"audio/w-diet.mp3": {
+"text": "diet",
+"voice": "w"
+},
+"audio/s3193.mp3": {
+"text": "Now he exercises every day and watches his diet.",
+"voice": "f"
+},
+"audio/s3194.mp3": {
+"text": "The patient is in stable condition.",
+"voice": "m"
+},
+"audio/s3195.mp3": {
+"text": "She was diagnosed with diabetes last year.",
+"voice": "f"
+},
+"audio/s3196.mp3": {
+"text": "The wound needs to be cleaned twice a day.",
+"voice": "m"
+},
+"audio/w-tablets.mp3": {
+"text": "tablets",
+"voice": "w"
+},
+"audio/w-meals.mp3": {
+"text": "meals",
+"voice": "w"
+},
+"audio/s3197.mp3": {
+"text": "Take two tablets after meals.",
+"voice": "f"
+},
+"audio/s3198.mp3": {
+"text": "The surgery went well.",
+"voice": "m"
+},
+"audio/s3199.mp3": {
+"text": "He's allergic to penicillin.",
+"voice": "f"
+},
+"audio/w-disappear.mp3": {
+"text": "disappear",
+"voice": "w"
+},
+"audio/s3200.mp3": {
+"text": "The symptoms usually disappear within a week.",
+"voice": "m"
+},
+"audio/w-passes.mp3": {
+"text": "passes",
+"voice": "w"
+},
+"audio/w-landmark.mp3": {
+"text": "landmark",
+"voice": "w"
+},
+"audio/s3201.mp3": {
+"text": "Senate passes landmark climate bill.",
+"voice": "f"
+},
+"audio/w-stocks.mp3": {
+"text": "Stocks",
+"voice": "w"
+},
+"audio/w-plunge.mp3": {
+"text": "plunge",
+"voice": "w"
+},
+"audio/w-amid.mp3": {
+"text": "amid",
+"voice": "w"
+},
+"audio/w-fears.mp3": {
+"text": "fears",
+"voice": "w"
+},
+"audio/s3202.mp3": {
+"text": "Stocks plunge amid recession fears.",
+"voice": "m"
+},
+"audio/w-vows.mp3": {
+"text": "vows",
+"voice": "w"
+},
+"audio/w-crack.mp3": {
+"text": "crack",
+"voice": "w"
+},
+"audio/w-crime.mp3": {
+"text": "crime",
+"voice": "w"
+},
+"audio/s3203.mp3": {
+"text": "Mayor vows to crack down on crime.",
+"voice": "f"
+},
+"audio/w-faces.mp3": {
+"text": "faces",
+"voice": "w"
+},
+"audio/s3204.mp3": {
+"text": "Tech giant faces record fine.",
+"voice": "m"
+},
+"audio/s3205.mp3": {
+"text": "Storm leaves thousands without power.",
+"voice": "f"
+},
+"audio/w-slams.mp3": {
+"text": "slams",
+"voice": "w"
+},
+"audio/s3206.mp3": {
+"text": "President slams critics over new policy.",
+"voice": "m"
+},
+"audio/w-collapse.mp3": {
+"text": "collapse",
+"voice": "w"
+},
+"audio/w-looms.mp3": {
+"text": "looms",
+"voice": "w"
+},
+"audio/s3207.mp3": {
+"text": "Talks collapse as deadline looms.",
+"voice": "f"
+},
+"audio/w-hero.mp3": {
+"text": "hero",
+"voice": "w"
+},
+"audio/s3208.mp3": {
+"text": "Local hero saves child from fire.",
+"voice": "m"
+},
+"audio/w-probe.mp3": {
+"text": "probe",
+"voice": "w"
+},
+"audio/s3209.mp3": {
+"text": "Officials probe cause of bridge collapse.",
+"voice": "f"
+},
+"audio/w-hits.mp3": {
+"text": "hits",
+"voice": "w"
+},
+"audio/s3210.mp3": {
+"text": "Unemployment hits record low.",
+"voice": "m"
+},
+"audio/w-hail.mp3": {
+"text": "hail",
+"voice": "w"
+},
+"audio/w-cancer.mp3": {
+"text": "cancer",
+"voice": "w"
+},
+"audio/s3211.mp3": {
+"text": "Scientists hail breakthrough in cancer research.",
+"voice": "f"
+},
+"audio/w-rescue.mp3": {
+"text": "Rescue",
+"voice": "w"
+},
+"audio/w-efforts.mp3": {
+"text": "efforts",
+"voice": "w"
+},
+"audio/w-continue.mp3": {
+"text": "continue",
+"voice": "w"
+},
+"audio/w-deadly.mp3": {
+"text": "deadly",
+"voice": "w"
+},
+"audio/w-quake.mp3": {
+"text": "quake",
+"voice": "w"
+},
+"audio/s3212.mp3": {
+"text": "Rescue efforts continue after deadly quake.",
+"voice": "m"
+},
+"audio/w-headlines.mp3": {
+"text": "Headlines",
+"voice": "w"
+},
+"audio/w-special.mp3": {
+"text": "special",
+"voice": "w"
+},
+"audio/s3213.mp3": {
+"text": "Headlines use a special kind of English.",
+"voice": "f"
+},
+"audio/s3214.mp3": {
+"text": "They often drop small words like \"the\" and \"is.\"",
+"voice": "m"
+},
+"audio/w-tense.mp3": {
+"text": "tense",
+"voice": "w"
+},
+"audio/w-events.mp3": {
+"text": "events",
+"voice": "w"
+},
+"audio/s3215.mp3": {
+"text": "The present tense is used even for past events.",
+"voice": "f"
+},
+"audio/w-dramatic.mp3": {
+"text": "dramatic",
+"voice": "w"
+},
+"audio/w-verbs.mp3": {
+"text": "verbs",
+"voice": "w"
+},
+"audio/w-slam.mp3": {
+"text": "slam",
+"voice": "w"
+},
+"audio/w-vow.mp3": {
+"text": "vow",
+"voice": "w"
+},
+"audio/s3216.mp3": {
+"text": "Short, dramatic verbs like \"slam,\" \"vow,\" and \"probe\" are common.",
+"voice": "m"
+},
+"audio/w-taxes.mp3": {
+"text": "taxes",
+"voice": "w"
+},
+"audio/s3217.mp3": {
+"text": "\"Mayor vows to cut taxes\" means the mayor has promised to cut taxes.",
+"voice": "f"
+},
+"audio/w-code.mp3": {
+"text": "code",
+"voice": "w"
+},
+"audio/w-becomes.mp3": {
+"text": "becomes",
+"voice": "w"
+},
+"audio/w-scan.mp3": {
+"text": "scan",
+"voice": "w"
+},
+"audio/s3218.mp3": {
+"text": "Once you know the code, the news becomes much easier to scan.",
+"voice": "m"
+},
+"audio/w-unveils.mp3": {
+"text": "unveils",
+"voice": "w"
+},
+"audio/s3219.mp3": {
+"text": "Tech giant unveils new phone.",
+"voice": "f"
+},
+"audio/w-hunt.mp3": {
+"text": "hunt",
+"voice": "w"
+},
+"audio/w-escaped.mp3": {
+"text": "escaped",
+"voice": "w"
+},
+"audio/w-prisoner.mp3": {
+"text": "prisoner",
+"voice": "w"
+},
+"audio/s3220.mp3": {
+"text": "Police hunt for escaped prisoner.",
+"voice": "m"
+},
+"audio/s3221.mp3": {
+"text": "Gas prices hit new high.",
+"voice": "f"
+},
+"audio/w-braces.mp3": {
+"text": "braces",
+"voice": "w"
+},
+"audio/s3222.mp3": {
+"text": "City braces for heavy snow.",
+"voice": "m"
+},
+"audio/w-star.mp3": {
+"text": "Star",
+"voice": "w"
+},
+"audio/w-quits.mp3": {
+"text": "quits",
+"voice": "w"
+},
+"audio/s3223.mp3": {
+"text": "Star quits show after ten years.",
+"voice": "f"
+},
+"audio/w-links.mp3": {
+"text": "links",
+"voice": "w"
+},
+"audio/s3224.mp3": {
+"text": "Study links coffee to longer life.",
+"voice": "m"
+},
+"audio/w-council.mp3": {
+"text": "council",
+"voice": "w"
+},
+"audio/w-approves.mp3": {
+"text": "approves",
+"voice": "w"
+},
+"audio/s3225.mp3": {
+"text": "City council approves new budget.",
+"voice": "f"
+},
+"audio/w-banker.mp3": {
+"text": "banker",
+"voice": "w"
+},
+"audio/s3226.mp3": {
+"text": "I used to be a banker, but I lost interest.",
+"voice": "m"
+},
+"audio/w-flies.mp3": {
+"text": "flies",
+"voice": "w"
+},
+"audio/w-arrow.mp3": {
+"text": "arrow",
+"voice": "w"
+},
+"audio/w-banana.mp3": {
+"text": "banana",
+"voice": "w"
+},
+"audio/s3227.mp3": {
+"text": "Time flies like an arrow; fruit flies like a banana.",
+"voice": "f"
+},
+"audio/w-gravity.mp3": {
+"text": "gravity",
+"voice": "w"
+},
+"audio/s3228.mp3": {
+"text": "I'm reading a book about gravity, and I can't put it down.",
+"voice": "m"
+},
+"audio/s3229.mp3": {
+"text": "The math teacher had too many problems.",
+"voice": "f"
+},
+"audio/w-wondered.mp3": {
+"text": "wondered",
+"voice": "w"
+},
+"audio/s3230.mp3": {
+"text": "I wondered why the ball was getting bigger, and then it hit me.",
+"voice": "m"
+},
+"audio/w-bicycle.mp3": {
+"text": "bicycle",
+"voice": "w"
+},
+"audio/w-two-tired.mp3": {
+"text": "two-tired",
+"voice": "w"
+},
+"audio/s3231.mp3": {
+"text": "A bicycle can't stand on its own because it's two-tired.",
+"voice": "f"
+},
+"audio/w-stairs.mp3": {
+"text": "stairs",
+"voice": "w"
+},
+"audio/s3232.mp3": {
+"text": "I don't trust stairs, because they're always up to something.",
+"voice": "m"
+},
+"audio/w-baker.mp3": {
+"text": "baker",
+"voice": "w"
+},
+"audio/s3233.mp3": {
+"text": "The baker quit because he couldn't make enough dough.",
+"voice": "f"
+},
+"audio/w-seafood.mp3": {
+"text": "seafood",
+"voice": "w"
+},
+"audio/s3234.mp3": {
+"text": "I'm on a seafood diet: I see food and eat it.",
+"voice": "m"
+},
+"audio/w-shade.mp3": {
+"text": "shade",
+"voice": "w"
+},
+"audio/s3235.mp3": {
+"text": "The dog stayed in the shade; he didn't want to be a hot dog.",
+"voice": "f"
+},
+"audio/s3236.mp3": {
+"text": "Did you hear about the restaurant on the moon?",
+"voice": "m"
+},
+"audio/w-atmosphere.mp3": {
+"text": "atmosphere",
+"voice": "w"
+},
+"audio/s3237.mp3": {
+"text": "Great food, but no atmosphere.",
+"voice": "f"
+},
+"audio/w-puns.mp3": {
+"text": "puns",
+"voice": "w"
+},
+"audio/w-based.mp3": {
+"text": "based",
+"voice": "w"
+},
+"audio/w-meanings.mp3": {
+"text": "meanings",
+"voice": "w"
+},
+"audio/s3238.mp3": {
+"text": "Americans love puns, which are jokes based on words with two meanings.",
+"voice": "m"
+},
+"audio/w-tells.mp3": {
+"text": "tells",
+"voice": "w"
+},
+"audio/w-pun.mp3": {
+"text": "pun",
+"voice": "w"
+},
+"audio/w-groan.mp3": {
+"text": "groan",
+"voice": "w"
+},
+"audio/w-laughing.mp3": {
+"text": "laughing",
+"voice": "w"
+},
+"audio/s3239.mp3": {
+"text": "When someone tells a bad pun, people often groan instead of laughing.",
+"voice": "f"
+},
+"audio/s3240.mp3": {
+"text": "These are sometimes called \"dad jokes.\"",
+"voice": "m"
+},
+"audio/w-understanding.mp3": {
+"text": "Understanding",
+"voice": "w"
+},
+"audio/w-language.mp3": {
+"text": "language",
+"voice": "w"
+},
+"audio/s3241.mp3": {
+"text": "Understanding puns shows that you really know the language.",
+"voice": "f"
+},
+"audio/s3242.mp3": {
+"text": "Making your own puns is even harder.",
+"voice": "m"
+},
+"audio/w-mastered.mp3": {
+"text": "mastered",
+"voice": "w"
+},
+"audio/s3243.mp3": {
+"text": "But once you can do it, you've truly mastered English.",
+"voice": "f"
+},
+"audio/w-brain.mp3": {
+"text": "brain",
+"voice": "w"
+},
+"audio/w-transplant.mp3": {
+"text": "transplant",
+"voice": "w"
+},
+"audio/s3244.mp3": {
+"text": "I wasn't going to get a brain transplant, but then I changed my mind.",
+"voice": "m"
+},
+"audio/w-fired.mp3": {
+"text": "fired",
+"voice": "w"
+},
+"audio/w-calendar.mp3": {
+"text": "calendar",
+"voice": "w"
+},
+"audio/s3245.mp3": {
+"text": "I can't believe I got fired from the calendar factory. All I did was take a day off.",
+"voice": "f"
+},
+"audio/w-groaned.mp3": {
+"text": "groaned",
+"voice": "w"
+},
+"audio/s3246.mp3": {
+"text": "The pun was so bad that everyone groaned.",
+"voice": "m"
+},
+"audio/w-facial.mp3": {
+"text": "facial",
+"voice": "w"
+},
+"audio/s3247.mp3": {
+"text": "I used to hate facial hair, but then it grew on me.",
+"voice": "f"
+},
+"audio/w-atoms.mp3": {
+"text": "atoms",
+"voice": "w"
+},
+"audio/s3248.mp3": {
+"text": "Never trust atoms; they make up everything.",
+"voice": "m"
+},
+"audio/w-chemistry.mp3": {
+"text": "chemistry",
+"voice": "w"
+},
+"audio/s3249.mp3": {
+"text": "I told a chemistry joke, but there was no reaction.",
+"voice": "f"
+},
+"audio/w-skeletons.mp3": {
+"text": "skeletons",
+"voice": "w"
+},
+"audio/w-guts.mp3": {
+"text": "guts",
+"voice": "w"
+},
+"audio/s3250.mp3": {
+"text": "Why don't skeletons fight? They don't have the guts.",
+"voice": "m"
+},
+"audio/w-author-s.mp3": {
+"text": "author's",
+"voice": "w"
+},
+"audio/w-tone.mp3": {
+"text": "tone",
+"voice": "w"
+},
+"audio/w-ironic.mp3": {
+"text": "ironic",
+"voice": "w"
+},
+"audio/s3251.mp3": {
+"text": "The author's tone is deeply ironic.",
+"voice": "f"
+},
+"audio/w-writer.mp3": {
+"text": "writer",
+"voice": "w"
+},
+"audio/w-sympathizes.mp3": {
+"text": "sympathizes",
+"voice": "w"
+},
+"audio/s3252.mp3": {
+"text": "The writer clearly sympathizes with the workers.",
+"voice": "m"
+},
+"audio/w-biased.mp3": {
+"text": "biased",
+"voice": "w"
+},
+"audio/s3253.mp3": {
+"text": "The article is biased in favor of the government.",
+"voice": "f"
+},
+"audio/w-shifts.mp3": {
+"text": "shifts",
+"voice": "w"
+},
+"audio/w-hopeful.mp3": {
+"text": "hopeful",
+"voice": "w"
+},
+"audio/w-bitter.mp3": {
+"text": "bitter",
+"voice": "w"
+},
+"audio/s3254.mp3": {
+"text": "Her tone shifts from hopeful to bitter.",
+"voice": "m"
+},
+"audio/w-narrator.mp3": {
+"text": "narrator",
+"voice": "w"
+},
+"audio/w-fully.mp3": {
+"text": "fully",
+"voice": "w"
+},
+"audio/w-trusted.mp3": {
+"text": "trusted",
+"voice": "w"
+},
+"audio/s3255.mp3": {
+"text": "The narrator cannot be fully trusted.",
+"voice": "f"
+},
+"audio/w-adopts.mp3": {
+"text": "adopts",
+"voice": "w"
+},
+"audio/w-deliberately.mp3": {
+"text": "deliberately",
+"voice": "w"
+},
+"audio/w-neutral.mp3": {
+"text": "neutral",
+"voice": "w"
+},
+"audio/w-stance.mp3": {
+"text": "stance",
+"voice": "w"
+},
+"audio/s3256.mp3": {
+"text": "The essay adopts a deliberately neutral stance.",
+"voice": "m"
+},
+"audio/w-lines.mp3": {
+"text": "lines",
+"voice": "w"
+},
+"audio/w-hint.mp3": {
+"text": "hint",
+"voice": "w"
+},
+"audio/w-criticism.mp3": {
+"text": "criticism",
+"voice": "w"
+},
+"audio/s3257.mp3": {
+"text": "Between the lines, there's a hint of criticism.",
+"voice": "f"
+},
+"audio/w-surprisingly.mp3": {
+"text": "surprisingly",
+"voice": "w"
+},
+"audio/s3258.mp3": {
+"text": "The language is formal yet surprisingly warm.",
+"voice": "m"
+},
+"audio/w-implies.mp3": {
+"text": "implies",
+"voice": "w"
+},
+"audio/s3259.mp3": {
+"text": "The author implies more than he states.",
+"voice": "f"
+},
+"audio/w-overall.mp3": {
+"text": "overall",
+"voice": "w"
+},
+"audio/w-poem.mp3": {
+"text": "poem",
+"voice": "w"
+},
+"audio/w-melancholy.mp3": {
+"text": "melancholy",
+"voice": "w"
+},
+"audio/s3260.mp3": {
+"text": "The overall mood of the poem is melancholy.",
+"voice": "m"
+},
+"audio/w-harsh.mp3": {
+"text": "harsh",
+"voice": "w"
+},
+"audio/s3261.mp3": {
+"text": "The review is harsh but fair.",
+"voice": "f"
+},
+"audio/w-humor.mp3": {
+"text": "humor",
+"voice": "w"
+},
+"audio/w-soften.mp3": {
+"text": "soften",
+"voice": "w"
+},
+"audio/s3262.mp3": {
+"text": "The writer uses humor to soften the message.",
+"voice": "m"
+},
+"audio/s3263.mp3": {
+"text": "When we read, we should ask not only what the author says, but how.",
+"voice": "f"
+},
+"audio/w-playful.mp3": {
+"text": "playful",
+"voice": "w"
+},
+"audio/s3264.mp3": {
+"text": "Is the tone serious, playful, angry, or ironic?",
+"voice": "m"
+},
+"audio/s3265.mp3": {
+"text": "Does the writer seem neutral, or clearly biased?",
+"voice": "f"
+},
+"audio/s3266.mp3": {
+"text": "Often the most important message lies between the lines.",
+"voice": "m"
+},
+"audio/w-readers.mp3": {
+"text": "readers",
+"voice": "w"
+},
+"audio/w-implied.mp3": {
+"text": "implied",
+"voice": "w"
+},
+"audio/w-stated.mp3": {
+"text": "stated",
+"voice": "w"
+},
+"audio/s3267.mp3": {
+"text": "Good readers notice what is implied as well as what is stated.",
+"voice": "f"
+},
+"audio/w-skill.mp3": {
+"text": "skill",
+"voice": "w"
+},
+"audio/w-sharper.mp3": {
+"text": "sharper",
+"voice": "w"
+},
+"audio/w-critical.mp3": {
+"text": "critical",
+"voice": "w"
+},
+"audio/w-thinker.mp3": {
+"text": "thinker",
+"voice": "w"
+},
+"audio/s3268.mp3": {
+"text": "This skill makes you a sharper and more critical thinker.",
+"voice": "m"
+},
+"audio/w-quietly.mp3": {
+"text": "quietly",
+"voice": "w"
+},
+"audio/s3269.mp3": {
+"text": "The tone of the article is quietly hopeful.",
+"voice": "f"
+},
+"audio/w-mock.mp3": {
+"text": "mock",
+"voice": "w"
+},
+"audio/w-characters.mp3": {
+"text": "characters",
+"voice": "w"
+},
+"audio/s3270.mp3": {
+"text": "The author seems to mock her own characters.",
+"voice": "m"
+},
+"audio/w-directly.mp3": {
+"text": "directly",
+"voice": "w"
+},
+"audio/s3271.mp3": {
+"text": "The writer never states her opinion directly.",
+"voice": "f"
+},
+"audio/w-anger.mp3": {
+"text": "anger",
+"voice": "w"
+},
+"audio/s3272.mp3": {
+"text": "His tone shifts from anger to regret.",
+"voice": "m"
+},
+"audio/w-personal.mp3": {
+"text": "personal",
+"voice": "w"
+},
+"audio/w-perspective.mp3": {
+"text": "perspective",
+"voice": "w"
+},
+"audio/s3273.mp3": {
+"text": "The essay is written from a deeply personal perspective.",
+"voice": "f"
+},
+"audio/w-unreliable.mp3": {
+"text": "unreliable",
+"voice": "w"
+},
+"audio/s3274.mp3": {
+"text": "The narrator is clearly unreliable.",
+"voice": "m"
+},
+"audio/w-detached.mp3": {
+"text": "detached",
+"voice": "w"
+},
+"audio/s3275.mp3": {
+"text": "The language is cold and detached.",
+"voice": "f"
+},
+"audio/s3276.mp3": {
+"text": "Had I known how difficult it would be, I might never have started.",
+"voice": "m"
+},
+"audio/w-lied.mp3": {
+"text": "lied",
+"voice": "w"
+},
+"audio/s3277.mp3": {
+"text": "The man who sold us the house, whom we trusted, had lied.",
+"voice": "f"
+},
+"audio/s3278.mp3": {
+"text": "What surprised everyone was not the result but how quickly it came.",
+"voice": "m"
+},
+"audio/w-herself.mp3": {
+"text": "herself",
+"voice": "w"
+},
+"audio/s3279.mp3": {
+"text": "Having finished the report, she finally allowed herself to relax.",
+"voice": "f"
+},
+"audio/w-fail.mp3": {
+"text": "fail",
+"voice": "w"
+},
+"audio/w-dearly.mp3": {
+"text": "dearly",
+"voice": "w"
+},
+"audio/s3280.mp3": {
+"text": "Not only did the plan fail, but it also cost us dearly.",
+"voice": "m"
+},
+"audio/w-natural.mp3": {
+"text": "natural",
+"voice": "w"
+},
+"audio/s3281.mp3": {
+"text": "The more you practice, the more natural it becomes.",
+"voice": "f"
+},
+"audio/w-whatever.mp3": {
+"text": "Whatever",
+"voice": "w"
+},
+"audio/s3282.mp3": {
+"text": "Whatever you decide, I'll support you all the way.",
+"voice": "m"
+},
+"audio/w-exhausted.mp3": {
+"text": "exhausted",
+"voice": "w"
+},
+"audio/s3283.mp3": {
+"text": "Although exhausted, the team refused to give up.",
+"voice": "f"
+},
+"audio/s3284.mp3": {
+"text": "It was only when I left home that I understood my parents.",
+"voice": "m"
+},
+"audio/w-complex.mp3": {
+"text": "complex",
+"voice": "w"
+},
+"audio/s3285.mp3": {
+"text": "So complex was the problem that no one could solve it.",
+"voice": "f"
+},
+"audio/s3286.mp3": {
+"text": "Were it not for her help, we would still be lost.",
+"voice": "m"
+},
+"audio/s3287.mp3": {
+"text": "Much as I admire him, I can't agree with his decision.",
+"voice": "f"
+},
+"audio/w-journey.mp3": {
+"text": "journey",
+"voice": "w"
+},
+"audio/s3288.mp3": {
+"text": "Had I known, when I first arrived, how long the journey would be, I might have turned back.",
+"voice": "m"
+},
+"audio/w-impossible.mp3": {
+"text": "impossible",
+"voice": "w"
+},
+"audio/s3289.mp3": {
+"text": "The language, which had once seemed impossible, slowly became my own.",
+"voice": "f"
+},
+"audio/w-grammar.mp3": {
+"text": "grammar",
+"voice": "w"
+},
+"audio/w-conversations.mp3": {
+"text": "conversations",
+"voice": "w"
+},
+"audio/s3290.mp3": {
+"text": "What helped most was not grammar books, but conversations with real people.",
+"voice": "m"
+},
+"audio/s3291.mp3": {
+"text": "The more mistakes I made, the less afraid I became.",
+"voice": "f"
+},
+"audio/s3292.mp3": {
+"text": "Only now, looking back, do I see how far I have come.",
+"voice": "m"
+},
+"audio/w-challenged.mp3": {
+"text": "challenged",
+"voice": "w"
+},
+"audio/s3293.mp3": {
+"text": "Much as it challenged me, I wouldn't change a thing.",
+"voice": "f"
+},
+"audio/s3294.mp3": {
+"text": "Although the evidence was strong, the jury, after days of debate, could not agree.",
+"voice": "m"
+},
+"audio/s3295.mp3": {
+"text": "Not until she had read the letter twice did she understand what it meant.",
+"voice": "f"
+},
+"audio/s3296.mp3": {
+"text": "The more I think about it, the less sure I become.",
+"voice": "m"
+},
+"audio/w-outcome.mp3": {
+"text": "outcome",
+"voice": "w"
+},
+"audio/w-valuable.mp3": {
+"text": "valuable",
+"voice": "w"
+},
+"audio/s3297.mp3": {
+"text": "Whatever the outcome, we will have learned something valuable.",
+"voice": "f"
+},
+"audio/s3298.mp3": {
+"text": "It was only after he left that we realized how much he had done.",
+"voice": "m"
+},
+"audio/s3299.mp3": {
+"text": "Were it not for her support, I would have given up long ago.",
+"voice": "f"
+},
+"audio/w-factories.mp3": {
+"text": "factories",
+"voice": "w"
+},
+"audio/s3300.mp3": {
+"text": "The city, once famous for its factories, is now known for its art.",
+"voice": "m"
+},
+"audio/s3301.mp3": {
+"text": "Hold on, are you serious right now?",
+"voice": "f"
+},
+"audio/w-insane.mp3": {
+"text": "insane",
+"voice": "w"
+},
+"audio/s3302.mp3": {
+"text": "No way, that's insane!",
+"voice": "m"
+},
+"audio/s3303.mp3": {
+"text": "I'm telling you, it wasn't my fault.",
+"voice": "f"
+},
+"audio/w-slack.mp3": {
+"text": "slack",
+"voice": "w"
+},
+"audio/s3304.mp3": {
+"text": "Come on, cut me some slack.",
+"voice": "m"
+},
+"audio/s3305.mp3": {
+"text": "Long story short, we missed the flight.",
+"voice": "f"
+},
+"audio/s3306.mp3": {
+"text": "Whatever, I'm over it.",
+"voice": "m"
+},
+"audio/s3307.mp3": {
+"text": "Wait, back up a second.",
+"voice": "f"
+},
+"audio/s3308.mp3": {
+"text": "You lost me there.",
+"voice": "m"
+},
+"audio/s3309.mp3": {
+"text": "Fair enough, I'll give you that.",
+"voice": "f"
+},
+"audio/s3310.mp3": {
+"text": "Don't get me wrong, I like him.",
+"voice": "m"
+},
+"audio/s3311.mp3": {
+"text": "It is what it is.",
+"voice": "f"
+},
+"audio/s3312.mp3": {
+"text": "Tell me about it!",
+"voice": "m"
+},
+"audio/s3313.mp3": {
+"text": "\"So, how was the date?\" \"Long story short, it was a disaster.\"",
+"voice": "f"
+},
+"audio/s3314.mp3": {
+"text": "\"No way! What happened?\" \"He showed up an hour late.\"",
+"voice": "m"
+},
+"audio/s3315.mp3": {
+"text": "\"Are you serious?\" \"And then he forgot his wallet.\"",
+"voice": "f"
+},
+"audio/w-yep.mp3": {
+"text": "Yep",
+"voice": "w"
+},
+"audio/s3316.mp3": {
+"text": "\"Wait, back up. You paid?\" \"Yep. Tell me about it.\"",
+"voice": "m"
+},
+"audio/s3317.mp3": {
+"text": "\"Don't get me wrong, he was sweet, but...\"",
+"voice": "f"
+},
+"audio/s3318.mp3": {
+"text": "\"But it is what it is, right?\" \"Exactly. I'm over it.\"",
+"voice": "m"
+},
+"audio/s3319.mp3": {
+"text": "Are you kidding me right now?",
+"voice": "f"
+},
+"audio/s3320.mp3": {
+"text": "Hold up, who said that?",
+"voice": "m"
+},
+"audio/s3321.mp3": {
+"text": "Don't even go there.",
+"voice": "f"
+},
+"audio/s3322.mp3": {
+"text": "Seriously, I'm done with this.",
+"voice": "m"
+},
+"audio/s3323.mp3": {
+"text": "Give me a break!",
+"voice": "f"
+},
+"audio/s3324.mp3": {
+"text": "You've got to be kidding.",
+"voice": "m"
+},
+"audio/s3325.mp3": {
+"text": "Whatever, it's not a big deal.",
+"voice": "f"
+},
+"audio/s3326.mp3": {
+"text": "That party was lit.",
+"voice": "m"
+},
+"audio/s3327.mp3": {
+"text": "I'm so broke this month.",
+"voice": "f"
+},
+"audio/w-flake.mp3": {
+"text": "flake",
+"voice": "w"
+},
+"audio/s3328.mp3": {
+"text": "He's such a flake.",
+"voice": "m"
+},
+"audio/w-total.mp3": {
+"text": "total",
+"voice": "w"
+},
+"audio/w-rip-off.mp3": {
+"text": "rip-off",
+"voice": "w"
+},
+"audio/s3329.mp3": {
+"text": "That's a total rip-off.",
+"voice": "f"
+},
+"audio/s3330.mp3": {
+"text": "I'm beat, I'm going to bed.",
+"voice": "m"
+},
+"audio/w-aced.mp3": {
+"text": "aced",
+"voice": "w"
+},
+"audio/s3331.mp3": {
+"text": "She aced the exam.",
+"voice": "f"
+},
+"audio/s3332.mp3": {
+"text": "Let's hang out this weekend.",
+"voice": "m"
+},
+"audio/w-bailed.mp3": {
+"text": "bailed",
+"voice": "w"
+},
+"audio/s3333.mp3": {
+"text": "He totally bailed on us.",
+"voice": "f"
+},
+"audio/w-cheesy.mp3": {
+"text": "cheesy",
+"voice": "w"
+},
+"audio/s3334.mp3": {
+"text": "That movie was a bit cheesy.",
+"voice": "m"
+},
+"audio/w-chill.mp3": {
+"text": "Chill",
+"voice": "w"
+},
+"audio/s3335.mp3": {
+"text": "Chill out, it's no big deal.",
+"voice": "f"
+},
+"audio/w-pretty.mp3": {
+"text": "pretty",
+"voice": "w"
+},
+"audio/w-cool.mp3": {
+"text": "cool",
+"voice": "w"
+},
+"audio/s3336.mp3": {
+"text": "My new boss is pretty cool.",
+"voice": "m"
+},
+"audio/s3337.mp3": {
+"text": "I'm down for pizza tonight.",
+"voice": "f"
+},
+"audio/w-buddy.mp3": {
+"text": "buddy",
+"voice": "w"
+},
+"audio/s3338.mp3": {
+"text": "Last Friday, my buddy Jake invited me to a party.",
+"voice": "m"
+},
+"audio/s3339.mp3": {
+"text": "I was beat after work, but I didn't want to bail on him.",
+"voice": "f"
+},
+"audio/s3340.mp3": {
+"text": "The party turned out to be totally lit.",
+"voice": "m"
+},
+"audio/w-cared.mp3": {
+"text": "cared",
+"voice": "w"
+},
+"audio/s3341.mp3": {
+"text": "The music was a bit cheesy, but nobody cared.",
+"voice": "f"
+},
+"audio/s3342.mp3": {
+"text": "We hung out until two in the morning.",
+"voice": "m"
+},
+"audio/w-honestly.mp3": {
+"text": "Honestly",
+"voice": "w"
+},
+"audio/s3343.mp3": {
+"text": "Honestly, it was no big deal that I was tired the next day.",
+"voice": "f"
+},
+"audio/s3344.mp3": {
+"text": "That's so cool.",
+"voice": "m"
+},
+"audio/s3345.mp3": {
+"text": "I'm totally down for that.",
+"voice": "f"
+},
+"audio/w-ghosted.mp3": {
+"text": "ghosted",
+"voice": "w"
+},
+"audio/s3346.mp3": {
+"text": "He ghosted me after the second date.",
+"voice": "m"
+},
+"audio/s3347.mp3": {
+"text": "That movie was fire.",
+"voice": "f"
+},
+"audio/w-throwing.mp3": {
+"text": "throwing",
+"voice": "w"
+},
+"audio/s3348.mp3": {
+"text": "She's always throwing shade at me.",
+"voice": "m"
+},
+"audio/w-cap.mp3": {
+"text": "cap",
+"voice": "w"
+},
+"audio/s3349.mp3": {
+"text": "No cap, this is the best burger in town.",
+"voice": "f"
+},
+"audio/s3350.mp3": {
+"text": "I'm beat. Let's call it a night.",
+"voice": "m"
+},
+"audio/w-transformed.mp3": {
+"text": "transformed",
+"voice": "w"
+},
+"audio/w-communicate.mp3": {
+"text": "communicate",
+"voice": "w"
+},
+"audio/s3351.mp3": {
+"text": "In recent years, social media has transformed the way we communicate.",
+"voice": "f"
+},
+"audio/w-drawbacks.mp3": {
+"text": "drawbacks",
+"voice": "w"
+},
+"audio/s3352.mp3": {
+"text": "This essay will argue that its benefits outweigh its drawbacks.",
+"voice": "m"
+},
+"audio/w-firstly.mp3": {
+"text": "Firstly",
+"voice": "w"
+},
+"audio/w-allows.mp3": {
+"text": "allows",
+"voice": "w"
+},
+"audio/w-distances.mp3": {
+"text": "distances",
+"voice": "w"
+},
+"audio/s3353.mp3": {
+"text": "Firstly, it allows people to stay connected across distances.",
+"voice": "f"
+},
+"audio/w-impact.mp3": {
+"text": "impact",
+"voice": "w"
+},
+"audio/w-mental.mp3": {
+"text": "mental",
+"voice": "w"
+},
+"audio/s3354.mp3": {
+"text": "Critics, however, point to its impact on mental health.",
+"voice": "m"
+},
+"audio/w-valid.mp3": {
+"text": "valid",
+"voice": "w"
+},
+"audio/s3355.mp3": {
+"text": "While this concern is valid, it is not the whole story.",
+"voice": "f"
+},
+"audio/w-body.mp3": {
+"text": "body",
+"voice": "w"
+},
+"audio/w-supports.mp3": {
+"text": "supports",
+"voice": "w"
+},
+"audio/s3356.mp3": {
+"text": "A growing body of evidence supports this view.",
+"voice": "m"
+},
+"audio/w-noting.mp3": {
+"text": "noting",
+"voice": "w"
+},
+"audio/w-usage.mp3": {
+"text": "usage",
+"voice": "w"
+},
+"audio/w-varies.mp3": {
+"text": "varies",
+"voice": "w"
+},
+"audio/w-age.mp3": {
+"text": "age",
+"voice": "w"
+},
+"audio/s3357.mp3": {
+"text": "It is worth noting that usage varies widely by age.",
+"voice": "f"
+},
+"audio/w-advantages.mp3": {
+"text": "advantages",
+"voice": "w"
+},
+"audio/w-prevail.mp3": {
+"text": "prevail",
+"voice": "w"
+},
+"audio/s3358.mp3": {
+"text": "On balance, the advantages seem to prevail.",
+"voice": "m"
+},
+"audio/w-raises.mp3": {
+"text": "raises",
+"voice": "w"
+},
+"audio/w-regulation.mp3": {
+"text": "regulation",
+"voice": "w"
+},
+"audio/s3359.mp3": {
+"text": "This raises an important question about regulation.",
+"voice": "f"
+},
+"audio/w-paragraph.mp3": {
+"text": "paragraph",
+"voice": "w"
+},
+"audio/w-develop.mp3": {
+"text": "develop",
+"voice": "w"
+},
+"audio/s3360.mp3": {
+"text": "Each paragraph should develop a single main idea.",
+"voice": "m"
+},
+"audio/w-conclusion.mp3": {
+"text": "conclusion",
+"voice": "w"
+},
+"audio/w-restates.mp3": {
+"text": "restates",
+"voice": "w"
+},
+"audio/w-thesis.mp3": {
+"text": "thesis",
+"voice": "w"
+},
+"audio/s3361.mp3": {
+"text": "A strong conclusion restates the thesis in new words.",
+"voice": "f"
+},
+"audio/w-moderation.mp3": {
+"text": "moderation",
+"voice": "w"
+},
+"audio/s3362.mp3": {
+"text": "In conclusion, moderation is the key to healthy use.",
+"voice": "m"
+},
+"audio/w-begins.mp3": {
+"text": "begins",
+"voice": "w"
+},
+"audio/w-statement.mp3": {
+"text": "statement",
+"voice": "w"
+},
+"audio/s3363.mp3": {
+"text": "A good essay begins with a clear thesis statement.",
+"voice": "f"
+},
+"audio/s3364.mp3": {
+"text": "Each paragraph then supports that thesis with evidence.",
+"voice": "m"
+},
+"audio/w-writers.mp3": {
+"text": "writers",
+"voice": "w"
+},
+"audio/w-opposing.mp3": {
+"text": "opposing",
+"voice": "w"
+},
+"audio/s3365.mp3": {
+"text": "Strong writers also address the opposing view.",
+"voice": "f"
+},
+"audio/w-transitions.mp3": {
+"text": "Transitions",
+"voice": "w"
+},
+"audio/w-guide.mp3": {
+"text": "guide",
+"voice": "w"
+},
+"audio/w-reader.mp3": {
+"text": "reader",
+"voice": "w"
+},
+"audio/s3366.mp3": {
+"text": "Transitions like \"however\" and \"moreover\" guide the reader.",
+"voice": "m"
+},
+"audio/w-summarize.mp3": {
+"text": "summarize",
+"voice": "w"
+},
+"audio/w-repeating.mp3": {
+"text": "repeating",
+"voice": "w"
+},
+"audio/s3367.mp3": {
+"text": "The conclusion should summarize without simply repeating.",
+"voice": "f"
+},
+"audio/w-clarity.mp3": {
+"text": "clarity",
+"voice": "w"
+},
+"audio/w-fancy.mp3": {
+"text": "fancy",
+"voice": "w"
+},
+"audio/w-vocabulary.mp3": {
+"text": "vocabulary",
+"voice": "w"
+},
+"audio/s3368.mp3": {
+"text": "Above all, clarity matters more than fancy vocabulary.",
+"voice": "m"
+},
+"audio/w-technology.mp3": {
+"text": "technology",
+"voice": "w"
+},
+"audio/s3369.mp3": {
+"text": "This essay examines the impact of technology on family life.",
+"voice": "f"
+},
+"audio/w-reasons.mp3": {
+"text": "reasons",
+"voice": "w"
+},
+"audio/w-trend.mp3": {
+"text": "trend",
+"voice": "w"
+},
+"audio/s3370.mp3": {
+"text": "There are several reasons for this trend.",
+"voice": "m"
+},
+"audio/w-dangers.mp3": {
+"text": "dangers",
+"voice": "w"
+},
+"audio/s3371.mp3": {
+"text": "Critics, however, point to its dangers.",
+"voice": "f"
+},
+"audio/w-balanced.mp3": {
+"text": "balanced",
+"voice": "w"
+},
+"audio/w-approach.mp3": {
+"text": "approach",
+"voice": "w"
+},
+"audio/s3372.mp3": {
+"text": "A balanced approach is therefore essential.",
+"voice": "m"
+},
+"audio/w-secondly.mp3": {
+"text": "Secondly",
+"voice": "w"
+},
+"audio/w-nature.mp3": {
+"text": "nature",
+"voice": "w"
+},
+"audio/s3373.mp3": {
+"text": "Secondly, it has changed the nature of work.",
+"voice": "f"
+},
+"audio/s3374.mp3": {
+"text": "Finally, we must consider the effect on young people.",
+"voice": "m"
+},
+"audio/s3375.mp3": {
+"text": "In conclusion, the benefits clearly outweigh the risks.",
+"voice": "f"
+},
+"audio/w-failure.mp3": {
+"text": "failure",
+"voice": "w"
+},
+"audio/s3376.mp3": {
+"text": "In short, the plan was a failure.",
+"voice": "m"
+},
+"audio/s3377.mp3": {
+"text": "The main point of the article is simple.",
+"voice": "f"
+},
+"audio/w-briefly.mp3": {
+"text": "briefly",
+"voice": "w"
+},
+"audio/s3378.mp3": {
+"text": "To put it briefly, costs went up and sales went down.",
+"voice": "m"
+},
+"audio/w-arguments.mp3": {
+"text": "arguments",
+"voice": "w"
+},
+"audio/s3379.mp3": {
+"text": "The author makes three key arguments.",
+"voice": "f"
+},
+"audio/w-nutshell.mp3": {
+"text": "nutshell",
+"voice": "w"
+},
+"audio/s3380.mp3": {
+"text": "In a nutshell, we need more time.",
+"voice": "m"
+},
+"audio/w-concludes.mp3": {
+"text": "concludes",
+"voice": "w"
+},
+"audio/s3381.mp3": {
+"text": "The report concludes that change is necessary.",
+"voice": "f"
+},
+"audio/s3382.mp3": {
+"text": "Overall, the reviews were positive.",
+"voice": "m"
+},
+"audio/w-gist.mp3": {
+"text": "gist",
+"voice": "w"
+},
+"audio/w-forgiveness.mp3": {
+"text": "forgiveness",
+"voice": "w"
+},
+"audio/s3383.mp3": {
+"text": "The gist of the story is about forgiveness.",
+"voice": "f"
+},
+"audio/w-options.mp3": {
+"text": "options",
+"voice": "w"
+},
+"audio/s3384.mp3": {
+"text": "To summarize, both options have risks.",
+"voice": "m"
+},
+"audio/w-essentially.mp3": {
+"text": "Essentially",
+"voice": "w"
+},
+"audio/s3385.mp3": {
+"text": "Essentially, the two sides want the same thing.",
+"voice": "f"
+},
+"audio/w-study-s.mp3": {
+"text": "study's",
+"voice": "w"
+},
+"audio/w-summed.mp3": {
+"text": "summed",
+"voice": "w"
+},
+"audio/w-sentence.mp3": {
+"text": "sentence",
+"voice": "w"
+},
+"audio/s3386.mp3": {
+"text": "The study's findings can be summed up in one sentence.",
+"voice": "m"
+},
+"audio/s3387.mp3": {
+"text": "Cut out the details and focus on the big picture.",
+"voice": "f"
+},
+"audio/w-original.mp3": {
+"text": "original",
+"voice": "w"
+},
+"audio/s3388.mp3": {
+"text": "A good summary is much shorter than the original text.",
+"voice": "m"
+},
+"audio/s3389.mp3": {
+"text": "It keeps the main ideas and leaves out the details.",
+"voice": "f"
+},
+"audio/w-copy.mp3": {
+"text": "copy",
+"voice": "w"
+},
+"audio/w-sentences.mp3": {
+"text": "sentences",
+"voice": "w"
+},
+"audio/s3390.mp3": {
+"text": "You should use your own words, not copy sentences.",
+"voice": "m"
+},
+"audio/w-belong.mp3": {
+"text": "belong",
+"voice": "w"
+},
+"audio/s3391.mp3": {
+"text": "Your personal opinion does not belong in a summary.",
+"voice": "f"
+},
+"audio/w-add.mp3": {
+"text": "add",
+"voice": "w"
+},
+"audio/s3392.mp3": {
+"text": "Start with the author's main point, then add key support.",
+"voice": "m"
+},
+"audio/w-faithful.mp3": {
+"text": "faithful",
+"voice": "w"
+},
+"audio/s3393.mp3": {
+"text": "In a nutshell, keep it short, clear, and faithful.",
+"voice": "f"
+},
+"audio/s3394.mp3": {
+"text": "The bottom line is that we're over budget.",
+"voice": "m"
+},
+"audio/s3395.mp3": {
+"text": "To sum up, both sides have a point.",
+"voice": "f"
+},
+"audio/w-boils.mp3": {
+"text": "boils",
+"voice": "w"
+},
+"audio/s3396.mp3": {
+"text": "The report boils down to one key idea.",
+"voice": "m"
+},
+"audio/s3397.mp3": {
+"text": "Simply put, the old system no longer works.",
+"voice": "f"
+},
+"audio/w-takeaway.mp3": {
+"text": "takeaway",
+"voice": "w"
+},
+"audio/s3398.mp3": {
+"text": "The key takeaway is that small changes matter.",
+"voice": "m"
+},
+"audio/s3399.mp3": {
+"text": "The author's main argument is easy to follow.",
+"voice": "f"
+},
+"audio/w-brief.mp3": {
+"text": "brief",
+"voice": "w"
+},
+"audio/s3400.mp3": {
+"text": "In brief, the plan worked.",
+"voice": "m"
+},
+"audio/w-visually.mp3": {
+"text": "visually",
+"voice": "w"
+},
+"audio/w-stunning.mp3": {
+"text": "stunning",
+"voice": "w"
+},
+"audio/w-emotionally.mp3": {
+"text": "emotionally",
+"voice": "w"
+},
+"audio/w-shallow.mp3": {
+"text": "shallow",
+"voice": "w"
+},
+"audio/s3401.mp3": {
+"text": "The film is visually stunning but emotionally shallow.",
+"voice": "f"
+},
+"audio/w-plot.mp3": {
+"text": "plot",
+"voice": "w"
+},
+"audio/w-predictable.mp3": {
+"text": "predictable",
+"voice": "w"
+},
+"audio/s3402.mp3": {
+"text": "The plot is predictable from start to finish.",
+"voice": "m"
+},
+"audio/w-delivers.mp3": {
+"text": "delivers",
+"voice": "w"
+},
+"audio/s3403.mp3": {
+"text": "The lead actor delivers a powerful performance.",
+"voice": "f"
+},
+"audio/w-pacing.mp3": {
+"text": "pacing",
+"voice": "w"
+},
+"audio/w-drags.mp3": {
+"text": "drags",
+"voice": "w"
+},
+"audio/s3404.mp3": {
+"text": "The pacing drags in the second half.",
+"voice": "m"
+},
+"audio/w-reputation.mp3": {
+"text": "reputation",
+"voice": "w"
+},
+"audio/s3405.mp3": {
+"text": "The restaurant lives up to its reputation.",
+"voice": "f"
+},
+"audio/w-attentive.mp3": {
+"text": "attentive",
+"voice": "w"
+},
+"audio/w-intrusive.mp3": {
+"text": "intrusive",
+"voice": "w"
+},
+"audio/s3406.mp3": {
+"text": "The service was attentive without being intrusive.",
+"voice": "m"
+},
+"audio/w-answers.mp3": {
+"text": "answers",
+"voice": "w"
+},
+"audio/s3407.mp3": {
+"text": "The book raises more questions than it answers.",
+"voice": "f"
+},
+"audio/w-ending.mp3": {
+"text": "ending",
+"voice": "w"
+},
+"audio/w-unsatisfying.mp3": {
+"text": "unsatisfying",
+"voice": "w"
+},
+"audio/s3408.mp3": {
+"text": "The ending felt rushed and unsatisfying.",
+"voice": "m"
+},
+"audio/w-admission.mp3": {
+"text": "admission",
+"voice": "w"
+},
+"audio/s3409.mp3": {
+"text": "Overall, it's well worth the price of admission.",
+"voice": "f"
+},
+"audio/w-sequel.mp3": {
+"text": "sequel",
+"voice": "w"
+},
+"audio/w-fails.mp3": {
+"text": "fails",
+"voice": "w"
+},
+"audio/w-match.mp3": {
+"text": "match",
+"voice": "w"
+},
+"audio/s3410.mp3": {
+"text": "The sequel fails to match the original.",
+"voice": "m"
+},
+"audio/w-flaws.mp3": {
+"text": "flaws",
+"voice": "w"
+},
+"audio/w-album.mp3": {
+"text": "album",
+"voice": "w"
+},
+"audio/w-triumph.mp3": {
+"text": "triumph",
+"voice": "w"
+},
+"audio/s3411.mp3": {
+"text": "Despite its flaws, the album is a triumph.",
+"voice": "f"
+},
+"audio/s3412.mp3": {
+"text": "I'd give it four stars out of five.",
+"voice": "m"
+},
+"audio/w-buzz.mp3": {
+"text": "buzz",
+"voice": "w"
+},
+"audio/s3413.mp3": {
+"text": "The new restaurant downtown has been getting a lot of buzz.",
+"voice": "f"
+},
+"audio/s3414.mp3": {
+"text": "The atmosphere is warm, and the service is excellent.",
+"voice": "m"
+},
+"audio/w-lamb.mp3": {
+"text": "lamb",
+"voice": "w"
+},
+"audio/w-flavor.mp3": {
+"text": "flavor",
+"voice": "w"
+},
+"audio/s3415.mp3": {
+"text": "The lamb was perfectly cooked and full of flavor.",
+"voice": "f"
+},
+"audio/w-desserts.mp3": {
+"text": "desserts",
+"voice": "w"
+},
+"audio/w-disappointing.mp3": {
+"text": "disappointing",
+"voice": "w"
+},
+"audio/w-overpriced.mp3": {
+"text": "overpriced",
+"voice": "w"
+},
+"audio/s3416.mp3": {
+"text": "However, the desserts were disappointing and overpriced.",
+"voice": "m"
+},
+"audio/w-hype.mp3": {
+"text": "hype",
+"voice": "w"
+},
+"audio/s3417.mp3": {
+"text": "Despite these flaws, it lives up to most of the hype.",
+"voice": "f"
+},
+"audio/w-soundtrack.mp3": {
+"text": "soundtrack",
+"voice": "w"
+},
+"audio/w-captures.mp3": {
+"text": "captures",
+"voice": "w"
+},
+"audio/s3418.mp3": {
+"text": "The soundtrack perfectly captures the mood.",
+"voice": "m"
+},
+"audio/w-burn.mp3": {
+"text": "burn",
+"voice": "w"
+},
+"audio/s3419.mp3": {
+"text": "It's a slow burn, but it's worth the wait.",
+"voice": "f"
+},
+"audio/w-depth.mp3": {
+"text": "depth",
+"voice": "w"
+},
+"audio/s3420.mp3": {
+"text": "The characters lack depth.",
+"voice": "m"
+},
+"audio/w-dialogue.mp3": {
+"text": "dialogue",
+"voice": "w"
+},
+"audio/w-witty.mp3": {
+"text": "witty",
+"voice": "w"
+},
+"audio/s3421.mp3": {
+"text": "The dialogue is sharp and witty.",
+"voice": "f"
+},
+"audio/w-cast.mp3": {
+"text": "cast",
+"voice": "w"
+},
+"audio/s3422.mp3": {
+"text": "The cast has wonderful chemistry.",
+"voice": "m"
+},
+"audio/w-must-see.mp3": {
+"text": "must-see",
+"voice": "w"
+},
+"audio/w-fan.mp3": {
+"text": "fan",
+"voice": "w"
+},
+"audio/w-genre.mp3": {
+"text": "genre",
+"voice": "w"
+},
+"audio/s3423.mp3": {
+"text": "It's a must-see for any fan of the genre.",
+"voice": "f"
+},
+"audio/w-beautifully.mp3": {
+"text": "beautifully",
+"voice": "w"
+},
+"audio/s3424.mp3": {
+"text": "The book is beautifully written but hard to finish.",
+"voice": "m"
+},
+"audio/w-director.mp3": {
+"text": "director",
+"voice": "w"
+},
+"audio/s3425.mp3": {
+"text": "The director takes too many risks.",
+"voice": "f"
+},
+"audio/s3426.mp3": {
+"text": "I have a dream.",
+"voice": "m"
+},
+"audio/s3427.mp3": {
+"text": "Ask not what your country can do for you.",
+"voice": "f"
+},
+"audio/w-fear.mp3": {
+"text": "fear",
+"voice": "w"
+},
+"audio/w-itself.mp3": {
+"text": "itself",
+"voice": "w"
+},
+"audio/s3428.mp3": {
+"text": "The only thing we have to fear is fear itself.",
+"voice": "m"
+},
+"audio/s3429.mp3": {
+"text": "Government of the people, by the people, for the people.",
+"voice": "f"
+},
+"audio/w-gorbachev.mp3": {
+"text": "Gorbachev",
+"voice": "w"
+},
+"audio/w-tear.mp3": {
+"text": "tear",
+"voice": "w"
+},
+"audio/w-wall.mp3": {
+"text": "wall",
+"voice": "w"
+},
+"audio/s3430.mp3": {
+"text": "Mr. Gorbachev, tear down this wall!",
+"voice": "m"
+},
+"audio/s3431.mp3": {
+"text": "Yes, we can.",
+"voice": "f"
+},
+"audio/s3432.mp3": {
+"text": "A house divided against itself cannot stand.",
+"voice": "m"
+},
+"audio/w-foolish.mp3": {
+"text": "foolish",
+"voice": "w"
+},
+"audio/s3433.mp3": {
+"text": "Stay hungry, stay foolish.",
+"voice": "f"
+},
+"audio/w-liberty.mp3": {
+"text": "liberty",
+"voice": "w"
+},
+"audio/w-death.mp3": {
+"text": "death",
+"voice": "w"
+},
+"audio/s3434.mp3": {
+"text": "Give me liberty, or give me death!",
+"voice": "m"
+},
+"audio/w-step.mp3": {
+"text": "step",
+"voice": "w"
+},
+"audio/s3435.mp3": {
+"text": "That's one small step for man.",
+"voice": "f"
+},
+"audio/w-leap.mp3": {
+"text": "leap",
+"voice": "w"
+},
+"audio/w-mankind.mp3": {
+"text": "mankind",
+"voice": "w"
+},
+"audio/s3436.mp3": {
+"text": "One giant leap for mankind.",
+"voice": "m"
+},
+"audio/s3437.mp3": {
+"text": "We choose to go to the moon.",
+"voice": "f"
+},
+"audio/w-sixty-three.mp3": {
+"text": "sixty-three",
+"voice": "w"
+},
+"audio/w-martin.mp3": {
+"text": "Martin",
+"voice": "w"
+},
+"audio/w-luther.mp3": {
+"text": "Luther",
+"voice": "w"
+},
+"audio/w-king.mp3": {
+"text": "King",
+"voice": "w"
+},
+"audio/w-jr.mp3": {
+"text": "Jr",
+"voice": "w"
+},
+"audio/w-washington.mp3": {
+"text": "Washington",
+"voice": "w"
+},
+"audio/s3438.mp3": {
+"text": "In nineteen sixty-three, Martin Luther King Jr. gave a speech in Washington.",
+"voice": "m"
+},
+"audio/s3439.mp3": {
+"text": "More than two hundred thousand people gathered to hear him.",
+"voice": "f"
+},
+"audio/w-dreamed.mp3": {
+"text": "dreamed",
+"voice": "w"
+},
+"audio/w-nation.mp3": {
+"text": "nation",
+"voice": "w"
+},
+"audio/w-judged.mp3": {
+"text": "judged",
+"voice": "w"
+},
+"audio/w-character.mp3": {
+"text": "character",
+"voice": "w"
+},
+"audio/s3440.mp3": {
+"text": "He dreamed of a nation where people were judged by their character.",
+"voice": "m"
+},
+"audio/s3441.mp3": {
+"text": "His words, \"I have a dream,\" became world famous.",
+"voice": "f"
+},
+"audio/w-history.mp3": {
+"text": "history",
+"voice": "w"
+},
+"audio/s3442.mp3": {
+"text": "The speech helped change American law and history.",
+"voice": "m"
+},
+"audio/s3443.mp3": {
+"text": "Today, it is still studied in schools across the country.",
+"voice": "f"
+},
+"audio/w-overcome.mp3": {
+"text": "overcome",
+"voice": "w"
+},
+"audio/s3444.mp3": {
+"text": "We shall overcome.",
+"voice": "m"
+},
+"audio/w-score.mp3": {
+"text": "score",
+"voice": "w"
+},
+"audio/s3445.mp3": {
+"text": "Four score and seven years ago.",
+"voice": "f"
+},
+"audio/s3446.mp3": {
+"text": "That's one small step for man, one giant leap for mankind.",
+"voice": "m"
+},
+"audio/w-arc.mp3": {
+"text": "arc",
+"voice": "w"
+},
+"audio/w-moral.mp3": {
+"text": "moral",
+"voice": "w"
+},
+"audio/w-universe.mp3": {
+"text": "universe",
+"voice": "w"
+},
+"audio/w-bends.mp3": {
+"text": "bends",
+"voice": "w"
+},
+"audio/w-justice.mp3": {
+"text": "justice",
+"voice": "w"
+},
+"audio/s3447.mp3": {
+"text": "The arc of the moral universe is long, but it bends toward justice.",
+"voice": "f"
+},
+"audio/w-buck.mp3": {
+"text": "buck",
+"voice": "w"
+},
+"audio/w-stops.mp3": {
+"text": "stops",
+"voice": "w"
+},
+"audio/s3448.mp3": {
+"text": "The buck stops here.",
+"voice": "m"
+},
+"audio/w-stick.mp3": {
+"text": "stick",
+"voice": "w"
+},
+"audio/s3449.mp3": {
+"text": "Speak softly and carry a big stick.",
+"voice": "f"
+},
+"audio/s3450.mp3": {
+"text": "Let freedom ring.",
+"voice": "m"
+},
+"audio/w-ishmael.mp3": {
+"text": "Ishmael",
+"voice": "w"
+},
+"audio/s3451.mp3": {
+"text": "Call me Ishmael.",
+"voice": "f"
+},
+"audio/w-boats.mp3": {
+"text": "boats",
+"voice": "w"
+},
+"audio/s3452.mp3": {
+"text": "So we beat on, boats against the current.",
+"voice": "m"
+},
+"audio/w-diverged.mp3": {
+"text": "diverged",
+"voice": "w"
+},
+"audio/w-wood.mp3": {
+"text": "wood",
+"voice": "w"
+},
+"audio/s3453.mp3": {
+"text": "Two roads diverged in a wood.",
+"voice": "f"
+},
+"audio/s3454.mp3": {
+"text": "I took the one less traveled by.",
+"voice": "m"
+},
+"audio/w-twain.mp3": {
+"text": "Twain",
+"voice": "w"
+},
+"audio/w-south.mp3": {
+"text": "South",
+"voice": "w"
+},
+"audio/s3455.mp3": {
+"text": "Mark Twain wrote with sharp humor about the South.",
+"voice": "f"
+},
+"audio/w-hemingway.mp3": {
+"text": "Hemingway",
+"voice": "w"
+},
+"audio/s3456.mp3": {
+"text": "Hemingway was famous for his short, simple sentences.",
+"voice": "m"
+},
+"audio/w-gatsby.mp3": {
+"text": "Gatsby",
+"voice": "w"
+},
+"audio/s3457.mp3": {
+"text": "The Great Gatsby captures the spirit of the Jazz Age.",
+"voice": "f"
+},
+"audio/w-toni.mp3": {
+"text": "Toni",
+"voice": "w"
+},
+"audio/w-morrison.mp3": {
+"text": "Morrison",
+"voice": "w"
+},
+"audio/w-nobel.mp3": {
+"text": "Nobel",
+"voice": "w"
+},
+"audio/w-prize.mp3": {
+"text": "Prize",
+"voice": "w"
+},
+"audio/w-literature.mp3": {
+"text": "Literature",
+"voice": "w"
+},
+"audio/s3458.mp3": {
+"text": "Toni Morrison won the Nobel Prize in Literature.",
+"voice": "m"
+},
+"audio/w-emily.mp3": {
+"text": "Emily",
+"voice": "w"
+},
+"audio/w-dickinson.mp3": {
+"text": "Dickinson",
+"voice": "w"
+},
+"audio/s3459.mp3": {
+"text": "Emily Dickinson rarely left her home.",
+"voice": "f"
+},
+"audio/w-kill.mp3": {
+"text": "Kill",
+"voice": "w"
+},
+"audio/w-mockingbird.mp3": {
+"text": "Mockingbird",
+"voice": "w"
+},
+"audio/w-deals.mp3": {
+"text": "deals",
+"voice": "w"
+},
+"audio/w-racial.mp3": {
+"text": "racial",
+"voice": "w"
+},
+"audio/w-injustice.mp3": {
+"text": "injustice",
+"voice": "w"
+},
+"audio/s3460.mp3": {
+"text": "To Kill a Mockingbird deals with racial injustice.",
+"voice": "m"
+},
+"audio/w-walt.mp3": {
+"text": "Walt",
+"voice": "w"
+},
+"audio/w-whitman.mp3": {
+"text": "Whitman",
+"voice": "w"
+},
+"audio/w-celebrated.mp3": {
+"text": "celebrated",
+"voice": "w"
+},
+"audio/s3461.mp3": {
+"text": "Walt Whitman celebrated ordinary American life.",
+"voice": "f"
+},
+"audio/w-steinbeck.mp3": {
+"text": "Steinbeck",
+"voice": "w"
+},
+"audio/w-depression.mp3": {
+"text": "Depression",
+"voice": "w"
+},
+"audio/s3462.mp3": {
+"text": "Steinbeck wrote about workers during the Great Depression.",
+"voice": "m"
+},
+"audio/w-country-s.mp3": {
+"text": "country's",
+"voice": "w"
+},
+"audio/w-dreams.mp3": {
+"text": "dreams",
+"voice": "w"
+},
+"audio/w-struggles.mp3": {
+"text": "struggles",
+"voice": "w"
+},
+"audio/s3463.mp3": {
+"text": "American literature reflects the country's dreams and struggles.",
+"voice": "f"
+},
+"audio/w-chases.mp3": {
+"text": "chases",
+"voice": "w"
+},
+"audio/s3464.mp3": {
+"text": "In The Great Gatsby, a man chases a dream he can never reach.",
+"voice": "m"
+},
+"audio/w-criticize.mp3": {
+"text": "criticize",
+"voice": "w"
+},
+"audio/w-slavery.mp3": {
+"text": "slavery",
+"voice": "w"
+},
+"audio/w-hypocrisy.mp3": {
+"text": "hypocrisy",
+"voice": "w"
+},
+"audio/s3465.mp3": {
+"text": "Mark Twain used humor to criticize slavery and hypocrisy.",
+"voice": "f"
+},
+"audio/w-robert.mp3": {
+"text": "Robert",
+"voice": "w"
+},
+"audio/w-frost.mp3": {
+"text": "Frost",
+"voice": "w"
+},
+"audio/w-paths.mp3": {
+"text": "paths",
+"voice": "w"
+},
+"audio/s3466.mp3": {
+"text": "Robert Frost wrote about choices and the paths we take.",
+"voice": "m"
+},
+"audio/s3467.mp3": {
+"text": "Toni Morrison gave voice to stories long ignored.",
+"voice": "f"
+},
+"audio/w-soul.mp3": {
+"text": "soul",
+"voice": "w"
+},
+"audio/s3468.mp3": {
+"text": "Reading them is a window into the American soul.",
+"voice": "m"
+},
+"audio/s3469.mp3": {
+"text": "It was the best of times, it was the worst of times.",
+"voice": "f"
+},
+"audio/w-gaunt.mp3": {
+"text": "gaunt",
+"voice": "w"
+},
+"audio/s3470.mp3": {
+"text": "The old man was thin and gaunt.",
+"voice": "m"
+},
+"audio/s3471.mp3": {
+"text": "All happy families are alike.",
+"voice": "f"
+},
+"audio/w-sing.mp3": {
+"text": "sing",
+"voice": "w"
+},
+"audio/s3472.mp3": {
+"text": "I celebrate myself, and sing myself.",
+"voice": "m"
+},
+"audio/s3473.mp3": {
+"text": "Tomorrow is another day.",
+"voice": "f"
+},
+"audio/w-happiness.mp3": {
+"text": "happiness",
+"voice": "w"
+},
+"audio/s3474.mp3": {
+"text": "It's a truth that money can't buy happiness.",
+"voice": "m"
+},
+"audio/w-mississippi.mp3": {
+"text": "Mississippi",
+"voice": "w"
+},
+"audio/s3475.mp3": {
+"text": "Mark Twain wrote about life on the Mississippi River.",
+"voice": "f"
+},
+"audio/w-declaration.mp3": {
+"text": "Declaration",
+"voice": "w"
+},
+"audio/w-independence.mp3": {
+"text": "Independence",
+"voice": "w"
+},
+"audio/w-seventeen.mp3": {
+"text": "seventeen",
+"voice": "w"
+},
+"audio/w-seventy-six.mp3": {
+"text": "seventy-six",
+"voice": "w"
+},
+"audio/s3476.mp3": {
+"text": "The Declaration of Independence was signed in seventeen seventy-six.",
+"voice": "m"
+},
+"audio/w-civil.mp3": {
+"text": "Civil",
+"voice": "w"
+},
+"audio/w-war.mp3": {
+"text": "War",
+"voice": "w"
+},
+"audio/s3477.mp3": {
+"text": "The Civil War ended slavery in the United States.",
+"voice": "f"
+},
+"audio/w-immigrants.mp3": {
+"text": "immigrants",
+"voice": "w"
+},
+"audio/w-ellis.mp3": {
+"text": "Ellis",
+"voice": "w"
+},
+"audio/w-island.mp3": {
+"text": "Island",
+"voice": "w"
+},
+"audio/s3478.mp3": {
+"text": "Millions of immigrants arrived through Ellis Island.",
+"voice": "m"
+},
+"audio/w-thanksgiving.mp3": {
+"text": "Thanksgiving",
+"voice": "w"
+},
+"audio/w-fourth.mp3": {
+"text": "fourth",
+"voice": "w"
+},
+"audio/s3479.mp3": {
+"text": "Thanksgiving is celebrated on the fourth Thursday of November.",
+"voice": "f"
+},
+"audio/w-movement.mp3": {
+"text": "movement",
+"voice": "w"
+},
+"audio/w-fought.mp3": {
+"text": "fought",
+"voice": "w"
+},
+"audio/w-equality.mp3": {
+"text": "equality",
+"voice": "w"
+},
+"audio/s3480.mp3": {
+"text": "The civil rights movement fought for equality.",
+"voice": "m"
+},
+"audio/w-baseball.mp3": {
+"text": "Baseball",
+"voice": "w"
+},
+"audio/w-america-s.mp3": {
+"text": "America's",
+"voice": "w"
+},
+"audio/w-pastime.mp3": {
+"text": "pastime",
+"voice": "w"
+},
+"audio/s3481.mp3": {
+"text": "Baseball is often called America's pastime.",
+"voice": "f"
+},
+"audio/w-statue.mp3": {
+"text": "Statue",
+"voice": "w"
+},
+"audio/w-france.mp3": {
+"text": "France",
+"voice": "w"
+},
+"audio/s3482.mp3": {
+"text": "The Statue of Liberty was a gift from France.",
+"voice": "m"
+},
+"audio/w-twenty-nine.mp3": {
+"text": "twenty-nine",
+"voice": "w"
+},
+"audio/s3483.mp3": {
+"text": "The Great Depression began in nineteen twenty-nine.",
+"voice": "f"
+},
+"audio/w-fireworks.mp3": {
+"text": "fireworks",
+"voice": "w"
+},
+"audio/s3484.mp3": {
+"text": "Americans celebrate Independence Day with fireworks.",
+"voice": "m"
+},
+"audio/w-described.mp3": {
+"text": "described",
+"voice": "w"
+},
+"audio/w-melting.mp3": {
+"text": "melting",
+"voice": "w"
+},
+"audio/w-pot.mp3": {
+"text": "pot",
+"voice": "w"
+},
+"audio/s3485.mp3": {
+"text": "The country is often described as a melting pot.",
+"voice": "f"
+},
+"audio/w-hollywood.mp3": {
+"text": "Hollywood",
+"voice": "w"
+},
+"audio/w-shaped.mp3": {
+"text": "shaped",
+"voice": "w"
+},
+"audio/w-sees.mp3": {
+"text": "sees",
+"voice": "w"
+},
+"audio/s3486.mp3": {
+"text": "Hollywood shaped how the world sees America.",
+"voice": "m"
+},
+"audio/w-promises.mp3": {
+"text": "promises",
+"voice": "w"
+},
+"audio/s3487.mp3": {
+"text": "The American Dream promises opportunity for all.",
+"voice": "f"
+},
+"audio/s3488.mp3": {
+"text": "The United States is a young country with a complex history.",
+"voice": "m"
+},
+"audio/w-declared.mp3": {
+"text": "declared",
+"voice": "w"
+},
+"audio/w-britain.mp3": {
+"text": "Britain",
+"voice": "w"
+},
+"audio/s3489.mp3": {
+"text": "It declared independence from Britain in seventeen seventy-six.",
+"voice": "f"
+},
+"audio/w-centuries.mp3": {
+"text": "centuries",
+"voice": "w"
+},
+"audio/w-seeking.mp3": {
+"text": "seeking",
+"voice": "w"
+},
+"audio/s3490.mp3": {
+"text": "Over the centuries, millions of immigrants came seeking a better life.",
+"voice": "m"
+},
+"audio/w-struggled.mp3": {
+"text": "struggled",
+"voice": "w"
+},
+"audio/s3491.mp3": {
+"text": "The country has struggled with slavery, war, and inequality.",
+"voice": "f"
+},
+"audio/w-inspires.mp3": {
+"text": "inspires",
+"voice": "w"
+},
+"audio/s3492.mp3": {
+"text": "Yet the idea of the American Dream still inspires people everywhere.",
+"voice": "m"
+},
+"audio/w-iranians.mp3": {
+"text": "Iranians",
+"voice": "w"
+},
+"audio/s3493.mp3": {
+"text": "Many Iranians have also become part of this story.",
+"voice": "f"
+},
+"audio/w-sixteen.mp3": {
+"text": "sixteen",
+"voice": "w"
+},
+"audio/w-twenty-one.mp3": {
+"text": "twenty-one",
+"voice": "w"
+},
+"audio/s3494.mp3": {
+"text": "The first Thanksgiving took place in sixteen twenty-one.",
+"voice": "m"
+},
+"audio/w-rush.mp3": {
+"text": "Rush",
+"voice": "w"
+},
+"audio/s3495.mp3": {
+"text": "The Gold Rush brought thousands of people to California.",
+"voice": "f"
+},
+"audio/w-blues.mp3": {
+"text": "blues",
+"voice": "w"
+},
+"audio/w-african.mp3": {
+"text": "African",
+"voice": "w"
+},
+"audio/w-culture.mp3": {
+"text": "culture",
+"voice": "w"
+},
+"audio/s3496.mp3": {
+"text": "Jazz and blues grew out of African American culture.",
+"voice": "m"
+},
+"audio/w-route.mp3": {
+"text": "Route",
+"voice": "w"
+},
+"audio/w-sixty-six.mp3": {
+"text": "Sixty-Six",
+"voice": "w"
+},
+"audio/s3497.mp3": {
+"text": "Route Sixty-Six once connected Chicago to Los Angeles.",
+"voice": "f"
+},
+"audio/s3498.mp3": {
+"text": "The first Americans arrived thousands of years ago.",
+"voice": "m"
+},
+"audio/s3499.mp3": {
+"text": "The Fourth of July celebrates independence.",
+"voice": "f"
+},
+"audio/s3500.mp3": {
+"text": "The country has fifty states.",
+"voice": "m"
+},
+"audio/w-aback.mp3": {
+"text": "aback",
+"voice": "w"
+},
+"audio/s3501.mp3": {
+"text": "I'm a little taken aback, to be honest.",
+"voice": "f"
+},
+"audio/w-bittersweet.mp3": {
+"text": "bittersweet",
+"voice": "w"
+},
+"audio/s3502.mp3": {
+"text": "It's bittersweet to see them leave.",
+"voice": "m"
+},
+"audio/w-pang.mp3": {
+"text": "pang",
+"voice": "w"
+},
+"audio/w-jealousy.mp3": {
+"text": "jealousy",
+"voice": "w"
+},
+"audio/s3503.mp3": {
+"text": "I felt a pang of jealousy.",
+"voice": "f"
+},
+"audio/w-devastated.mp3": {
+"text": "devastated",
+"voice": "w"
+},
+"audio/s3504.mp3": {
+"text": "She was quietly devastated by the news.",
+"voice": "m"
+},
+"audio/w-torn.mp3": {
+"text": "torn",
+"voice": "w"
+},
+"audio/w-staying.mp3": {
+"text": "staying",
+"voice": "w"
+},
+"audio/s3505.mp3": {
+"text": "I'm torn between staying and leaving.",
+"voice": "f"
+},
+"audio/w-nostalgia.mp3": {
+"text": "nostalgia",
+"voice": "w"
+},
+"audio/s3506.mp3": {
+"text": "There's a certain nostalgia in old photos.",
+"voice": "m"
+},
+"audio/w-visibly.mp3": {
+"text": "visibly",
+"voice": "w"
+},
+"audio/w-gesture.mp3": {
+"text": "gesture",
+"voice": "w"
+},
+"audio/s3507.mp3": {
+"text": "He was visibly moved by the gesture.",
+"voice": "f"
+},
+"audio/w-uneasy.mp3": {
+"text": "uneasy",
+"voice": "w"
+},
+"audio/s3508.mp3": {
+"text": "I can't help feeling a bit uneasy.",
+"voice": "m"
+},
+"audio/w-kindness.mp3": {
+"text": "kindness",
+"voice": "w"
+},
+"audio/s3509.mp3": {
+"text": "I'm deeply grateful for your kindness.",
+"voice": "f"
+},
+"audio/w-smile.mp3": {
+"text": "smile",
+"voice": "w"
+},
+"audio/w-hid.mp3": {
+"text": "hid",
+"voice": "w"
+},
+"audio/w-lingering.mp3": {
+"text": "lingering",
+"voice": "w"
+},
+"audio/s3510.mp3": {
+"text": "Her smile hid a lingering sadness.",
+"voice": "m"
+},
+"audio/w-overwhelmed.mp3": {
+"text": "overwhelmed",
+"voice": "w"
+},
+"audio/w-relief.mp3": {
+"text": "relief",
+"voice": "w"
+},
+"audio/s3511.mp3": {
+"text": "I was overwhelmed with relief.",
+"voice": "f"
+},
+"audio/w-stung.mp3": {
+"text": "stung",
+"voice": "w"
+},
+"audio/s3512.mp3": {
+"text": "It stung more than I expected.",
+"voice": "m"
+},
+"audio/s3513.mp3": {
+"text": "Leaving home was the most bittersweet moment of my life.",
+"voice": "f"
+},
+"audio/s3514.mp3": {
+"text": "I was excited about the future, yet torn about the past.",
+"voice": "m"
+},
+"audio/w-wet.mp3": {
+"text": "wet",
+"voice": "w"
+},
+"audio/s3515.mp3": {
+"text": "At the airport, my mother smiled, but her eyes were wet.",
+"voice": "f"
+},
+"audio/w-guilt.mp3": {
+"text": "guilt",
+"voice": "w"
+},
+"audio/s3516.mp3": {
+"text": "I felt a pang of guilt as I walked away.",
+"voice": "m"
+},
+"audio/w-fills.mp3": {
+"text": "fills",
+"voice": "w"
+},
+"audio/s3517.mp3": {
+"text": "Years later, that memory still fills me with nostalgia.",
+"voice": "f"
+},
+"audio/w-courage.mp3": {
+"text": "courage",
+"voice": "w"
+},
+"audio/s3518.mp3": {
+"text": "But I'm deeply grateful for the courage she gave me.",
+"voice": "m"
+},
+"audio/w-thrilled.mp3": {
+"text": "thrilled",
+"voice": "w"
+},
+"audio/s3519.mp3": {
+"text": "I'm quietly thrilled about the news.",
+"voice": "f"
+},
+"audio/w-taste.mp3": {
+"text": "taste",
+"voice": "w"
+},
+"audio/s3520.mp3": {
+"text": "It left a bitter taste in my mouth.",
+"voice": "m"
+},
+"audio/s3521.mp3": {
+"text": "I feel a little out of place here.",
+"voice": "f"
+},
+"audio/s3522.mp3": {
+"text": "There was a hint of sadness in her voice.",
+"voice": "m"
+},
+"audio/w-admit.mp3": {
+"text": "admit",
+"voice": "w"
+},
+"audio/s3523.mp3": {
+"text": "I'm more relieved than I'd like to admit.",
+"voice": "f"
+},
+"audio/w-warms.mp3": {
+"text": "warms",
+"voice": "w"
+},
+"audio/s3524.mp3": {
+"text": "It warms my heart to see you happy.",
+"voice": "m"
+},
+"audio/w-shake.mp3": {
+"text": "shake",
+"voice": "w"
+},
+"audio/s3525.mp3": {
+"text": "I couldn't shake the feeling that something was wrong.",
+"voice": "f"
+},
+"audio/s3526.mp3": {
+"text": "Little did I know how far this journey would take me.",
+"voice": "m"
+},
+"audio/w-sprint.mp3": {
+"text": "sprint",
+"voice": "w"
+},
+"audio/s3527.mp3": {
+"text": "Learning a language is a marathon, not a sprint.",
+"voice": "f"
+},
+"audio/s3528.mp3": {
+"text": "What once seemed impossible now feels natural.",
+"voice": "m"
+},
+"audio/s3529.mp3": {
+"text": "Had I given up, I'd never have reached this point.",
+"voice": "f"
+},
+"audio/w-lesson.mp3": {
+"text": "lesson",
+"voice": "w"
+},
+"audio/w-disguise.mp3": {
+"text": "disguise",
+"voice": "w"
+},
+"audio/s3530.mp3": {
+"text": "Every mistake was a lesson in disguise.",
+"voice": "m"
+},
+"audio/s3531.mp3": {
+"text": "The more I learned, the more I wanted to learn.",
+"voice": "f"
+},
+"audio/w-nuance.mp3": {
+"text": "nuance",
+"voice": "w"
+},
+"audio/w-precision.mp3": {
+"text": "precision",
+"voice": "w"
+},
+"audio/s3532.mp3": {
+"text": "I can finally express myself with nuance and precision.",
+"voice": "m"
+},
+"audio/s3533.mp3": {
+"text": "Not only do I understand English, I think in it.",
+"voice": "f"
+},
+"audio/s3534.mp3": {
+"text": "Language opens doors that would otherwise stay closed.",
+"voice": "m"
+},
+"audio/w-perfection.mp3": {
+"text": "perfection",
+"voice": "w"
+},
+"audio/w-confidence.mp3": {
+"text": "confidence",
+"voice": "w"
+},
+"audio/s3535.mp3": {
+"text": "Fluency is not perfection; it is confidence.",
+"voice": "f"
+},
+"audio/s3536.mp3": {
+"text": "The journey doesn't end here; it simply changes.",
+"voice": "m"
+},
+"audio/w-congratulations.mp3": {
+"text": "Congratulations",
+"voice": "w"
+},
+"audio/w-completed.mp3": {
+"text": "completed",
+"voice": "w"
+},
+"audio/s3537.mp3": {
+"text": "Congratulations, you've completed the course!",
+"voice": "f"
+},
+"audio/w-barely.mp3": {
+"text": "barely",
+"voice": "w"
+},
+"audio/s3538.mp3": {
+"text": "When I started, I could barely say \"Hello, my name is...\"",
+"voice": "m"
+},
+"audio/s3539.mp3": {
+"text": "Little by little, sentence by sentence, the language became mine.",
+"voice": "f"
+},
+"audio/s3540.mp3": {
+"text": "There were days I wanted to quit, but I kept going.",
+"voice": "m"
+},
+"audio/w-novels.mp3": {
+"text": "novels",
+"voice": "w"
+},
+"audio/s3541.mp3": {
+"text": "Now I can read novels, follow the news, and argue with friends.",
+"voice": "f"
+},
+"audio/s3542.mp3": {
+"text": "More importantly, I can be myself in another language.",
+"voice": "m"
+},
+"audio/w-beginning.mp3": {
+"text": "beginning",
+"voice": "w"
+},
+"audio/s3543.mp3": {
+"text": "This is not the end of the road; it's the beginning of a new one.",
+"voice": "f"
+},
+"audio/s3544.mp3": {
+"text": "Each sentence brought me one step closer.",
+"voice": "m"
+},
+"audio/w-translate.mp3": {
+"text": "translate",
+"voice": "w"
+},
+"audio/s3545.mp3": {
+"text": "I no longer translate in my head.",
+"voice": "f"
+},
+"audio/w-frighten.mp3": {
+"text": "frighten",
+"voice": "w"
+},
+"audio/s3546.mp3": {
+"text": "Mistakes no longer frighten me.",
+"voice": "m"
+},
+"audio/s3547.mp3": {
+"text": "Now I can laugh at jokes in English.",
+"voice": "f"
+},
+"audio/s3548.mp3": {
+"text": "Keep reading, keep listening, keep speaking.",
+"voice": "m"
+},
+"audio/s3549.mp3": {
+"text": "The best way to keep a language is to use it.",
+"voice": "f"
+},
+"audio/s3550.mp3": {
+"text": "Be proud of how far you've come.",
+"voice": "m"
 }
 }
