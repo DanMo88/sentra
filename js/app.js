@@ -188,8 +188,8 @@
   function listFor(lid) { if (lid === 'bm') return S.bm.map(byId).filter(Boolean); return (lessonById(lid) || LESSONS[0]).s; }
 
   /* ---------- 1) practice: build the sentence from tiles ---------- */
-  function practice(l, list) {
-    const m = MODES[0], { pg, mx } = frame(l, m, list), t = tok, N = list.length; let i = 0;
+  function practice(l, list, start) {
+    const m = MODES[0], { pg, mx } = frame(l, m, list), t = tok, N = list.length; let i = Math.min(start || 0, Math.max(0, list.length - 1));
     function show() {
       if (!alive(t)) return;
       if (i >= N) return doneScreen(mx, pg, `همهٔ ${fd(N)} جمله را خودت ساختی.`, () => { i = 0; show(); });
@@ -226,8 +226,8 @@
   }
 
   /* ---------- 2) speak: speech recognition with word-level match ---------- */
-  function speak(l, list) {
-    const m = MODES[1], { pg, mx } = frame(l, m, list), t = tok, N = list.length; let i = 0, rec = null, granted = false;
+  function speak(l, list, start) {
+    const m = MODES[1], { pg, mx } = frame(l, m, list), t = tok, N = list.length; let i = Math.min(start || 0, Math.max(0, list.length - 1)), rec = null, granted = false;
     const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
     cleanup.push(() => { if (rec) try { rec.abort(); } catch (e) {} });
     function show() {
@@ -278,8 +278,8 @@
   }
 
   /* ---------- 3) listen: hands-free English-only stream ---------- */
-  function listenMode(l, list) {
-    const m = MODES[2], { pg, mx } = frame(l, m, list), t = tok, N = list.length; let i = 0, playing = true, showFa = false;
+  function listenMode(l, list, start) {
+    const m = MODES[2], { pg, mx } = frame(l, m, list), t = tok, N = list.length; let i = Math.min(start || 0, Math.max(0, list.length - 1)), playing = true, showFa = false;
     let k = 0;
     function paint() {
       const s = list[i]; pg.innerHTML = progBar(i, N);
@@ -308,8 +308,8 @@
   }
 
   /* ---------- 4) auto review: English → pause → Persian meaning → English again → next ---------- */
-  function review(l, list) {
-    const m = MODES[3], { pg, mx } = frame(l, m, list), t = tok, N = list.length; let i = 0, playing = true, k = 0;
+  function review(l, list, start) {
+    const m = MODES[3], { pg, mx } = frame(l, m, list), t = tok, N = list.length; let i = Math.min(start || 0, Math.max(0, list.length - 1)), playing = true, k = 0;
     if (!N) { mx.innerHTML = '<p class="empty">هنوز جمله‌ای نشان نکرده‌ای. در درس روی ☆ بزن.</p>'; return; }
     const STEPS = ['انگلیسی', 'مکث', 'معنی', 'تکرار'];
     function paint(step) {
@@ -343,8 +343,8 @@
   }
 
   /* ---------- 5) dictation: hear, type, forgiving check ---------- */
-  function dictation(l, list) {
-    const m = MODES[4], { pg, mx } = frame(l, m, list), t = tok, N = list.length; let i = 0;
+  function dictation(l, list, start) {
+    const m = MODES[4], { pg, mx } = frame(l, m, list), t = tok, N = list.length; let i = Math.min(start || 0, Math.max(0, list.length - 1));
     function show() {
       if (!alive(t)) return;
       if (i >= N) return doneScreen(mx, pg, `دیکتهٔ ${fd(N)} جمله تمام شد.`, () => { i = 0; show(); });
@@ -374,8 +374,8 @@
   }
 
   /* ---------- 6) shadowing: play, then your turn (same length + margin), optionally twice ---------- */
-  function shadow(l, list) {
-    const m = MODES[5], { pg, mx } = frame(l, m, list), t = tok, N = list.length; let i = 0, playing = true, reps = 2, k = 0;
+  function shadow(l, list, start) {
+    const m = MODES[5], { pg, mx } = frame(l, m, list), t = tok, N = list.length; let i = Math.min(start || 0, Math.max(0, list.length - 1)), playing = true, reps = 2, k = 0;
     function paint(phase, rep) {
       const s = list[i]; pg.innerHTML = progBar(i, N);
       mx.innerHTML = `<section class="card scard"><div class="top"><span class="gnum en">#${s.n}</span><span class="voice">${rep ? `دور ${fd(rep)} از ${fd(reps)}` : 'آماده'}</span><button class="bm ${isBm(s.id) ? 'on' : ''}" data-bm>${isBm(s.id) ? '★' : '☆'}</button></div>
@@ -489,7 +489,7 @@
     const h = (location.hash || '#/').slice(2).split('/');
     if (h[0] === 'level') level(h[1]);
     else if (h[0] === 'lesson') lesson(h[1]);
-    else if (h[0] === 'mode' && MODE_FN[h[2]]) { const l = h[1] === 'bm' ? null : (lessonById(h[1]) || LESSONS[0]); MODE_FN[h[2]](l, listFor(h[1])); }
+    else if (h[0] === 'mode' && MODE_FN[h[2]]) { const l = h[1] === 'bm' ? null : (lessonById(h[1]) || LESSONS[0]); MODE_FN[h[2]](l, listFor(h[1]), +h[3] || 0); }
     else if (h[0] === 'test') placement();
     else if (h[0] === 'bookmarks') bookmarks();
     else home();

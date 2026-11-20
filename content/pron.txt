@@ -76,3 +76,5 @@ uses = یوزِز
 antibiotics = اَنتی‌بای‌آدیکس
 shiraz = شیراز
 isfahan = ایسفِهان
+ghosted = گوستِد
+peckish = پِکیش
