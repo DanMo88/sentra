@@ -74,3 +74,4 @@ wound = ووند
 record = رِکِرد
 uses = یوزِز
 antibiotics = اَنتی‌بای‌آدیکس
+shiraz = شیراز

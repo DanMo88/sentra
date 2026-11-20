@@ -1,6 +1,6 @@
-// Sentra service worker v1 · HTML network-first · css/js stale-while-revalidate · audio/fonts/images cache-on-demand
-const V = 'sentra-v1', MEDIA = 'sentra-media-v1';
-const SHELL = ['./', 'index.html', 'css/styles.css?v=1', 'js/app.js?v=1', 'js/data.js?v=1', 'js/audio.js?v=1', 'js/install.js?v=1', 'manifest.webmanifest',
+// Sentra service worker v2 · HTML network-first · css/js stale-while-revalidate · audio/fonts/images cache-on-demand
+const V = 'sentra-v2', MEDIA = 'sentra-media-v1';
+const SHELL = ['./', 'index.html', 'css/styles.css?v=2', 'js/app.js?v=2', 'js/data.js?v=2', 'js/audio.js?v=2', 'js/install.js?v=2', 'manifest.webmanifest',
   'fonts/Vazirmatn-Regular.woff2', 'fonts/Vazirmatn-Bold.woff2', 'fonts/Vazirmatn-Black.woff2', 'fonts/Fredoka-Bold.woff2',
   'icons/icon-192.png', 'icons/icon-512.png', 'images/shir-o-khorshid.svg', 'images/us.svg'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(V).then(c => c.addAll(SHELL)).then(() => self.skipWaiting())); });

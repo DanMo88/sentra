@@ -1,8 +1,4 @@
 {
-"audio/s0001.mp3": {
-"text": "Hello, good morning!",
-"voice": "f"
-},
 "audio/w-hello.mp3": {
 "text": "Hello",
 "voice": "w"
@@ -15,9 +11,9 @@
 "text": "morning",
 "voice": "w"
 },
-"audio/s0002.mp3": {
-"text": "How are you today?",
-"voice": "m"
+"audio/s0001.mp3": {
+"text": "Hello, good morning!",
+"voice": "f"
 },
 "audio/w-how.mp3": {
 "text": "How",
@@ -35,9 +31,9 @@
 "text": "today",
 "voice": "w"
 },
-"audio/s0003.mp3": {
-"text": "I'm fine, thank you.",
-"voice": "f"
+"audio/s0002.mp3": {
+"text": "How are you today?",
+"voice": "m"
 },
 "audio/w-i-m.mp3": {
 "text": "I'm",
@@ -51,9 +47,9 @@
 "text": "thank",
 "voice": "w"
 },
-"audio/s0004.mp3": {
-"text": "What's your name?",
-"voice": "m"
+"audio/s0003.mp3": {
+"text": "I'm fine, thank you.",
+"voice": "f"
 },
 "audio/w-what-s.mp3": {
 "text": "What's",
@@ -67,9 +63,9 @@
 "text": "name",
 "voice": "w"
 },
-"audio/s0005.mp3": {
-"text": "My name is Sara.",
-"voice": "f"
+"audio/s0004.mp3": {
+"text": "What's your name?",
+"voice": "m"
 },
 "audio/w-my.mp3": {
 "text": "My",
@@ -83,9 +79,9 @@
 "text": "Sara",
 "voice": "w"
 },
-"audio/s0006.mp3": {
-"text": "Nice to meet you.",
-"voice": "m"
+"audio/s0005.mp3": {
+"text": "My name is Sara.",
+"voice": "f"
 },
 "audio/w-nice.mp3": {
 "text": "Nice",
@@ -99,9 +95,9 @@
 "text": "meet",
 "voice": "w"
 },
-"audio/s0007.mp3": {
-"text": "Where are you from?",
-"voice": "f"
+"audio/s0006.mp3": {
+"text": "Nice to meet you.",
+"voice": "m"
 },
 "audio/w-where.mp3": {
 "text": "Where",
@@ -111,17 +107,17 @@
 "text": "from",
 "voice": "w"
 },
-"audio/s0008.mp3": {
-"text": "I'm from Iran.",
-"voice": "m"
+"audio/s0007.mp3": {
+"text": "Where are you from?",
+"voice": "f"
 },
 "audio/w-iran.mp3": {
 "text": "Iran",
 "voice": "w"
 },
-"audio/s0009.mp3": {
-"text": "I live in Tehran.",
-"voice": "f"
+"audio/s0008.mp3": {
+"text": "I'm from Iran.",
+"voice": "m"
 },
 "audio/w-i.mp3": {
 "text": "I",
@@ -139,9 +135,9 @@
 "text": "Tehran",
 "voice": "w"
 },
-"audio/s0010.mp3": {
-"text": "Do you speak English?",
-"voice": "m"
+"audio/s0009.mp3": {
+"text": "I live in Tehran.",
+"voice": "f"
 },
 "audio/w-do.mp3": {
 "text": "Do",
@@ -155,9 +151,9 @@
 "text": "English",
 "voice": "w"
 },
-"audio/s0011.mp3": {
-"text": "Yes, a little.",
-"voice": "f"
+"audio/s0010.mp3": {
+"text": "Do you speak English?",
+"voice": "m"
 },
 "audio/w-yes.mp3": {
 "text": "Yes",
@@ -171,9 +167,9 @@
 "text": "little",
 "voice": "w"
 },
-"audio/s0012.mp3": {
-"text": "Can you say that again?",
-"voice": "m"
+"audio/s0011.mp3": {
+"text": "Yes, a little.",
+"voice": "f"
 },
 "audio/w-can.mp3": {
 "text": "Can",
@@ -191,9 +187,9 @@
 "text": "again",
 "voice": "w"
 },
-"audio/s0013.mp3": {
-"text": "Please speak more slowly.",
-"voice": "f"
+"audio/s0012.mp3": {
+"text": "Can you say that again?",
+"voice": "m"
 },
 "audio/w-please.mp3": {
 "text": "Please",
@@ -207,9 +203,9 @@
 "text": "slowly",
 "voice": "w"
 },
-"audio/s0014.mp3": {
-"text": "Sorry, I don't understand.",
-"voice": "m"
+"audio/s0013.mp3": {
+"text": "Please speak more slowly.",
+"voice": "f"
 },
 "audio/w-sorry.mp3": {
 "text": "Sorry",
@@ -223,9 +219,9 @@
 "text": "understand",
 "voice": "w"
 },
-"audio/s0015.mp3": {
-"text": "Thank you very much.",
-"voice": "f"
+"audio/s0014.mp3": {
+"text": "Sorry, I don't understand.",
+"voice": "m"
 },
 "audio/w-very.mp3": {
 "text": "very",
@@ -235,9 +231,9 @@
 "text": "much",
 "voice": "w"
 },
-"audio/s0016.mp3": {
-"text": "You're welcome.",
-"voice": "m"
+"audio/s0015.mp3": {
+"text": "Thank you very much.",
+"voice": "f"
 },
 "audio/w-you-re.mp3": {
 "text": "You're",
@@ -247,9 +243,9 @@
 "text": "welcome",
 "voice": "w"
 },
-"audio/s0017.mp3": {
-"text": "Excuse me, where is the restroom?",
-"voice": "f"
+"audio/s0016.mp3": {
+"text": "You're welcome.",
+"voice": "m"
 },
 "audio/w-excuse.mp3": {
 "text": "Excuse",
@@ -267,9 +263,9 @@
 "text": "restroom",
 "voice": "w"
 },
-"audio/s0018.mp3": {
-"text": "This is my friend, Ali.",
-"voice": "m"
+"audio/s0017.mp3": {
+"text": "Excuse me, where is the restroom?",
+"voice": "f"
 },
 "audio/w-this.mp3": {
 "text": "This",
@@ -283,17 +279,17 @@
 "text": "Ali",
 "voice": "w"
 },
-"audio/s0019.mp3": {
-"text": "How old are you?",
-"voice": "f"
+"audio/s0018.mp3": {
+"text": "This is my friend, Ali.",
+"voice": "m"
 },
 "audio/w-old.mp3": {
 "text": "old",
 "voice": "w"
 },
-"audio/s0020.mp3": {
-"text": "I'm twenty-five years old.",
-"voice": "m"
+"audio/s0019.mp3": {
+"text": "How old are you?",
+"voice": "f"
 },
 "audio/w-twenty-five.mp3": {
 "text": "twenty-five",
@@ -303,25 +299,25 @@
 "text": "years",
 "voice": "w"
 },
-"audio/s0021.mp3": {
-"text": "What do you do?",
-"voice": "f"
+"audio/s0020.mp3": {
+"text": "I'm twenty-five years old.",
+"voice": "m"
 },
 "audio/w-what.mp3": {
 "text": "What",
 "voice": "w"
 },
-"audio/s0022.mp3": {
-"text": "I'm a student.",
-"voice": "m"
+"audio/s0021.mp3": {
+"text": "What do you do?",
+"voice": "f"
 },
 "audio/w-student.mp3": {
 "text": "student",
 "voice": "w"
 },
-"audio/s0023.mp3": {
-"text": "Have a nice day!",
-"voice": "f"
+"audio/s0022.mp3": {
+"text": "I'm a student.",
+"voice": "m"
 },
 "audio/w-have.mp3": {
 "text": "Have",
@@ -331,9 +327,9 @@
 "text": "day",
 "voice": "w"
 },
-"audio/s0024.mp3": {
-"text": "See you tomorrow.",
-"voice": "m"
+"audio/s0023.mp3": {
+"text": "Have a nice day!",
+"voice": "f"
 },
 "audio/w-see.mp3": {
 "text": "See",
@@ -343,9 +339,9 @@
 "text": "tomorrow",
 "voice": "w"
 },
-"audio/s0025.mp3": {
-"text": "Goodbye, take care!",
-"voice": "f"
+"audio/s0024.mp3": {
+"text": "See you tomorrow.",
+"voice": "m"
 },
 "audio/w-goodbye.mp3": {
 "text": "Goodbye",
@@ -358,5 +354,4265 @@
 "audio/w-care.mp3": {
 "text": "care",
 "voice": "w"
+},
+"audio/s0025.mp3": {
+"text": "Goodbye, take care!",
+"voice": "f"
+},
+"audio/w-brother.mp3": {
+"text": "brother",
+"voice": "w"
+},
+"audio/s0026.mp3": {
+"text": "You are my brother.",
+"voice": "m"
+},
+"audio/w-they.mp3": {
+"text": "They",
+"voice": "w"
+},
+"audio/w-parents.mp3": {
+"text": "parents",
+"voice": "w"
+},
+"audio/s0027.mp3": {
+"text": "They are my parents.",
+"voice": "f"
+},
+"audio/w-it.mp3": {
+"text": "It",
+"voice": "w"
+},
+"audio/w-small.mp3": {
+"text": "small",
+"voice": "w"
+},
+"audio/w-dog.mp3": {
+"text": "dog",
+"voice": "w"
+},
+"audio/s0028.mp3": {
+"text": "It is a small dog.",
+"voice": "m"
+},
+"audio/w-am.mp3": {
+"text": "am",
+"voice": "w"
+},
+"audio/w-tired.mp3": {
+"text": "tired",
+"voice": "w"
+},
+"audio/s0029.mp3": {
+"text": "I am tired today.",
+"voice": "f"
+},
+"audio/w-he.mp3": {
+"text": "He",
+"voice": "w"
+},
+"audio/w-tall.mp3": {
+"text": "tall",
+"voice": "w"
+},
+"audio/s0030.mp3": {
+"text": "He is very tall.",
+"voice": "m"
+},
+"audio/w-she.mp3": {
+"text": "She",
+"voice": "w"
+},
+"audio/w-doctor.mp3": {
+"text": "doctor",
+"voice": "w"
+},
+"audio/s0031.mp3": {
+"text": "She is a doctor.",
+"voice": "f"
+},
+"audio/w-we.mp3": {
+"text": "We",
+"voice": "w"
+},
+"audio/w-friends.mp3": {
+"text": "friends",
+"voice": "w"
+},
+"audio/s0032.mp3": {
+"text": "We are good friends.",
+"voice": "m"
+},
+"audio/w-at.mp3": {
+"text": "at",
+"voice": "w"
+},
+"audio/w-home.mp3": {
+"text": "home",
+"voice": "w"
+},
+"audio/s0033.mp3": {
+"text": "They are at home.",
+"voice": "f"
+},
+"audio/w-cold.mp3": {
+"text": "cold",
+"voice": "w"
+},
+"audio/w-outside.mp3": {
+"text": "outside",
+"voice": "w"
+},
+"audio/s0034.mp3": {
+"text": "It is cold outside.",
+"voice": "m"
+},
+"audio/w-kind.mp3": {
+"text": "kind",
+"voice": "w"
+},
+"audio/s0035.mp3": {
+"text": "You are very kind.",
+"voice": "f"
+},
+"audio/s0036.mp3": {
+"text": "We are from Tehran.",
+"voice": "m"
+},
+"audio/w-teacher.mp3": {
+"text": "teacher",
+"voice": "w"
+},
+"audio/s0037.mp3": {
+"text": "He is my teacher.",
+"voice": "f"
+},
+"audio/w-family.mp3": {
+"text": "family",
+"voice": "w"
+},
+"audio/s0038.mp3": {
+"text": "This is my family.",
+"voice": "m"
+},
+"audio/w-father.mp3": {
+"text": "father",
+"voice": "w"
+},
+"audio/s0039.mp3": {
+"text": "My father is a doctor. He is very tall.",
+"voice": "f"
+},
+"audio/w-mother.mp3": {
+"text": "mother",
+"voice": "w"
+},
+"audio/s0040.mp3": {
+"text": "My mother is a teacher. She is very kind.",
+"voice": "m"
+},
+"audio/w-cute.mp3": {
+"text": "cute",
+"voice": "w"
+},
+"audio/s0041.mp3": {
+"text": "I have a small dog. It is very cute.",
+"voice": "f"
+},
+"audio/w-so.mp3": {
+"text": "so",
+"voice": "w"
+},
+"audio/s0042.mp3": {
+"text": "Today it is cold outside, so we are at home.",
+"voice": "m"
+},
+"audio/s0043.mp3": {
+"text": "She is very kind.",
+"voice": "f"
+},
+"audio/w-neighbor.mp3": {
+"text": "neighbor",
+"voice": "w"
+},
+"audio/s0044.mp3": {
+"text": "He is my neighbor.",
+"voice": "m"
+},
+"audio/w-big.mp3": {
+"text": "big",
+"voice": "w"
+},
+"audio/w-city.mp3": {
+"text": "city",
+"voice": "w"
+},
+"audio/s0045.mp3": {
+"text": "It is a big city.",
+"voice": "f"
+},
+"audio/w-work.mp3": {
+"text": "work",
+"voice": "w"
+},
+"audio/s0046.mp3": {
+"text": "They are at work.",
+"voice": "m"
+},
+"audio/w-late.mp3": {
+"text": "late",
+"voice": "w"
+},
+"audio/s0047.mp3": {
+"text": "You are late today.",
+"voice": "f"
+},
+"audio/s0048.mp3": {
+"text": "I am tired.",
+"voice": "m"
+},
+"audio/w-ready.mp3": {
+"text": "ready",
+"voice": "w"
+},
+"audio/s0049.mp3": {
+"text": "We are ready.",
+"voice": "f"
+},
+"audio/w-our.mp3": {
+"text": "Our",
+"voice": "w"
+},
+"audio/w-house.mp3": {
+"text": "house",
+"voice": "w"
+},
+"audio/w-warm.mp3": {
+"text": "warm",
+"voice": "w"
+},
+"audio/w-and.mp3": {
+"text": "and",
+"voice": "w"
+},
+"audio/w-quiet.mp3": {
+"text": "quiet",
+"voice": "w"
+},
+"audio/s0050.mp3": {
+"text": "Our house is warm and quiet.",
+"voice": "m"
+},
+"audio/s0051.mp3": {
+"text": "Is he your brother?",
+"voice": "f"
+},
+"audio/w-students.mp3": {
+"text": "students",
+"voice": "w"
+},
+"audio/s0052.mp3": {
+"text": "Are they students?",
+"voice": "m"
+},
+"audio/w-hot.mp3": {
+"text": "hot",
+"voice": "w"
+},
+"audio/s0053.mp3": {
+"text": "Is it hot today?",
+"voice": "f"
+},
+"audio/s0054.mp3": {
+"text": "Is she at work?",
+"voice": "m"
+},
+"audio/w-hungry.mp3": {
+"text": "hungry",
+"voice": "w"
+},
+"audio/s0055.mp3": {
+"text": "Are you hungry?",
+"voice": "f"
+},
+"audio/w-bag.mp3": {
+"text": "bag",
+"voice": "w"
+},
+"audio/s0056.mp3": {
+"text": "Is this your bag?",
+"voice": "m"
+},
+"audio/s0057.mp3": {
+"text": "Are we late?",
+"voice": "f"
+},
+"audio/w-store.mp3": {
+"text": "store",
+"voice": "w"
+},
+"audio/w-open.mp3": {
+"text": "open",
+"voice": "w"
+},
+"audio/s0058.mp3": {
+"text": "Is the store open?",
+"voice": "m"
+},
+"audio/s0059.mp3": {
+"text": "Are you ready?",
+"voice": "f"
+},
+"audio/s0060.mp3": {
+"text": "Is your mother at home?",
+"voice": "m"
+},
+"audio/w-who.mp3": {
+"text": "Who",
+"voice": "w"
+},
+"audio/w-man.mp3": {
+"text": "man",
+"voice": "w"
+},
+"audio/s0061.mp3": {
+"text": "Who is that man?",
+"voice": "f"
+},
+"audio/w-bathroom.mp3": {
+"text": "bathroom",
+"voice": "w"
+},
+"audio/s0062.mp3": {
+"text": "Where is the bathroom?",
+"voice": "m"
+},
+"audio/s0063.mp3": {
+"text": "Are you ready? We are late!",
+"voice": "f"
+},
+"audio/s0064.mp3": {
+"text": "Is this your bag? Yes, it is.",
+"voice": "m"
+},
+"audio/w-no.mp3": {
+"text": "No",
+"voice": "w"
+},
+"audio/w-not.mp3": {
+"text": "not",
+"voice": "w"
+},
+"audio/s0065.mp3": {
+"text": "Is the store open? No, it is not.",
+"voice": "f"
+},
+"audio/s0066.mp3": {
+"text": "Is your mother at home? Yes, she is.",
+"voice": "m"
+},
+"audio/s0067.mp3": {
+"text": "Are you hungry? Yes, I am very hungry.",
+"voice": "f"
+},
+"audio/w-kitchen.mp3": {
+"text": "kitchen",
+"voice": "w"
+},
+"audio/w-over.mp3": {
+"text": "over",
+"voice": "w"
+},
+"audio/w-there.mp3": {
+"text": "there",
+"voice": "w"
+},
+"audio/s0068.mp3": {
+"text": "Where is the kitchen? It is over there.",
+"voice": "m"
+},
+"audio/w-sister.mp3": {
+"text": "sister",
+"voice": "w"
+},
+"audio/s0069.mp3": {
+"text": "Is she your sister?",
+"voice": "f"
+},
+"audio/s0070.mp3": {
+"text": "Are your parents at home?",
+"voice": "m"
+},
+"audio/w-far.mp3": {
+"text": "far",
+"voice": "w"
+},
+"audio/w-here.mp3": {
+"text": "here",
+"voice": "w"
+},
+"audio/s0071.mp3": {
+"text": "Is it far from here?",
+"voice": "f"
+},
+"audio/w-coffee.mp3": {
+"text": "coffee",
+"voice": "w"
+},
+"audio/s0072.mp3": {
+"text": "Is the coffee hot?",
+"voice": "m"
+},
+"audio/w-free.mp3": {
+"text": "free",
+"voice": "w"
+},
+"audio/w-tonight.mp3": {
+"text": "tonight",
+"voice": "w"
+},
+"audio/s0073.mp3": {
+"text": "Are you free tonight?",
+"voice": "f"
+},
+"audio/w-married.mp3": {
+"text": "married",
+"voice": "w"
+},
+"audio/s0074.mp3": {
+"text": "Is he married?",
+"voice": "m"
+},
+"audio/w-kids.mp3": {
+"text": "kids",
+"voice": "w"
+},
+"audio/w-asleep.mp3": {
+"text": "asleep",
+"voice": "w"
+},
+"audio/s0075.mp3": {
+"text": "Are the kids asleep?",
+"voice": "f"
+},
+"audio/s0076.mp3": {
+"text": "I am not hungry.",
+"voice": "m"
+},
+"audio/w-isn-t.mp3": {
+"text": "isn't",
+"voice": "w"
+},
+"audio/s0077.mp3": {
+"text": "He isn't at home.",
+"voice": "f"
+},
+"audio/w-aren-t.mp3": {
+"text": "aren't",
+"voice": "w"
+},
+"audio/s0078.mp3": {
+"text": "They aren't my friends.",
+"voice": "m"
+},
+"audio/w-expensive.mp3": {
+"text": "expensive",
+"voice": "w"
+},
+"audio/s0079.mp3": {
+"text": "It isn't expensive.",
+"voice": "f"
+},
+"audio/w-busy.mp3": {
+"text": "busy",
+"voice": "w"
+},
+"audio/w-now.mp3": {
+"text": "now",
+"voice": "w"
+},
+"audio/s0080.mp3": {
+"text": "We aren't busy now.",
+"voice": "m"
+},
+"audio/w-nurse.mp3": {
+"text": "nurse",
+"voice": "w"
+},
+"audio/s0081.mp3": {
+"text": "She isn't a nurse.",
+"voice": "f"
+},
+"audio/w-room.mp3": {
+"text": "room",
+"voice": "w"
+},
+"audio/w-clean.mp3": {
+"text": "clean",
+"voice": "w"
+},
+"audio/s0082.mp3": {
+"text": "The room isn't clean.",
+"voice": "m"
+},
+"audio/s0083.mp3": {
+"text": "You aren't late.",
+"voice": "f"
+},
+"audio/w-car.mp3": {
+"text": "car",
+"voice": "w"
+},
+"audio/w-new.mp3": {
+"text": "new",
+"voice": "w"
+},
+"audio/s0084.mp3": {
+"text": "My car isn't new.",
+"voice": "m"
+},
+"audio/w-phone.mp3": {
+"text": "phone",
+"voice": "w"
+},
+"audio/s0085.mp3": {
+"text": "This isn't my phone.",
+"voice": "f"
+},
+"audio/s0086.mp3": {
+"text": "The coffee isn't hot.",
+"voice": "m"
+},
+"audio/w-canada.mp3": {
+"text": "Canada",
+"voice": "w"
+},
+"audio/s0087.mp3": {
+"text": "I'm not from Canada.",
+"voice": "f"
+},
+"audio/w-lisa.mp3": {
+"text": "Lisa",
+"voice": "w"
+},
+"audio/s0088.mp3": {
+"text": "My name is Lisa. I'm not from Canada.",
+"voice": "m"
+},
+"audio/w-chicago.mp3": {
+"text": "Chicago",
+"voice": "w"
+},
+"audio/s0089.mp3": {
+"text": "I'm from Chicago.",
+"voice": "f"
+},
+"audio/w-apartment.mp3": {
+"text": "apartment",
+"voice": "w"
+},
+"audio/w-but.mp3": {
+"text": "but",
+"voice": "w"
+},
+"audio/s0090.mp3": {
+"text": "My apartment is small, but it isn't expensive.",
+"voice": "m"
+},
+"audio/s0091.mp3": {
+"text": "My car isn't new, but it is good.",
+"voice": "f"
+},
+"audio/s0092.mp3": {
+"text": "Today I'm not busy.",
+"voice": "m"
+},
+"audio/w-happy.mp3": {
+"text": "happy",
+"voice": "w"
+},
+"audio/s0093.mp3": {
+"text": "My friends aren't busy now, and we are happy.",
+"voice": "f"
+},
+"audio/s0094.mp3": {
+"text": "It isn't cold today.",
+"voice": "m"
+},
+"audio/w-yet.mp3": {
+"text": "yet",
+"voice": "w"
+},
+"audio/s0095.mp3": {
+"text": "We aren't ready yet.",
+"voice": "f"
+},
+"audio/s0096.mp3": {
+"text": "She isn't a doctor.",
+"voice": "m"
+},
+"audio/w-bus.mp3": {
+"text": "bus",
+"voice": "w"
+},
+"audio/s0097.mp3": {
+"text": "The bus isn't here yet.",
+"voice": "f"
+},
+"audio/w-alone.mp3": {
+"text": "alone",
+"voice": "w"
+},
+"audio/s0098.mp3": {
+"text": "You aren't alone.",
+"voice": "m"
+},
+"audio/w-sure.mp3": {
+"text": "sure",
+"voice": "w"
+},
+"audio/s0099.mp3": {
+"text": "I'm not sure.",
+"voice": "f"
+},
+"audio/w-on.mp3": {
+"text": "on",
+"voice": "w"
+},
+"audio/w-sunday.mp3": {
+"text": "Sunday",
+"voice": "w"
+},
+"audio/s0100.mp3": {
+"text": "The store isn't open on Sunday.",
+"voice": "m"
+},
+"audio/s0101.mp3": {
+"text": "I have a car.",
+"voice": "f"
+},
+"audio/w-has.mp3": {
+"text": "has",
+"voice": "w"
+},
+"audio/w-an.mp3": {
+"text": "an",
+"voice": "w"
+},
+"audio/w-apple.mp3": {
+"text": "apple",
+"voice": "w"
+},
+"audio/s0102.mp3": {
+"text": "She has an apple.",
+"voice": "m"
+},
+"audio/w-engineer.mp3": {
+"text": "engineer",
+"voice": "w"
+},
+"audio/s0103.mp3": {
+"text": "He is an engineer.",
+"voice": "f"
+},
+"audio/s0104.mp3": {
+"text": "It is an old house.",
+"voice": "m"
+},
+"audio/w-idea.mp3": {
+"text": "idea",
+"voice": "w"
+},
+"audio/s0105.mp3": {
+"text": "This is a good idea.",
+"voice": "f"
+},
+"audio/w-need.mp3": {
+"text": "need",
+"voice": "w"
+},
+"audio/w-umbrella.mp3": {
+"text": "umbrella",
+"voice": "w"
+},
+"audio/s0106.mp3": {
+"text": "I need an umbrella.",
+"voice": "m"
+},
+"audio/w-artist.mp3": {
+"text": "artist",
+"voice": "w"
+},
+"audio/s0107.mp3": {
+"text": "She is an artist.",
+"voice": "f"
+},
+"audio/w-garden.mp3": {
+"text": "garden",
+"voice": "w"
+},
+"audio/s0108.mp3": {
+"text": "We have a big garden.",
+"voice": "m"
+},
+"audio/w-want.mp3": {
+"text": "want",
+"voice": "w"
+},
+"audio/w-orange.mp3": {
+"text": "orange",
+"voice": "w"
+},
+"audio/s0109.mp3": {
+"text": "I want an orange.",
+"voice": "f"
+},
+"audio/w-guy.mp3": {
+"text": "guy",
+"voice": "w"
+},
+"audio/s0110.mp3": {
+"text": "He is a nice guy.",
+"voice": "m"
+},
+"audio/w-takes.mp3": {
+"text": "takes",
+"voice": "w"
+},
+"audio/w-hour.mp3": {
+"text": "hour",
+"voice": "w"
+},
+"audio/s0111.mp3": {
+"text": "It takes an hour.",
+"voice": "f"
+},
+"audio/w-interesting.mp3": {
+"text": "interesting",
+"voice": "w"
+},
+"audio/w-book.mp3": {
+"text": "book",
+"voice": "w"
+},
+"audio/s0112.mp3": {
+"text": "That is an interesting book.",
+"voice": "m"
+},
+"audio/s0113.mp3": {
+"text": "I live in an old house.",
+"voice": "f"
+},
+"audio/s0114.mp3": {
+"text": "My brother is an engineer.",
+"voice": "m"
+},
+"audio/s0115.mp3": {
+"text": "My sister is an artist.",
+"voice": "f"
+},
+"audio/w-every.mp3": {
+"text": "Every",
+"voice": "w"
+},
+"audio/w-eat.mp3": {
+"text": "eat",
+"voice": "w"
+},
+"audio/s0116.mp3": {
+"text": "Every morning I eat an apple and an orange.",
+"voice": "m"
+},
+"audio/s0117.mp3": {
+"text": "It is a good idea!",
+"voice": "f"
+},
+"audio/s0118.mp3": {
+"text": "She is a nurse.",
+"voice": "m"
+},
+"audio/w-it-s.mp3": {
+"text": "It's",
+"voice": "w"
+},
+"audio/w-building.mp3": {
+"text": "building",
+"voice": "w"
+},
+"audio/s0119.mp3": {
+"text": "It's an old building.",
+"voice": "f"
+},
+"audio/w-cup.mp3": {
+"text": "cup",
+"voice": "w"
+},
+"audio/w-of.mp3": {
+"text": "of",
+"voice": "w"
+},
+"audio/w-tea.mp3": {
+"text": "tea",
+"voice": "w"
+},
+"audio/s0120.mp3": {
+"text": "I want a cup of tea.",
+"voice": "m"
+},
+"audio/s0121.mp3": {
+"text": "He has an idea.",
+"voice": "f"
+},
+"audio/w-town.mp3": {
+"text": "town",
+"voice": "w"
+},
+"audio/s0122.mp3": {
+"text": "We live in a small town.",
+"voice": "m"
+},
+"audio/w-easy.mp3": {
+"text": "easy",
+"voice": "w"
+},
+"audio/w-question.mp3": {
+"text": "question",
+"voice": "w"
+},
+"audio/s0123.mp3": {
+"text": "This is an easy question.",
+"voice": "f"
+},
+"audio/w-egg.mp3": {
+"text": "egg",
+"voice": "w"
+},
+"audio/s0124.mp3": {
+"text": "I eat an egg every morning.",
+"voice": "m"
+},
+"audio/w-beautiful.mp3": {
+"text": "beautiful",
+"voice": "w"
+},
+"audio/s0125.mp3": {
+"text": "It's a beautiful city.",
+"voice": "f"
+},
+"audio/s0126.mp3": {
+"text": "This is my house.",
+"voice": "m"
+},
+"audio/s0127.mp3": {
+"text": "That is your car.",
+"voice": "f"
+},
+"audio/w-these.mp3": {
+"text": "These",
+"voice": "w"
+},
+"audio/w-keys.mp3": {
+"text": "keys",
+"voice": "w"
+},
+"audio/s0128.mp3": {
+"text": "These are my keys.",
+"voice": "m"
+},
+"audio/w-those.mp3": {
+"text": "Those",
+"voice": "w"
+},
+"audio/w-her.mp3": {
+"text": "her",
+"voice": "w"
+},
+"audio/w-shoes.mp3": {
+"text": "shoes",
+"voice": "w"
+},
+"audio/s0129.mp3": {
+"text": "Those are her shoes.",
+"voice": "f"
+},
+"audio/s0130.mp3": {
+"text": "This coffee is good.",
+"voice": "m"
+},
+"audio/w-uncle.mp3": {
+"text": "uncle",
+"voice": "w"
+},
+"audio/s0131.mp3": {
+"text": "That man is my uncle.",
+"voice": "f"
+},
+"audio/w-apples.mp3": {
+"text": "apples",
+"voice": "w"
+},
+"audio/w-fresh.mp3": {
+"text": "fresh",
+"voice": "w"
+},
+"audio/s0132.mp3": {
+"text": "These apples are fresh.",
+"voice": "m"
+},
+"audio/w-houses.mp3": {
+"text": "houses",
+"voice": "w"
+},
+"audio/s0133.mp3": {
+"text": "Those houses are beautiful.",
+"voice": "f"
+},
+"audio/w-seat.mp3": {
+"text": "seat",
+"voice": "w"
+},
+"audio/s0134.mp3": {
+"text": "Is this seat free?",
+"voice": "m"
+},
+"audio/s0135.mp3": {
+"text": "What is that?",
+"voice": "f"
+},
+"audio/w-like.mp3": {
+"text": "like",
+"voice": "w"
+},
+"audio/w-song.mp3": {
+"text": "song",
+"voice": "w"
+},
+"audio/s0136.mp3": {
+"text": "I like this song.",
+"voice": "m"
+},
+"audio/w-people.mp3": {
+"text": "people",
+"voice": "w"
+},
+"audio/s0137.mp3": {
+"text": "Who are those people?",
+"voice": "f"
+},
+"audio/w-street.mp3": {
+"text": "street",
+"voice": "w"
+},
+"audio/s0138.mp3": {
+"text": "This is my street.",
+"voice": "m"
+},
+"audio/s0139.mp3": {
+"text": "That is my house, and this is my car.",
+"voice": "f"
+},
+"audio/w-neighbors.mp3": {
+"text": "neighbors",
+"voice": "w"
+},
+"audio/s0140.mp3": {
+"text": "Those people are my neighbors.",
+"voice": "m"
+},
+"audio/s0141.mp3": {
+"text": "These apples are from our garden.",
+"voice": "f"
+},
+"audio/w-sweet.mp3": {
+"text": "sweet",
+"voice": "w"
+},
+"audio/s0142.mp3": {
+"text": "They are fresh and sweet.",
+"voice": "m"
+},
+"audio/s0143.mp3": {
+"text": "I like this street very much.",
+"voice": "f"
+},
+"audio/s0144.mp3": {
+"text": "This is my friend Lisa.",
+"voice": "m"
+},
+"audio/s0145.mp3": {
+"text": "Those are my shoes.",
+"voice": "f"
+},
+"audio/w-mom.mp3": {
+"text": "mom",
+"voice": "w"
+},
+"audio/s0146.mp3": {
+"text": "This is my mom.",
+"voice": "m"
+},
+"audio/w-that-s.mp3": {
+"text": "That's",
+"voice": "w"
+},
+"audio/s0147.mp3": {
+"text": "That's a good question.",
+"voice": "f"
+},
+"audio/s0148.mp3": {
+"text": "Are these your keys?",
+"voice": "m"
+},
+"audio/w-restaurant.mp3": {
+"text": "restaurant",
+"voice": "w"
+},
+"audio/s0149.mp3": {
+"text": "That restaurant is very good.",
+"voice": "f"
+},
+"audio/s0150.mp3": {
+"text": "This book is interesting.",
+"voice": "m"
+},
+"audio/w-two.mp3": {
+"text": "two",
+"voice": "w"
+},
+"audio/w-sisters.mp3": {
+"text": "sisters",
+"voice": "w"
+},
+"audio/s0151.mp3": {
+"text": "I have two sisters.",
+"voice": "f"
+},
+"audio/w-cook.mp3": {
+"text": "cook",
+"voice": "w"
+},
+"audio/s0152.mp3": {
+"text": "My mother is a cook.",
+"voice": "m"
+},
+"audio/w-works.mp3": {
+"text": "works",
+"voice": "w"
+},
+"audio/w-bank.mp3": {
+"text": "bank",
+"voice": "w"
+},
+"audio/s0153.mp3": {
+"text": "My father works in a bank.",
+"voice": "f"
+},
+"audio/w-ten.mp3": {
+"text": "ten",
+"voice": "w"
+},
+"audio/s0154.mp3": {
+"text": "My brother is ten years old.",
+"voice": "m"
+},
+"audio/w-grandmother.mp3": {
+"text": "grandmother",
+"voice": "w"
+},
+"audio/w-lives.mp3": {
+"text": "lives",
+"voice": "w"
+},
+"audio/w-with.mp3": {
+"text": "with",
+"voice": "w"
+},
+"audio/w-us.mp3": {
+"text": "us",
+"voice": "w"
+},
+"audio/s0155.mp3": {
+"text": "My grandmother lives with us.",
+"voice": "f"
+},
+"audio/w-aunt.mp3": {
+"text": "aunt",
+"voice": "w"
+},
+"audio/w-three.mp3": {
+"text": "three",
+"voice": "w"
+},
+"audio/w-children.mp3": {
+"text": "children",
+"voice": "w"
+},
+"audio/s0156.mp3": {
+"text": "My aunt has three children.",
+"voice": "m"
+},
+"audio/w-cousin.mp3": {
+"text": "cousin",
+"voice": "w"
+},
+"audio/w-too.mp3": {
+"text": "too",
+"voice": "w"
+},
+"audio/s0157.mp3": {
+"text": "My cousin is a student too.",
+"voice": "f"
+},
+"audio/s0158.mp3": {
+"text": "My parents are very nice.",
+"voice": "m"
+},
+"audio/w-love.mp3": {
+"text": "love",
+"voice": "w"
+},
+"audio/s0159.mp3": {
+"text": "I love my family.",
+"voice": "f"
+},
+"audio/w-boston.mp3": {
+"text": "Boston",
+"voice": "w"
+},
+"audio/s0160.mp3": {
+"text": "My uncle lives in Boston.",
+"voice": "m"
+},
+"audio/w-son.mp3": {
+"text": "son",
+"voice": "w"
+},
+"audio/w-baby.mp3": {
+"text": "baby",
+"voice": "w"
+},
+"audio/s0161.mp3": {
+"text": "Our son is a baby.",
+"voice": "f"
+},
+"audio/w-husband.mp3": {
+"text": "husband",
+"voice": "w"
+},
+"audio/w-pilot.mp3": {
+"text": "pilot",
+"voice": "w"
+},
+"audio/s0162.mp3": {
+"text": "Her husband is a pilot.",
+"voice": "m"
+},
+"audio/s0163.mp3": {
+"text": "I have a big family.",
+"voice": "f"
+},
+"audio/s0164.mp3": {
+"text": "My father works in a bank, and my mother is a cook.",
+"voice": "m"
+},
+"audio/w-one.mp3": {
+"text": "one",
+"voice": "w"
+},
+"audio/s0165.mp3": {
+"text": "I have two sisters and one brother.",
+"voice": "f"
+},
+"audio/s0166.mp3": {
+"text": "My grandmother lives with us. She is very kind.",
+"voice": "m"
+},
+"audio/s0167.mp3": {
+"text": "I have one brother.",
+"voice": "f"
+},
+"audio/w-eighty.mp3": {
+"text": "eighty",
+"voice": "w"
+},
+"audio/s0168.mp3": {
+"text": "My grandmother is eighty.",
+"voice": "m"
+},
+"audio/w-shiraz.mp3": {
+"text": "Shiraz",
+"voice": "w"
+},
+"audio/s0169.mp3": {
+"text": "My parents live in Shiraz.",
+"voice": "f"
+},
+"audio/s0170.mp3": {
+"text": "She is my cousin.",
+"voice": "m"
+},
+"audio/s0171.mp3": {
+"text": "We have a big family.",
+"voice": "f"
+},
+"audio/w-five.mp3": {
+"text": "five",
+"voice": "w"
+},
+"audio/s0172.mp3": {
+"text": "My son is five years old.",
+"voice": "m"
+},
+"audio/s0173.mp3": {
+"text": "Do you have kids?",
+"voice": "f"
+},
+"audio/w-wife.mp3": {
+"text": "wife",
+"voice": "w"
+},
+"audio/s0174.mp3": {
+"text": "My wife is a teacher.",
+"voice": "m"
+},
+"audio/s0175.mp3": {
+"text": "My brother is married.",
+"voice": "f"
+},
+"audio/w-his.mp3": {
+"text": "His",
+"voice": "w"
+},
+"audio/w-david.mp3": {
+"text": "David",
+"voice": "w"
+},
+"audio/s0176.mp3": {
+"text": "His name is David.",
+"voice": "m"
+},
+"audio/w-eyes.mp3": {
+"text": "eyes",
+"voice": "w"
+},
+"audio/w-blue.mp3": {
+"text": "blue",
+"voice": "w"
+},
+"audio/s0177.mp3": {
+"text": "Her eyes are blue.",
+"voice": "f"
+},
+"audio/w-table.mp3": {
+"text": "table",
+"voice": "w"
+},
+"audio/s0178.mp3": {
+"text": "Your phone is on the table.",
+"voice": "m"
+},
+"audio/w-texas.mp3": {
+"text": "Texas",
+"voice": "w"
+},
+"audio/s0179.mp3": {
+"text": "Our teacher is from Texas.",
+"voice": "f"
+},
+"audio/w-their.mp3": {
+"text": "Their",
+"voice": "w"
+},
+"audio/s0180.mp3": {
+"text": "Their house is very big.",
+"voice": "m"
+},
+"audio/w-jacket.mp3": {
+"text": "jacket",
+"voice": "w"
+},
+"audio/s0181.mp3": {
+"text": "Is this your jacket?",
+"voice": "f"
+},
+"audio/w-bike.mp3": {
+"text": "bike",
+"voice": "w"
+},
+"audio/w-red.mp3": {
+"text": "red",
+"voice": "w"
+},
+"audio/s0182.mp3": {
+"text": "My bike is red.",
+"voice": "m"
+},
+"audio/w-its.mp3": {
+"text": "Its",
+"voice": "w"
+},
+"audio/w-color.mp3": {
+"text": "color",
+"voice": "w"
+},
+"audio/w-green.mp3": {
+"text": "green",
+"voice": "w"
+},
+"audio/s0183.mp3": {
+"text": "Its color is green.",
+"voice": "f"
+},
+"audio/w-singer.mp3": {
+"text": "singer",
+"voice": "w"
+},
+"audio/s0184.mp3": {
+"text": "His sister is a singer.",
+"voice": "m"
+},
+"audio/w-office.mp3": {
+"text": "office",
+"voice": "w"
+},
+"audio/s0185.mp3": {
+"text": "Where is your office?",
+"voice": "f"
+},
+"audio/w-smart.mp3": {
+"text": "smart",
+"voice": "w"
+},
+"audio/s0186.mp3": {
+"text": "Her son is very smart.",
+"voice": "m"
+},
+"audio/s0187.mp3": {
+"text": "Our kitchen is small.",
+"voice": "f"
+},
+"audio/w-anna.mp3": {
+"text": "Anna",
+"voice": "w"
+},
+"audio/s0188.mp3": {
+"text": "This is my friend Anna.",
+"voice": "m"
+},
+"audio/w-hair.mp3": {
+"text": "hair",
+"voice": "w"
+},
+"audio/w-long.mp3": {
+"text": "long",
+"voice": "w"
+},
+"audio/s0189.mp3": {
+"text": "Her eyes are blue, and her hair is long.",
+"voice": "f"
+},
+"audio/w-brother-s.mp3": {
+"text": "brother's",
+"voice": "w"
+},
+"audio/s0190.mp3": {
+"text": "Her brother's name is David.",
+"voice": "m"
+},
+"audio/s0191.mp3": {
+"text": "His car is old, but his bike is new.",
+"voice": "f"
+},
+"audio/s0192.mp3": {
+"text": "Our house is small, but it is warm.",
+"voice": "m"
+},
+"audio/s0193.mp3": {
+"text": "My car is old.",
+"voice": "f"
+},
+"audio/s0194.mp3": {
+"text": "Our teacher is nice.",
+"voice": "m"
+},
+"audio/w-coat.mp3": {
+"text": "coat",
+"voice": "w"
+},
+"audio/s0195.mp3": {
+"text": "Is this your coat?",
+"voice": "f"
+},
+"audio/s0196.mp3": {
+"text": "His brother lives in Texas.",
+"voice": "m"
+},
+"audio/s0197.mp3": {
+"text": "Her dog is very cute.",
+"voice": "f"
+},
+"audio/w-number.mp3": {
+"text": "number",
+"voice": "w"
+},
+"audio/s0198.mp3": {
+"text": "What's his phone number?",
+"voice": "m"
+},
+"audio/s0199.mp3": {
+"text": "My room is clean.",
+"voice": "f"
+},
+"audio/w-polite.mp3": {
+"text": "polite",
+"voice": "w"
+},
+"audio/s0200.mp3": {
+"text": "Their kids are very polite.",
+"voice": "m"
+},
+"audio/w-twenty.mp3": {
+"text": "twenty",
+"voice": "w"
+},
+"audio/s0201.mp3": {
+"text": "I am twenty years old.",
+"voice": "f"
+},
+"audio/w-thirty-five.mp3": {
+"text": "thirty-five",
+"voice": "w"
+},
+"audio/s0202.mp3": {
+"text": "She is thirty-five.",
+"voice": "m"
+},
+"audio/w-cats.mp3": {
+"text": "cats",
+"voice": "w"
+},
+"audio/s0203.mp3": {
+"text": "I have three cats.",
+"voice": "f"
+},
+"audio/w-six.mp3": {
+"text": "six",
+"voice": "w"
+},
+"audio/s0204.mp3": {
+"text": "My son is six.",
+"voice": "m"
+},
+"audio/w-twelve.mp3": {
+"text": "twelve",
+"voice": "w"
+},
+"audio/w-months.mp3": {
+"text": "months",
+"voice": "w"
+},
+"audio/w-year.mp3": {
+"text": "year",
+"voice": "w"
+},
+"audio/s0205.mp3": {
+"text": "There are twelve months in a year.",
+"voice": "f"
+},
+"audio/w-four.mp3": {
+"text": "four",
+"voice": "w"
+},
+"audio/w-rooms.mp3": {
+"text": "rooms",
+"voice": "w"
+},
+"audio/s0206.mp3": {
+"text": "We have four rooms.",
+"voice": "m"
+},
+"audio/w-fifty.mp3": {
+"text": "fifty",
+"voice": "w"
+},
+"audio/s0207.mp3": {
+"text": "He is fifty years old.",
+"voice": "f"
+},
+"audio/s0208.mp3": {
+"text": "My phone number is easy.",
+"voice": "m"
+},
+"audio/w-seven.mp3": {
+"text": "seven",
+"voice": "w"
+},
+"audio/w-eggs.mp3": {
+"text": "eggs",
+"voice": "w"
+},
+"audio/s0209.mp3": {
+"text": "I need seven eggs.",
+"voice": "f"
+},
+"audio/w-class.mp3": {
+"text": "class",
+"voice": "w"
+},
+"audio/w-eighteen.mp3": {
+"text": "eighteen",
+"voice": "w"
+},
+"audio/s0210.mp3": {
+"text": "The class has eighteen students.",
+"voice": "m"
+},
+"audio/w-grandfather.mp3": {
+"text": "grandfather",
+"voice": "w"
+},
+"audio/w-ninety.mp3": {
+"text": "ninety",
+"voice": "w"
+},
+"audio/s0211.mp3": {
+"text": "My grandfather is ninety.",
+"voice": "f"
+},
+"audio/w-mike.mp3": {
+"text": "Mike",
+"voice": "w"
+},
+"audio/s0212.mp3": {
+"text": "My name is Mike. I am twenty years old.",
+"voice": "m"
+},
+"audio/w-fifteen.mp3": {
+"text": "fifteen",
+"voice": "w"
+},
+"audio/w-nine.mp3": {
+"text": "nine",
+"voice": "w"
+},
+"audio/s0213.mp3": {
+"text": "My sister is fifteen, and my brother is nine.",
+"voice": "f"
+},
+"audio/s0214.mp3": {
+"text": "My father is fifty years old.",
+"voice": "m"
+},
+"audio/s0215.mp3": {
+"text": "We have four rooms and three cats.",
+"voice": "f"
+},
+"audio/s0216.mp3": {
+"text": "I have three kids.",
+"voice": "m"
+},
+"audio/s0217.mp3": {
+"text": "My phone number is five five five, one two three four.",
+"voice": "f"
+},
+"audio/s0218.mp3": {
+"text": "He is ten years old.",
+"voice": "m"
+},
+"audio/w-dad.mp3": {
+"text": "dad",
+"voice": "w"
+},
+"audio/w-fifty-two.mp3": {
+"text": "fifty-two",
+"voice": "w"
+},
+"audio/s0219.mp3": {
+"text": "My dad is fifty-two.",
+"voice": "f"
+},
+"audio/w-forty.mp3": {
+"text": "forty",
+"voice": "w"
+},
+"audio/s0220.mp3": {
+"text": "I live at number forty.",
+"voice": "m"
+},
+"audio/w-tickets.mp3": {
+"text": "tickets",
+"voice": "w"
+},
+"audio/s0221.mp3": {
+"text": "We need four tickets.",
+"voice": "f"
+},
+"audio/s0222.mp3": {
+"text": "She has two cats.",
+"voice": "m"
+},
+"audio/s0223.mp3": {
+"text": "The baby is six months old.",
+"voice": "f"
+},
+"audio/w-cups.mp3": {
+"text": "cups",
+"voice": "w"
+},
+"audio/s0224.mp3": {
+"text": "I need two cups of coffee.",
+"voice": "m"
+},
+"audio/w-seventy-eight.mp3": {
+"text": "seventy-eight",
+"voice": "w"
+},
+"audio/s0225.mp3": {
+"text": "My grandmother is seventy-eight.",
+"voice": "f"
+},
+"audio/w-dogs.mp3": {
+"text": "dogs",
+"voice": "w"
+},
+"audio/s0226.mp3": {
+"text": "I have two dogs.",
+"voice": "m"
+},
+"audio/w-park.mp3": {
+"text": "park",
+"voice": "w"
+},
+"audio/s0227.mp3": {
+"text": "The children are in the park.",
+"voice": "f"
+},
+"audio/w-boxes.mp3": {
+"text": "boxes",
+"voice": "w"
+},
+"audio/w-heavy.mp3": {
+"text": "heavy",
+"voice": "w"
+},
+"audio/s0228.mp3": {
+"text": "These boxes are heavy.",
+"voice": "m"
+},
+"audio/w-feet.mp3": {
+"text": "feet",
+"voice": "w"
+},
+"audio/s0229.mp3": {
+"text": "My feet are cold.",
+"voice": "f"
+},
+"audio/w-women.mp3": {
+"text": "women",
+"voice": "w"
+},
+"audio/w-friendly.mp3": {
+"text": "friendly",
+"voice": "w"
+},
+"audio/s0230.mp3": {
+"text": "The women are very friendly.",
+"voice": "m"
+},
+"audio/w-glasses.mp3": {
+"text": "glasses",
+"voice": "w"
+},
+"audio/s0231.mp3": {
+"text": "I need three glasses.",
+"voice": "f"
+},
+"audio/w-men.mp3": {
+"text": "men",
+"voice": "w"
+},
+"audio/s0232.mp3": {
+"text": "The men are at work.",
+"voice": "m"
+},
+"audio/w-birds.mp3": {
+"text": "birds",
+"voice": "w"
+},
+"audio/s0233.mp3": {
+"text": "I see five birds.",
+"voice": "f"
+},
+"audio/w-teeth.mp3": {
+"text": "teeth",
+"voice": "w"
+},
+"audio/w-white.mp3": {
+"text": "white",
+"voice": "w"
+},
+"audio/s0234.mp3": {
+"text": "Her teeth are white.",
+"voice": "m"
+},
+"audio/w-many.mp3": {
+"text": "many",
+"voice": "w"
+},
+"audio/w-books.mp3": {
+"text": "books",
+"voice": "w"
+},
+"audio/s0235.mp3": {
+"text": "We have many books.",
+"voice": "f"
+},
+"audio/w-cities.mp3": {
+"text": "cities",
+"voice": "w"
+},
+"audio/s0236.mp3": {
+"text": "The cities are big.",
+"voice": "m"
+},
+"audio/s0237.mp3": {
+"text": "Two people are outside.",
+"voice": "f"
+},
+"audio/s0238.mp3": {
+"text": "Today we are in the park.",
+"voice": "m"
+},
+"audio/s0239.mp3": {
+"text": "The children are happy.",
+"voice": "f"
+},
+"audio/w-grass.mp3": {
+"text": "grass",
+"voice": "w"
+},
+"audio/s0240.mp3": {
+"text": "Two dogs are on the grass.",
+"voice": "m"
+},
+"audio/w-tree.mp3": {
+"text": "tree",
+"voice": "w"
+},
+"audio/s0241.mp3": {
+"text": "I see five birds in a tree.",
+"voice": "f"
+},
+"audio/w-funny.mp3": {
+"text": "funny",
+"voice": "w"
+},
+"audio/s0242.mp3": {
+"text": "The women are friendly, and the men are funny.",
+"voice": "m"
+},
+"audio/s0243.mp3": {
+"text": "My feet are cold, but I am happy.",
+"voice": "f"
+},
+"audio/s0244.mp3": {
+"text": "I have three books.",
+"voice": "m"
+},
+"audio/w-sleeping.mp3": {
+"text": "sleeping",
+"voice": "w"
+},
+"audio/s0245.mp3": {
+"text": "The cats are sleeping.",
+"voice": "f"
+},
+"audio/w-hurt.mp3": {
+"text": "hurt",
+"voice": "w"
+},
+"audio/s0246.mp3": {
+"text": "My feet hurt.",
+"voice": "m"
+},
+"audio/s0247.mp3": {
+"text": "There are many people here.",
+"voice": "f"
+},
+"audio/w-knives.mp3": {
+"text": "knives",
+"voice": "w"
+},
+"audio/s0248.mp3": {
+"text": "We need two knives.",
+"voice": "m"
+},
+"audio/s0249.mp3": {
+"text": "The women are friends.",
+"voice": "f"
+},
+"audio/w-brush.mp3": {
+"text": "brush",
+"voice": "w"
+},
+"audio/w-twice.mp3": {
+"text": "twice",
+"voice": "w"
+},
+"audio/s0250.mp3": {
+"text": "I brush my teeth twice a day.",
+"voice": "m"
+},
+"audio/s0251.mp3": {
+"text": "I have a question.",
+"voice": "f"
+},
+"audio/w-job.mp3": {
+"text": "job",
+"voice": "w"
+},
+"audio/s0252.mp3": {
+"text": "She has a new job.",
+"voice": "m"
+},
+"audio/w-meeting.mp3": {
+"text": "meeting",
+"voice": "w"
+},
+"audio/s0253.mp3": {
+"text": "We have a meeting today.",
+"voice": "f"
+},
+"audio/w-cars.mp3": {
+"text": "cars",
+"voice": "w"
+},
+"audio/s0254.mp3": {
+"text": "He has two cars.",
+"voice": "m"
+},
+"audio/s0255.mp3": {
+"text": "They have a beautiful home.",
+"voice": "f"
+},
+"audio/w-pen.mp3": {
+"text": "pen",
+"voice": "w"
+},
+"audio/s0256.mp3": {
+"text": "Do you have a pen?",
+"voice": "m"
+},
+"audio/s0257.mp3": {
+"text": "My city has a big park.",
+"voice": "f"
+},
+"audio/w-headache.mp3": {
+"text": "headache",
+"voice": "w"
+},
+"audio/s0258.mp3": {
+"text": "I have a headache.",
+"voice": "m"
+},
+"audio/s0259.mp3": {
+"text": "She has long hair.",
+"voice": "f"
+},
+"audio/w-time.mp3": {
+"text": "time",
+"voice": "w"
+},
+"audio/s0260.mp3": {
+"text": "We have time.",
+"voice": "m"
+},
+"audio/s0261.mp3": {
+"text": "He has a cold.",
+"voice": "f"
+},
+"audio/s0262.mp3": {
+"text": "They have three kids.",
+"voice": "m"
+},
+"audio/w-emma.mp3": {
+"text": "Emma",
+"voice": "w"
+},
+"audio/s0263.mp3": {
+"text": "My friend Emma has a new job.",
+"voice": "f"
+},
+"audio/w-desk.mp3": {
+"text": "desk",
+"voice": "w"
+},
+"audio/s0264.mp3": {
+"text": "She has a nice office and a big desk.",
+"voice": "m"
+},
+"audio/s0265.mp3": {
+"text": "Today she has a meeting.",
+"voice": "f"
+},
+"audio/s0266.mp3": {
+"text": "I have a headache, so I am at home.",
+"voice": "m"
+},
+"audio/w-evening.mp3": {
+"text": "evening",
+"voice": "w"
+},
+"audio/s0267.mp3": {
+"text": "We have time this evening.",
+"voice": "f"
+},
+"audio/s0268.mp3": {
+"text": "Do you have time too?",
+"voice": "m"
+},
+"audio/w-jobs.mp3": {
+"text": "jobs",
+"voice": "w"
+},
+"audio/s0269.mp3": {
+"text": "He has two jobs.",
+"voice": "f"
+},
+"audio/s0270.mp3": {
+"text": "They have a beautiful garden.",
+"voice": "m"
+},
+"audio/w-appointment.mp3": {
+"text": "appointment",
+"voice": "w"
+},
+"audio/s0271.mp3": {
+"text": "I have an appointment at ten.",
+"voice": "f"
+},
+"audio/s0272.mp3": {
+"text": "I have a dog and two cats.",
+"voice": "m"
+},
+"audio/w-voice.mp3": {
+"text": "voice",
+"voice": "w"
+},
+"audio/s0273.mp3": {
+"text": "She has a beautiful voice.",
+"voice": "f"
+},
+"audio/w-any.mp3": {
+"text": "any",
+"voice": "w"
+},
+"audio/w-brothers.mp3": {
+"text": "brothers",
+"voice": "w"
+},
+"audio/w-or.mp3": {
+"text": "or",
+"voice": "w"
+},
+"audio/s0274.mp3": {
+"text": "Do you have any brothers or sisters?",
+"voice": "m"
+},
+"audio/w-problem.mp3": {
+"text": "problem",
+"voice": "w"
+},
+"audio/s0275.mp3": {
+"text": "We have a problem.",
+"voice": "f"
+},
+"audio/w-wake.mp3": {
+"text": "wake",
+"voice": "w"
+},
+"audio/w-up.mp3": {
+"text": "up",
+"voice": "w"
+},
+"audio/s0276.mp3": {
+"text": "I wake up at seven.",
+"voice": "m"
+},
+"audio/w-drink.mp3": {
+"text": "drink",
+"voice": "w"
+},
+"audio/s0277.mp3": {
+"text": "I drink coffee every morning.",
+"voice": "f"
+},
+"audio/w-walks.mp3": {
+"text": "walks",
+"voice": "w"
+},
+"audio/s0278.mp3": {
+"text": "She walks to work.",
+"voice": "m"
+},
+"audio/w-lunch.mp3": {
+"text": "lunch",
+"voice": "w"
+},
+"audio/w-noon.mp3": {
+"text": "noon",
+"voice": "w"
+},
+"audio/s0279.mp3": {
+"text": "We eat lunch at noon.",
+"voice": "f"
+},
+"audio/s0280.mp3": {
+"text": "He takes the bus.",
+"voice": "m"
+},
+"audio/w-watch.mp3": {
+"text": "watch",
+"voice": "w"
+},
+"audio/w-tv.mp3": {
+"text": "TV",
+"voice": "w"
+},
+"audio/w-night.mp3": {
+"text": "night",
+"voice": "w"
+},
+"audio/s0281.mp3": {
+"text": "They watch TV at night.",
+"voice": "f"
+},
+"audio/w-go.mp3": {
+"text": "go",
+"voice": "w"
+},
+"audio/w-bed.mp3": {
+"text": "bed",
+"voice": "w"
+},
+"audio/w-early.mp3": {
+"text": "early",
+"voice": "w"
+},
+"audio/s0282.mp3": {
+"text": "I go to bed early.",
+"voice": "m"
+},
+"audio/w-cooks.mp3": {
+"text": "cooks",
+"voice": "w"
+},
+"audio/w-dinner.mp3": {
+"text": "dinner",
+"voice": "w"
+},
+"audio/s0283.mp3": {
+"text": "My mother cooks dinner.",
+"voice": "f"
+},
+"audio/w-reads.mp3": {
+"text": "reads",
+"voice": "w"
+},
+"audio/w-news.mp3": {
+"text": "news",
+"voice": "w"
+},
+"audio/s0284.mp3": {
+"text": "He reads the news.",
+"voice": "m"
+},
+"audio/w-studies.mp3": {
+"text": "studies",
+"voice": "w"
+},
+"audio/s0285.mp3": {
+"text": "She studies English every day.",
+"voice": "f"
+},
+"audio/w-shower.mp3": {
+"text": "shower",
+"voice": "w"
+},
+"audio/s0286.mp3": {
+"text": "I take a shower in the morning.",
+"voice": "m"
+},
+"audio/s0287.mp3": {
+"text": "We work from home.",
+"voice": "f"
+},
+"audio/s0288.mp3": {
+"text": "I take a shower and drink coffee.",
+"voice": "m"
+},
+"audio/s0289.mp3": {
+"text": "I work from home, so I don't take the bus.",
+"voice": "f"
+},
+"audio/s0290.mp3": {
+"text": "At noon I eat lunch with my wife.",
+"voice": "m"
+},
+"audio/s0291.mp3": {
+"text": "In the evening we cook dinner and watch TV.",
+"voice": "f"
+},
+"audio/s0292.mp3": {
+"text": "I take a shower every morning.",
+"voice": "m"
+},
+"audio/w-goes.mp3": {
+"text": "goes",
+"voice": "w"
+},
+"audio/w-eleven.mp3": {
+"text": "eleven",
+"voice": "w"
+},
+"audio/s0293.mp3": {
+"text": "He goes to bed at eleven.",
+"voice": "f"
+},
+"audio/s0294.mp3": {
+"text": "We have lunch at noon.",
+"voice": "m"
+},
+"audio/s0295.mp3": {
+"text": "She works from home.",
+"voice": "f"
+},
+"audio/w-read.mp3": {
+"text": "read",
+"voice": "w"
+},
+"audio/w-before.mp3": {
+"text": "before",
+"voice": "w"
+},
+"audio/s0296.mp3": {
+"text": "I read before bed.",
+"voice": "m"
+},
+"audio/s0297.mp3": {
+"text": "They watch TV in the evening.",
+"voice": "f"
+},
+"audio/w-sundays.mp3": {
+"text": "Sundays",
+"voice": "w"
+},
+"audio/s0298.mp3": {
+"text": "My dad cooks on Sundays.",
+"voice": "m"
+},
+"audio/s0299.mp3": {
+"text": "I take the bus to work.",
+"voice": "f"
+},
+"audio/w-calls.mp3": {
+"text": "calls",
+"voice": "w"
+},
+"audio/s0300.mp3": {
+"text": "She calls her mom every day.",
+"voice": "m"
+},
+"audio/s0301.mp3": {
+"text": "Do you like tea?",
+"voice": "f"
+},
+"audio/w-does.mp3": {
+"text": "Does",
+"voice": "w"
+},
+"audio/s0302.mp3": {
+"text": "Does she speak English?",
+"voice": "m"
+},
+"audio/s0303.mp3": {
+"text": "Do they live here?",
+"voice": "f"
+},
+"audio/s0304.mp3": {
+"text": "Does he work on Sundays?",
+"voice": "m"
+},
+"audio/s0305.mp3": {
+"text": "Where does she live?",
+"voice": "f"
+},
+"audio/s0306.mp3": {
+"text": "Do you have a car?",
+"voice": "m"
+},
+"audio/w-when.mp3": {
+"text": "When",
+"voice": "w"
+},
+"audio/w-start.mp3": {
+"text": "start",
+"voice": "w"
+},
+"audio/s0307.mp3": {
+"text": "When does the class start?",
+"voice": "f"
+},
+"audio/w-rain.mp3": {
+"text": "rain",
+"voice": "w"
+},
+"audio/w-lot.mp3": {
+"text": "lot",
+"voice": "w"
+},
+"audio/s0308.mp3": {
+"text": "Does it rain a lot here?",
+"voice": "m"
+},
+"audio/s0309.mp3": {
+"text": "How do you go to work?",
+"voice": "f"
+},
+"audio/w-ticket.mp3": {
+"text": "ticket",
+"voice": "w"
+},
+"audio/s0310.mp3": {
+"text": "Do we need a ticket?",
+"voice": "m"
+},
+"audio/w-word.mp3": {
+"text": "word",
+"voice": "w"
+},
+"audio/w-mean.mp3": {
+"text": "mean",
+"voice": "w"
+},
+"audio/s0311.mp3": {
+"text": "What does this word mean?",
+"voice": "f"
+},
+"audio/s0312.mp3": {
+"text": "Do you speak English? Yes, a little.",
+"voice": "m"
+},
+"audio/s0313.mp3": {
+"text": "What do you do? I am a nurse.",
+"voice": "f"
+},
+"audio/w-hospital.mp3": {
+"text": "hospital",
+"voice": "w"
+},
+"audio/s0314.mp3": {
+"text": "Where do you work? I work in a hospital.",
+"voice": "m"
+},
+"audio/w-train.mp3": {
+"text": "train",
+"voice": "w"
+},
+"audio/s0315.mp3": {
+"text": "How do you go to work? I take the train.",
+"voice": "f"
+},
+"audio/s0316.mp3": {
+"text": "Do you like your job? Yes, I do.",
+"voice": "m"
+},
+"audio/w-driver.mp3": {
+"text": "driver",
+"voice": "w"
+},
+"audio/s0317.mp3": {
+"text": "What does your husband do? He is a driver.",
+"voice": "f"
+},
+"audio/w-weekends.mp3": {
+"text": "weekends",
+"voice": "w"
+},
+"audio/s0318.mp3": {
+"text": "Do you work on weekends?",
+"voice": "m"
+},
+"audio/s0319.mp3": {
+"text": "Does he have a car?",
+"voice": "f"
+},
+"audio/w-some.mp3": {
+"text": "some",
+"voice": "w"
+},
+"audio/w-water.mp3": {
+"text": "water",
+"voice": "w"
+},
+"audio/s0320.mp3": {
+"text": "Do you want some water?",
+"voice": "m"
+},
+"audio/w-stop.mp3": {
+"text": "stop",
+"voice": "w"
+},
+"audio/s0321.mp3": {
+"text": "Does the bus stop here?",
+"voice": "f"
+},
+"audio/w-know.mp3": {
+"text": "know",
+"voice": "w"
+},
+"audio/s0322.mp3": {
+"text": "Do you know her?",
+"voice": "m"
+},
+"audio/s0323.mp3": {
+"text": "What do you do on Sundays?",
+"voice": "f"
+},
+"audio/s0324.mp3": {
+"text": "Do you like your new apartment?",
+"voice": "m"
+},
+"audio/w-near.mp3": {
+"text": "near",
+"voice": "w"
+},
+"audio/s0325.mp3": {
+"text": "Does your sister live near you?",
+"voice": "f"
+},
+"audio/w-meat.mp3": {
+"text": "meat",
+"voice": "w"
+},
+"audio/s0326.mp3": {
+"text": "I don't eat meat.",
+"voice": "m"
+},
+"audio/w-doesn-t.mp3": {
+"text": "doesn't",
+"voice": "w"
+},
+"audio/s0327.mp3": {
+"text": "She doesn't drink coffee.",
+"voice": "f"
+},
+"audio/s0328.mp3": {
+"text": "We don't have a car.",
+"voice": "m"
+},
+"audio/w-weather.mp3": {
+"text": "weather",
+"voice": "w"
+},
+"audio/s0329.mp3": {
+"text": "He doesn't like cold weather.",
+"voice": "f"
+},
+"audio/s0330.mp3": {
+"text": "They don't live in the city.",
+"voice": "m"
+},
+"audio/s0331.mp3": {
+"text": "I don't understand.",
+"voice": "f"
+},
+"audio/s0332.mp3": {
+"text": "It doesn't work.",
+"voice": "m"
+},
+"audio/s0333.mp3": {
+"text": "You don't need a coat.",
+"voice": "f"
+},
+"audio/w-smoke.mp3": {
+"text": "smoke",
+"voice": "w"
+},
+"audio/s0334.mp3": {
+"text": "My father doesn't smoke.",
+"voice": "m"
+},
+"audio/s0335.mp3": {
+"text": "I don't know his name.",
+"voice": "f"
+},
+"audio/s0336.mp3": {
+"text": "She doesn't watch TV.",
+"voice": "m"
+},
+"audio/w-fridays.mp3": {
+"text": "Fridays",
+"voice": "w"
+},
+"audio/s0337.mp3": {
+"text": "We don't work on Fridays.",
+"voice": "f"
+},
+"audio/w-tom.mp3": {
+"text": "Tom",
+"voice": "w"
+},
+"audio/w-healthy.mp3": {
+"text": "healthy",
+"voice": "w"
+},
+"audio/s0338.mp3": {
+"text": "My friend Tom is very healthy.",
+"voice": "m"
+},
+"audio/s0339.mp3": {
+"text": "He doesn't eat meat, and he doesn't drink coffee.",
+"voice": "f"
+},
+"audio/w-everywhere.mp3": {
+"text": "everywhere",
+"voice": "w"
+},
+"audio/s0340.mp3": {
+"text": "He doesn't have a car. He walks everywhere.",
+"voice": "m"
+},
+"audio/s0341.mp3": {
+"text": "He doesn't watch TV. He reads books.",
+"voice": "f"
+},
+"audio/w-him.mp3": {
+"text": "him",
+"voice": "w"
+},
+"audio/s0342.mp3": {
+"text": "I don't understand him!",
+"voice": "m"
+},
+"audio/s0343.mp3": {
+"text": "I love coffee and TV.",
+"voice": "f"
+},
+"audio/s0344.mp3": {
+"text": "I don't know.",
+"voice": "m"
+},
+"audio/w-anymore.mp3": {
+"text": "anymore",
+"voice": "w"
+},
+"audio/s0345.mp3": {
+"text": "They don't live here anymore.",
+"voice": "f"
+},
+"audio/w-matter.mp3": {
+"text": "matter",
+"voice": "w"
+},
+"audio/s0346.mp3": {
+"text": "It doesn't matter.",
+"voice": "m"
+},
+"audio/s0347.mp3": {
+"text": "I don't have time today.",
+"voice": "f"
+},
+"audio/s0348.mp3": {
+"text": "We don't work on Sundays.",
+"voice": "m"
+},
+"audio/w-spanish.mp3": {
+"text": "Spanish",
+"voice": "w"
+},
+"audio/s0349.mp3": {
+"text": "He doesn't speak Spanish.",
+"voice": "f"
+},
+"audio/w-rainy.mp3": {
+"text": "rainy",
+"voice": "w"
+},
+"audio/w-days.mp3": {
+"text": "days",
+"voice": "w"
+},
+"audio/s0350.mp3": {
+"text": "I don't like rainy days.",
+"voice": "m"
+},
+"audio/s0351.mp3": {
+"text": "What time is it?",
+"voice": "f"
+},
+"audio/w-o-clock.mp3": {
+"text": "o'clock",
+"voice": "w"
+},
+"audio/s0352.mp3": {
+"text": "It is three o'clock.",
+"voice": "m"
+},
+"audio/w-half.mp3": {
+"text": "half",
+"voice": "w"
+},
+"audio/w-past.mp3": {
+"text": "past",
+"voice": "w"
+},
+"audio/s0353.mp3": {
+"text": "It is half past four.",
+"voice": "f"
+},
+"audio/w-movie.mp3": {
+"text": "movie",
+"voice": "w"
+},
+"audio/w-starts.mp3": {
+"text": "starts",
+"voice": "w"
+},
+"audio/w-eight.mp3": {
+"text": "eight",
+"voice": "w"
+},
+"audio/s0354.mp3": {
+"text": "The movie starts at eight.",
+"voice": "m"
+},
+"audio/s0355.mp3": {
+"text": "I have a class at ten.",
+"voice": "f"
+},
+"audio/w-opens.mp3": {
+"text": "opens",
+"voice": "w"
+},
+"audio/s0356.mp3": {
+"text": "The store opens at nine.",
+"voice": "m"
+},
+"audio/w-quarter.mp3": {
+"text": "quarter",
+"voice": "w"
+},
+"audio/s0357.mp3": {
+"text": "It is a quarter to six.",
+"voice": "f"
+},
+"audio/w-finish.mp3": {
+"text": "finish",
+"voice": "w"
+},
+"audio/s0358.mp3": {
+"text": "I finish work at five.",
+"voice": "m"
+},
+"audio/w-leaves.mp3": {
+"text": "leaves",
+"voice": "w"
+},
+"audio/s0359.mp3": {
+"text": "The train leaves at noon.",
+"voice": "f"
+},
+"audio/w-thirty.mp3": {
+"text": "thirty",
+"voice": "w"
+},
+"audio/s0360.mp3": {
+"text": "We meet at seven thirty.",
+"voice": "m"
+},
+"audio/s0361.mp3": {
+"text": "Is it late?",
+"voice": "f"
+},
+"audio/w-never.mp3": {
+"text": "never",
+"voice": "w"
+},
+"audio/s0362.mp3": {
+"text": "I am never on time.",
+"voice": "m"
+},
+"audio/s0363.mp3": {
+"text": "What time is it? It is seven o'clock.",
+"voice": "f"
+},
+"audio/s0364.mp3": {
+"text": "My class starts at eight.",
+"voice": "m"
+},
+"audio/s0365.mp3": {
+"text": "I finish at noon and eat lunch.",
+"voice": "f"
+},
+"audio/s0366.mp3": {
+"text": "I work from one to five.",
+"voice": "m"
+},
+"audio/s0367.mp3": {
+"text": "At seven thirty I meet my friends.",
+"voice": "f"
+},
+"audio/s0368.mp3": {
+"text": "The movie starts at nine.",
+"voice": "m"
+},
+"audio/s0369.mp3": {
+"text": "It's a quarter to nine.",
+"voice": "f"
+},
+"audio/s0370.mp3": {
+"text": "The store opens at ten.",
+"voice": "m"
+},
+"audio/s0371.mp3": {
+"text": "I'm sorry, I'm late.",
+"voice": "f"
+},
+"audio/w-get.mp3": {
+"text": "get",
+"voice": "w"
+},
+"audio/s0372.mp3": {
+"text": "I get home at six.",
+"voice": "m"
+},
+"audio/s0373.mp3": {
+"text": "Do you have the time?",
+"voice": "f"
+},
+"audio/s0374.mp3": {
+"text": "See you at noon.",
+"voice": "m"
+},
+"audio/s0375.mp3": {
+"text": "I wake up at six thirty.",
+"voice": "f"
+},
+"audio/w-monday.mp3": {
+"text": "Monday",
+"voice": "w"
+},
+"audio/s0376.mp3": {
+"text": "Today is Monday.",
+"voice": "m"
+},
+"audio/w-friday.mp3": {
+"text": "Friday",
+"voice": "w"
+},
+"audio/s0377.mp3": {
+"text": "I work from Monday to Friday.",
+"voice": "f"
+},
+"audio/w-saturday.mp3": {
+"text": "Saturday",
+"voice": "w"
+},
+"audio/w-visit.mp3": {
+"text": "visit",
+"voice": "w"
+},
+"audio/s0378.mp3": {
+"text": "On Saturday I visit my parents.",
+"voice": "m"
+},
+"audio/w-museum.mp3": {
+"text": "museum",
+"voice": "w"
+},
+"audio/w-closed.mp3": {
+"text": "closed",
+"voice": "w"
+},
+"audio/w-tuesday.mp3": {
+"text": "Tuesday",
+"voice": "w"
+},
+"audio/s0379.mp3": {
+"text": "The museum is closed on Tuesday.",
+"voice": "f"
+},
+"audio/w-swimming.mp3": {
+"text": "swimming",
+"voice": "w"
+},
+"audio/w-wednesday.mp3": {
+"text": "Wednesday",
+"voice": "w"
+},
+"audio/s0380.mp3": {
+"text": "We go swimming on Wednesday.",
+"voice": "m"
+},
+"audio/w-birthday.mp3": {
+"text": "birthday",
+"voice": "w"
+},
+"audio/w-thursday.mp3": {
+"text": "Thursday",
+"voice": "w"
+},
+"audio/s0381.mp3": {
+"text": "My birthday is on Thursday.",
+"voice": "f"
+},
+"audio/w-favorite.mp3": {
+"text": "favorite",
+"voice": "w"
+},
+"audio/s0382.mp3": {
+"text": "Sunday is my favorite day.",
+"voice": "m"
+},
+"audio/s0383.mp3": {
+"text": "See you on Friday!",
+"voice": "f"
+},
+"audio/w-test.mp3": {
+"text": "test",
+"voice": "w"
+},
+"audio/s0384.mp3": {
+"text": "I have a test tomorrow.",
+"voice": "m"
+},
+"audio/s0385.mp3": {
+"text": "What day is it today?",
+"voice": "f"
+},
+"audio/w-weekend.mp3": {
+"text": "weekend",
+"voice": "w"
+},
+"audio/w-short.mp3": {
+"text": "short",
+"voice": "w"
+},
+"audio/s0386.mp3": {
+"text": "The weekend is short.",
+"voice": "m"
+},
+"audio/w-play.mp3": {
+"text": "play",
+"voice": "w"
+},
+"audio/w-soccer.mp3": {
+"text": "soccer",
+"voice": "w"
+},
+"audio/s0387.mp3": {
+"text": "I play soccer on weekends.",
+"voice": "f"
+},
+"audio/w-week.mp3": {
+"text": "week",
+"voice": "w"
+},
+"audio/s0388.mp3": {
+"text": "My week is very busy.",
+"voice": "m"
+},
+"audio/s0389.mp3": {
+"text": "On Wednesday I go swimming with my sister.",
+"voice": "f"
+},
+"audio/w-sleep.mp3": {
+"text": "sleep",
+"voice": "w"
+},
+"audio/s0390.mp3": {
+"text": "On Sunday I sleep late and play soccer.",
+"voice": "m"
+},
+"audio/s0391.mp3": {
+"text": "Tomorrow is Tuesday.",
+"voice": "f"
+},
+"audio/s0392.mp3": {
+"text": "I have class on Wednesday.",
+"voice": "m"
+},
+"audio/w-mondays.mp3": {
+"text": "Mondays",
+"voice": "w"
+},
+"audio/s0393.mp3": {
+"text": "The museum is closed on Mondays.",
+"voice": "f"
+},
+"audio/s0394.mp3": {
+"text": "Thursday is my favorite day.",
+"voice": "m"
+},
+"audio/w-shopping.mp3": {
+"text": "shopping",
+"voice": "w"
+},
+"audio/s0395.mp3": {
+"text": "We go shopping on Fridays.",
+"voice": "f"
+},
+"audio/w-next.mp3": {
+"text": "next",
+"voice": "w"
+},
+"audio/s0396.mp3": {
+"text": "See you next week.",
+"voice": "m"
+},
+"audio/s0397.mp3": {
+"text": "I'm free on Sunday.",
+"voice": "f"
+},
+"audio/s0398.mp3": {
+"text": "The weekend is here!",
+"voice": "m"
+},
+"audio/w-saturdays.mp3": {
+"text": "Saturdays",
+"voice": "w"
+},
+"audio/s0399.mp3": {
+"text": "What do you do on Saturdays?",
+"voice": "f"
+},
+"audio/w-may.mp3": {
+"text": "May",
+"voice": "w"
+},
+"audio/s0400.mp3": {
+"text": "My birthday is in May.",
+"voice": "m"
+},
+"audio/w-would.mp3": {
+"text": "would",
+"voice": "w"
+},
+"audio/w-sandwich.mp3": {
+"text": "sandwich",
+"voice": "w"
+},
+"audio/s0401.mp3": {
+"text": "I would like a sandwich.",
+"voice": "f"
+},
+"audio/w-drinks.mp3": {
+"text": "drinks",
+"voice": "w"
+},
+"audio/s0402.mp3": {
+"text": "She drinks green tea.",
+"voice": "m"
+},
+"audio/w-rice.mp3": {
+"text": "rice",
+"voice": "w"
+},
+"audio/w-chicken.mp3": {
+"text": "chicken",
+"voice": "w"
+},
+"audio/s0403.mp3": {
+"text": "We eat rice and chicken.",
+"voice": "f"
+},
+"audio/w-soup.mp3": {
+"text": "soup",
+"voice": "w"
+},
+"audio/w-delicious.mp3": {
+"text": "delicious",
+"voice": "w"
+},
+"audio/s0404.mp3": {
+"text": "This soup is delicious.",
+"voice": "m"
+},
+"audio/w-thirsty.mp3": {
+"text": "thirsty",
+"voice": "w"
+},
+"audio/s0405.mp3": {
+"text": "I'm thirsty.",
+"voice": "f"
+},
+"audio/s0406.mp3": {
+"text": "Can I have some water?",
+"voice": "m"
+},
+"audio/w-loves.mp3": {
+"text": "loves",
+"voice": "w"
+},
+"audio/w-pizza.mp3": {
+"text": "pizza",
+"voice": "w"
+},
+"audio/s0407.mp3": {
+"text": "He loves pizza.",
+"voice": "f"
+},
+"audio/w-fish.mp3": {
+"text": "fish",
+"voice": "w"
+},
+"audio/s0408.mp3": {
+"text": "They don't eat fish.",
+"voice": "m"
+},
+"audio/w-bread.mp3": {
+"text": "bread",
+"voice": "w"
+},
+"audio/s0409.mp3": {
+"text": "The bread is fresh.",
+"voice": "f"
+},
+"audio/w-fruit.mp3": {
+"text": "fruit",
+"voice": "w"
+},
+"audio/w-mango.mp3": {
+"text": "mango",
+"voice": "w"
+},
+"audio/s0410.mp3": {
+"text": "My favorite fruit is mango.",
+"voice": "m"
+},
+"audio/w-breakfast.mp3": {
+"text": "Breakfast",
+"voice": "w"
+},
+"audio/s0411.mp3": {
+"text": "Breakfast is ready.",
+"voice": "f"
+},
+"audio/w-cheese.mp3": {
+"text": "cheese",
+"voice": "w"
+},
+"audio/s0412.mp3": {
+"text": "We have fresh bread, eggs, and cheese.",
+"voice": "m"
+},
+"audio/w-milk.mp3": {
+"text": "milk",
+"voice": "w"
+},
+"audio/s0413.mp3": {
+"text": "I drink a cup of tea with milk.",
+"voice": "f"
+},
+"audio/s0414.mp3": {
+"text": "My sister drinks green tea.",
+"voice": "m"
+},
+"audio/w-for.mp3": {
+"text": "For",
+"voice": "w"
+},
+"audio/s0415.mp3": {
+"text": "For lunch we eat rice and chicken.",
+"voice": "f"
+},
+"audio/s0416.mp3": {
+"text": "It is delicious!",
+"voice": "m"
+},
+"audio/w-glass.mp3": {
+"text": "glass",
+"voice": "w"
+},
+"audio/s0417.mp3": {
+"text": "Can I have a glass of water?",
+"voice": "f"
+},
+"audio/s0418.mp3": {
+"text": "I'm hungry.",
+"voice": "m"
+},
+"audio/w-pork.mp3": {
+"text": "pork",
+"voice": "w"
+},
+"audio/s0419.mp3": {
+"text": "I don't eat pork.",
+"voice": "f"
+},
+"audio/s0420.mp3": {
+"text": "Do you want some fruit?",
+"voice": "m"
+},
+"audio/s0421.mp3": {
+"text": "I love pizza.",
+"voice": "f"
+},
+"audio/w-juice.mp3": {
+"text": "juice",
+"voice": "w"
+},
+"audio/s0422.mp3": {
+"text": "Orange juice, please.",
+"voice": "m"
+},
+"audio/w-i-d.mp3": {
+"text": "I'd",
+"voice": "w"
+},
+"audio/s0423.mp3": {
+"text": "I'd like a cup of coffee, please.",
+"voice": "f"
+},
+"audio/w-spicy.mp3": {
+"text": "spicy",
+"voice": "w"
+},
+"audio/w-food.mp3": {
+"text": "food",
+"voice": "w"
+},
+"audio/s0424.mp3": {
+"text": "Do you like spicy food?",
+"voice": "m"
+},
+"audio/s0425.mp3": {
+"text": "We eat dinner at seven.",
+"voice": "f"
+},
+"audio/s0426.mp3": {
+"text": "How much is this?",
+"voice": "m"
+},
+"audio/w-dollars.mp3": {
+"text": "dollars",
+"voice": "w"
+},
+"audio/s0427.mp3": {
+"text": "It is ten dollars.",
+"voice": "f"
+},
+"audio/s0428.mp3": {
+"text": "That is too expensive.",
+"voice": "m"
+},
+"audio/w-smaller.mp3": {
+"text": "smaller",
+"voice": "w"
+},
+"audio/w-size.mp3": {
+"text": "size",
+"voice": "w"
+},
+"audio/s0429.mp3": {
+"text": "Do you have a smaller size?",
+"voice": "f"
+},
+"audio/w-just.mp3": {
+"text": "just",
+"voice": "w"
+},
+"audio/w-looking.mp3": {
+"text": "looking",
+"voice": "w"
+},
+"audio/s0430.mp3": {
+"text": "I'm just looking.",
+"voice": "m"
+},
+"audio/w-pay.mp3": {
+"text": "pay",
+"voice": "w"
+},
+"audio/w-by.mp3": {
+"text": "by",
+"voice": "w"
+},
+"audio/w-card.mp3": {
+"text": "card",
+"voice": "w"
+},
+"audio/s0431.mp3": {
+"text": "Can I pay by card?",
+"voice": "f"
+},
+"audio/w-sale.mp3": {
+"text": "sale",
+"voice": "w"
+},
+"audio/s0432.mp3": {
+"text": "These shoes are on sale.",
+"voice": "m"
+},
+"audio/s0433.mp3": {
+"text": "I need a bag, please.",
+"voice": "f"
+},
+"audio/w-checkout.mp3": {
+"text": "checkout",
+"voice": "w"
+},
+"audio/s0434.mp3": {
+"text": "Where is the checkout?",
+"voice": "m"
+},
+"audio/w-shirt.mp3": {
+"text": "shirt",
+"voice": "w"
+},
+"audio/w-costs.mp3": {
+"text": "costs",
+"voice": "w"
+},
+"audio/s0435.mp3": {
+"text": "The shirt costs twenty dollars.",
+"voice": "f"
+},
+"audio/w-change.mp3": {
+"text": "change",
+"voice": "w"
+},
+"audio/s0436.mp3": {
+"text": "Here is your change.",
+"voice": "m"
+},
+"audio/w-i-ll.mp3": {
+"text": "I'll",
+"voice": "w"
+},
+"audio/s0437.mp3": {
+"text": "I'll take it.",
+"voice": "f"
+},
+"audio/w-mall.mp3": {
+"text": "mall",
+"voice": "w"
+},
+"audio/s0438.mp3": {
+"text": "I am at the mall with my friend.",
+"voice": "m"
+},
+"audio/s0439.mp3": {
+"text": "I like a blue shirt. How much is it?",
+"voice": "f"
+},
+"audio/w-cheap.mp3": {
+"text": "cheap",
+"voice": "w"
+},
+"audio/s0440.mp3": {
+"text": "It costs twenty dollars. That's cheap!",
+"voice": "m"
+},
+"audio/s0441.mp3": {
+"text": "These shoes are on sale too.",
+"voice": "f"
+},
+"audio/w-course.mp3": {
+"text": "course",
+"voice": "w"
+},
+"audio/s0442.mp3": {
+"text": "Can I pay by card? Yes, of course.",
+"voice": "m"
+},
+"audio/s0443.mp3": {
+"text": "I'll take the shirt and the shoes.",
+"voice": "f"
+},
+"audio/s0444.mp3": {
+"text": "Do you have this in blue?",
+"voice": "m"
+},
+"audio/w-thanks.mp3": {
+"text": "thanks",
+"voice": "w"
+},
+"audio/s0445.mp3": {
+"text": "I'm just looking, thanks.",
+"voice": "f"
+},
+"audio/w-fitting.mp3": {
+"text": "fitting",
+"voice": "w"
+},
+"audio/s0446.mp3": {
+"text": "Where is the fitting room?",
+"voice": "m"
+},
+"audio/s0447.mp3": {
+"text": "It's on sale today.",
+"voice": "f"
+},
+"audio/s0448.mp3": {
+"text": "Can I get a bag, please?",
+"voice": "m"
+},
+"audio/w-receipt.mp3": {
+"text": "receipt",
+"voice": "w"
+},
+"audio/s0449.mp3": {
+"text": "Here is your receipt.",
+"voice": "f"
+},
+"audio/w-price.mp3": {
+"text": "price",
+"voice": "w"
+},
+"audio/s0450.mp3": {
+"text": "That's a good price.",
+"voice": "m"
+},
+"audio/s0451.mp3": {
+"text": "There is a bank on this street.",
+"voice": "f"
+},
+"audio/w-windows.mp3": {
+"text": "windows",
+"voice": "w"
+},
+"audio/s0452.mp3": {
+"text": "There are two windows in my room.",
+"voice": "m"
+},
+"audio/w-pharmacy.mp3": {
+"text": "pharmacy",
+"voice": "w"
+},
+"audio/s0453.mp3": {
+"text": "Is there a pharmacy near here?",
+"voice": "f"
+},
+"audio/s0454.mp3": {
+"text": "There isn't any milk.",
+"voice": "m"
+},
+"audio/w-road.mp3": {
+"text": "road",
+"voice": "w"
+},
+"audio/s0455.mp3": {
+"text": "There are many cars on the road.",
+"voice": "f"
+},
+"audio/w-questions.mp3": {
+"text": "questions",
+"voice": "w"
+},
+"audio/s0456.mp3": {
+"text": "Are there any questions?",
+"voice": "m"
+},
+"audio/w-cat.mp3": {
+"text": "cat",
+"voice": "w"
+},
+"audio/w-under.mp3": {
+"text": "under",
+"voice": "w"
+},
+"audio/s0457.mp3": {
+"text": "There is a cat under the table.",
+"voice": "f"
+},
+"audio/w-chairs.mp3": {
+"text": "chairs",
+"voice": "w"
+},
+"audio/s0458.mp3": {
+"text": "There aren't any chairs.",
+"voice": "m"
+},
+"audio/s0459.mp3": {
+"text": "There is a problem.",
+"voice": "f"
+},
+"audio/w-bedrooms.mp3": {
+"text": "bedrooms",
+"voice": "w"
+},
+"audio/w-upstairs.mp3": {
+"text": "upstairs",
+"voice": "w"
+},
+"audio/s0460.mp3": {
+"text": "There are three bedrooms upstairs.",
+"voice": "m"
+},
+"audio/w-airport.mp3": {
+"text": "airport",
+"voice": "w"
+},
+"audio/s0461.mp3": {
+"text": "Is there a bus to the airport?",
+"voice": "f"
+},
+"audio/w-snow.mp3": {
+"text": "snow",
+"voice": "w"
+},
+"audio/s0462.mp3": {
+"text": "There is a lot of snow.",
+"voice": "m"
+},
+"audio/s0463.mp3": {
+"text": "My town is small, but it's nice.",
+"voice": "f"
+},
+"audio/w-school.mp3": {
+"text": "school",
+"voice": "w"
+},
+"audio/s0464.mp3": {
+"text": "There is a bank, a school, and a big park.",
+"voice": "m"
+},
+"audio/s0465.mp3": {
+"text": "There are many old houses.",
+"voice": "f"
+},
+"audio/w-shops.mp3": {
+"text": "shops",
+"voice": "w"
+},
+"audio/s0466.mp3": {
+"text": "There isn't a mall, but there are small shops.",
+"voice": "m"
+},
+"audio/s0467.mp3": {
+"text": "Is there a pharmacy? Yes, near the park.",
+"voice": "f"
+},
+"audio/s0468.mp3": {
+"text": "There is a bus to the city every hour.",
+"voice": "m"
+},
+"audio/s0469.mp3": {
+"text": "There is a park near my house.",
+"voice": "f"
+},
+"audio/w-fridge.mp3": {
+"text": "fridge",
+"voice": "w"
+},
+"audio/s0470.mp3": {
+"text": "There are no eggs in the fridge.",
+"voice": "m"
+},
+"audio/w-order.mp3": {
+"text": "order",
+"voice": "w"
+},
+"audio/s0471.mp3": {
+"text": "There is a problem with my order.",
+"voice": "f"
+},
+"audio/w-restaurants.mp3": {
+"text": "restaurants",
+"voice": "w"
+},
+"audio/s0472.mp3": {
+"text": "There are many good restaurants here.",
+"voice": "m"
+},
+"audio/w-shop.mp3": {
+"text": "shop",
+"voice": "w"
+},
+"audio/w-corner.mp3": {
+"text": "corner",
+"voice": "w"
+},
+"audio/s0473.mp3": {
+"text": "There is a coffee shop on the corner.",
+"voice": "f"
+},
+"audio/w-beds.mp3": {
+"text": "beds",
+"voice": "w"
+},
+"audio/s0474.mp3": {
+"text": "There are two beds in the room.",
+"voice": "m"
+},
+"audio/w-gas.mp3": {
+"text": "gas",
+"voice": "w"
+},
+"audio/w-station.mp3": {
+"text": "station",
+"voice": "w"
+},
+"audio/s0475.mp3": {
+"text": "Is there a gas station near here?",
+"voice": "f"
+},
+"audio/s0476.mp3": {
+"text": "My apartment has two bedrooms.",
+"voice": "m"
+},
+"audio/w-living.mp3": {
+"text": "living",
+"voice": "w"
+},
+"audio/s0477.mp3": {
+"text": "The kitchen is next to the living room.",
+"voice": "f"
+},
+"audio/s0478.mp3": {
+"text": "The bathroom is upstairs.",
+"voice": "m"
+},
+"audio/s0479.mp3": {
+"text": "I sleep in a small room.",
+"voice": "f"
+},
+"audio/w-sofa.mp3": {
+"text": "sofa",
+"voice": "w"
+},
+"audio/w-comfortable.mp3": {
+"text": "comfortable",
+"voice": "w"
+},
+"audio/s0480.mp3": {
+"text": "The sofa is very comfortable.",
+"voice": "m"
+},
+"audio/w-yard.mp3": {
+"text": "yard",
+"voice": "w"
+},
+"audio/s0481.mp3": {
+"text": "Our yard is green.",
+"voice": "f"
+},
+"audio/w-lamp.mp3": {
+"text": "lamp",
+"voice": "w"
+},
+"audio/s0482.mp3": {
+"text": "The lamp is on the desk.",
+"voice": "m"
+},
+"audio/s0483.mp3": {
+"text": "I clean my room on Saturday.",
+"voice": "f"
+},
+"audio/w-door.mp3": {
+"text": "door",
+"voice": "w"
+},
+"audio/s0484.mp3": {
+"text": "The door is open.",
+"voice": "m"
+},
+"audio/w-balcony.mp3": {
+"text": "balcony",
+"voice": "w"
+},
+"audio/s0485.mp3": {
+"text": "We have a nice balcony.",
+"voice": "f"
+},
+"audio/w-empty.mp3": {
+"text": "empty",
+"voice": "w"
+},
+"audio/s0486.mp3": {
+"text": "The fridge is empty.",
+"voice": "m"
+},
+"audio/w-bright.mp3": {
+"text": "bright",
+"voice": "w"
+},
+"audio/s0487.mp3": {
+"text": "My room is very bright.",
+"voice": "f"
+},
+"audio/s0488.mp3": {
+"text": "Welcome to my apartment!",
+"voice": "m"
+},
+"audio/s0489.mp3": {
+"text": "This is the living room. The sofa is very comfortable.",
+"voice": "f"
+},
+"audio/s0490.mp3": {
+"text": "There are two bedrooms and one bathroom.",
+"voice": "m"
+},
+"audio/s0491.mp3": {
+"text": "My room is small, but it's very bright.",
+"voice": "f"
+},
+"audio/w-also.mp3": {
+"text": "also",
+"voice": "w"
+},
+"audio/s0492.mp3": {
+"text": "We also have a nice balcony.",
+"voice": "m"
+},
+"audio/s0493.mp3": {
+"text": "The living room is very bright.",
+"voice": "f"
+},
+"audio/s0494.mp3": {
+"text": "I clean the house on Saturdays.",
+"voice": "m"
+},
+"audio/w-bedroom.mp3": {
+"text": "bedroom",
+"voice": "w"
+},
+"audio/w-cozy.mp3": {
+"text": "cozy",
+"voice": "w"
+},
+"audio/s0495.mp3": {
+"text": "My bedroom is small but cozy.",
+"voice": "f"
+},
+"audio/s0496.mp3": {
+"text": "The house has a big yard.",
+"voice": "m"
+},
+"audio/w-dining.mp3": {
+"text": "dining",
+"voice": "w"
+},
+"audio/s0497.mp3": {
+"text": "We eat in the dining room.",
+"voice": "f"
+},
+"audio/w-washing.mp3": {
+"text": "washing",
+"voice": "w"
+},
+"audio/w-machine.mp3": {
+"text": "machine",
+"voice": "w"
+},
+"audio/w-basement.mp3": {
+"text": "basement",
+"voice": "w"
+},
+"audio/s0498.mp3": {
+"text": "The washing machine is in the basement.",
+"voice": "m"
+},
+"audio/w-close.mp3": {
+"text": "Close",
+"voice": "w"
+},
+"audio/w-window.mp3": {
+"text": "window",
+"voice": "w"
+},
+"audio/s0499.mp3": {
+"text": "Close the window, please.",
+"voice": "f"
+},
+"audio/w-third.mp3": {
+"text": "third",
+"voice": "w"
+},
+"audio/w-floor.mp3": {
+"text": "floor",
+"voice": "w"
+},
+"audio/s0500.mp3": {
+"text": "I live on the third floor.",
+"voice": "m"
+},
+"audio/w-sky.mp3": {
+"text": "sky",
+"voice": "w"
+},
+"audio/s0501.mp3": {
+"text": "The sky is blue.",
+"voice": "f"
+},
+"audio/w-black.mp3": {
+"text": "black",
+"voice": "w"
+},
+"audio/s0502.mp3": {
+"text": "I have a black cat.",
+"voice": "m"
+},
+"audio/w-wears.mp3": {
+"text": "wears",
+"voice": "w"
+},
+"audio/w-dress.mp3": {
+"text": "dress",
+"voice": "w"
+},
+"audio/s0503.mp3": {
+"text": "She wears a red dress.",
+"voice": "f"
+},
+"audio/w-light.mp3": {
+"text": "light",
+"voice": "w"
+},
+"audio/s0504.mp3": {
+"text": "This bag is very light.",
+"voice": "m"
+},
+"audio/s0505.mp3": {
+"text": "The water is cold.",
+"voice": "f"
+},
+"audio/w-yellow.mp3": {
+"text": "yellow",
+"voice": "w"
+},
+"audio/s0506.mp3": {
+"text": "He has a yellow car.",
+"voice": "m"
+},
+"audio/w-strong.mp3": {
+"text": "strong",
+"voice": "w"
+},
+"audio/s0507.mp3": {
+"text": "My grandmother is old but strong.",
+"voice": "f"
+},
+"audio/s0508.mp3": {
+"text": "The test is easy.",
+"voice": "m"
+},
+"audio/w-story.mp3": {
+"text": "story",
+"voice": "w"
+},
+"audio/s0509.mp3": {
+"text": "That is a long story.",
+"voice": "f"
+},
+"audio/s0510.mp3": {
+"text": "The street is quiet at night.",
+"voice": "m"
+},
+"audio/w-brown.mp3": {
+"text": "brown",
+"voice": "w"
+},
+"audio/s0511.mp3": {
+"text": "I like the brown shoes.",
+"voice": "f"
+},
+"audio/s0512.mp3": {
+"text": "The baby is very cute.",
+"voice": "m"
+},
+"audio/w-sun.mp3": {
+"text": "sun",
+"voice": "w"
+},
+"audio/s0513.mp3": {
+"text": "Today the sky is blue and the sun is warm.",
+"voice": "f"
+},
+"audio/w-wear.mp3": {
+"text": "wear",
+"voice": "w"
+},
+"audio/s0514.mp3": {
+"text": "I wear my white shirt and brown shoes.",
+"voice": "m"
+},
+"audio/s0515.mp3": {
+"text": "My sister wears a red dress.",
+"voice": "f"
+},
+"audio/w-walk.mp3": {
+"text": "walk",
+"voice": "w"
+},
+"audio/s0516.mp3": {
+"text": "We walk in a quiet green park.",
+"voice": "m"
+},
+"audio/w-lake.mp3": {
+"text": "lake",
+"voice": "w"
+},
+"audio/s0517.mp3": {
+"text": "The water in the lake is cold.",
+"voice": "f"
+},
+"audio/s0518.mp3": {
+"text": "It is a beautiful day.",
+"voice": "m"
+},
+"audio/s0519.mp3": {
+"text": "The coffee is hot.",
+"voice": "f"
+},
+"audio/s0520.mp3": {
+"text": "This street is very quiet.",
+"voice": "m"
+},
+"audio/s0521.mp3": {
+"text": "He has a green jacket.",
+"voice": "f"
+},
+"audio/s0522.mp3": {
+"text": "My bag is heavy.",
+"voice": "m"
+},
+"audio/s0523.mp3": {
+"text": "Her new shoes are white.",
+"voice": "f"
+},
+"audio/w-dark.mp3": {
+"text": "dark",
+"voice": "w"
+},
+"audio/s0524.mp3": {
+"text": "The room is dark.",
+"voice": "m"
+},
+"audio/w-pants.mp3": {
+"text": "pants",
+"voice": "w"
+},
+"audio/s0525.mp3": {
+"text": "These pants are too short.",
+"voice": "f"
+},
+"audio/s0526.mp3": {
+"text": "The keys are in my bag.",
+"voice": "m"
+},
+"audio/w-shelf.mp3": {
+"text": "shelf",
+"voice": "w"
+},
+"audio/s0527.mp3": {
+"text": "The book is on the shelf.",
+"voice": "f"
+},
+"audio/s0528.mp3": {
+"text": "The shoes are under the bed.",
+"voice": "m"
+},
+"audio/w-hotel.mp3": {
+"text": "hotel",
+"voice": "w"
+},
+"audio/s0529.mp3": {
+"text": "The bank is next to the hotel.",
+"voice": "f"
+},
+"audio/w-front.mp3": {
+"text": "front",
+"voice": "w"
+},
+"audio/s0530.mp3": {
+"text": "The car is in front of the house.",
+"voice": "m"
+},
+"audio/w-behind.mp3": {
+"text": "behind",
+"voice": "w"
+},
+"audio/s0531.mp3": {
+"text": "The garden is behind the house.",
+"voice": "f"
+},
+"audio/w-between.mp3": {
+"text": "between",
+"voice": "w"
+},
+"audio/w-library.mp3": {
+"text": "library",
+"voice": "w"
+},
+"audio/s0532.mp3": {
+"text": "The school is between the park and the library.",
+"voice": "m"
+},
+"audio/s0533.mp3": {
+"text": "My phone is on the sofa.",
+"voice": "f"
+},
+"audio/s0534.mp3": {
+"text": "The milk is in the fridge.",
+"voice": "m"
+},
+"audio/w-chair.mp3": {
+"text": "chair",
+"voice": "w"
+},
+"audio/s0535.mp3": {
+"text": "The cat is under the chair.",
+"voice": "f"
+},
+"audio/w-picture.mp3": {
+"text": "picture",
+"voice": "w"
+},
+"audio/w-above.mp3": {
+"text": "above",
+"voice": "w"
+},
+"audio/s0536.mp3": {
+"text": "The picture is above the bed.",
+"voice": "m"
+},
+"audio/w-market.mp3": {
+"text": "market",
+"voice": "w"
+},
+"audio/s0537.mp3": {
+"text": "The station is near the market.",
+"voice": "f"
+},
+"audio/s0538.mp3": {
+"text": "Where are my keys?",
+"voice": "m"
+},
+"audio/s0539.mp3": {
+"text": "They aren't in my bag or on the table.",
+"voice": "f"
+},
+"audio/s0540.mp3": {
+"text": "Are they under the sofa? No.",
+"voice": "m"
+},
+"audio/s0541.mp3": {
+"text": "Are they in the car? No.",
+"voice": "f"
+},
+"audio/w-oh.mp3": {
+"text": "Oh",
+"voice": "w"
+},
+"audio/w-pocket.mp3": {
+"text": "pocket",
+"voice": "w"
+},
+"audio/s0542.mp3": {
+"text": "Oh! They are in my pocket!",
+"voice": "m"
+},
+"audio/s0543.mp3": {
+"text": "Now I can go to work.",
+"voice": "f"
+},
+"audio/s0544.mp3": {
+"text": "My phone is on the table.",
+"voice": "m"
+},
+"audio/w-post.mp3": {
+"text": "post",
+"voice": "w"
+},
+"audio/s0545.mp3": {
+"text": "The bank is next to the post office.",
+"voice": "f"
+},
+"audio/w-counter.mp3": {
+"text": "counter",
+"voice": "w"
+},
+"audio/s0546.mp3": {
+"text": "My keys are on the kitchen counter.",
+"voice": "m"
+},
+"audio/s0547.mp3": {
+"text": "The picture is above the sofa.",
+"voice": "f"
+},
+"audio/s0548.mp3": {
+"text": "The kids are in the garden.",
+"voice": "m"
+},
+"audio/w-head.mp3": {
+"text": "head",
+"voice": "w"
+},
+"audio/s0549.mp3": {
+"text": "Your glasses are on your head!",
+"voice": "f"
+},
+"audio/w-remote.mp3": {
+"text": "remote",
+"voice": "w"
+},
+"audio/w-pillow.mp3": {
+"text": "pillow",
+"voice": "w"
+},
+"audio/s0550.mp3": {
+"text": "The remote is under the pillow.",
+"voice": "m"
+},
+"audio/w-swim.mp3": {
+"text": "swim",
+"voice": "w"
+},
+"audio/s0551.mp3": {
+"text": "I can swim.",
+"voice": "f"
+},
+"audio/w-languages.mp3": {
+"text": "languages",
+"voice": "w"
+},
+"audio/s0552.mp3": {
+"text": "She can speak three languages.",
+"voice": "m"
+},
+"audio/w-help.mp3": {
+"text": "help",
+"voice": "w"
+},
+"audio/s0553.mp3": {
+"text": "Can you help me?",
+"voice": "f"
+},
+"audio/w-can-t.mp3": {
+"text": "can't",
+"voice": "w"
+},
+"audio/w-drive.mp3": {
+"text": "drive",
+"voice": "w"
+},
+"audio/s0554.mp3": {
+"text": "He can't drive.",
+"voice": "m"
+},
+"audio/s0555.mp3": {
+"text": "We can meet tomorrow.",
+"voice": "f"
+},
+"audio/w-sit.mp3": {
+"text": "sit",
+"voice": "w"
+},
+"audio/s0556.mp3": {
+"text": "Can I sit here?",
+"voice": "m"
+},
+"audio/w-come.mp3": {
+"text": "come",
+"voice": "w"
+},
+"audio/s0557.mp3": {
+"text": "They can't come today.",
+"voice": "f"
+},
+"audio/s0558.mp3": {
+"text": "My son can read now.",
+"voice": "m"
+},
+"audio/w-find.mp3": {
+"text": "find",
+"voice": "w"
+},
+"audio/w-wallet.mp3": {
+"text": "wallet",
+"voice": "w"
+},
+"audio/s0559.mp3": {
+"text": "I can't find my wallet.",
+"voice": "f"
+},
+"audio/w-use.mp3": {
+"text": "use",
+"voice": "w"
+},
+"audio/w-computer.mp3": {
+"text": "computer",
+"voice": "w"
+},
+"audio/s0560.mp3": {
+"text": "You can use my computer.",
+"voice": "m"
+},
+"audio/w-piano.mp3": {
+"text": "piano",
+"voice": "w"
+},
+"audio/s0561.mp3": {
+"text": "She can play the piano.",
+"voice": "f"
+},
+"audio/w-maria.mp3": {
+"text": "Maria",
+"voice": "w"
+},
+"audio/w-amazing.mp3": {
+"text": "amazing",
+"voice": "w"
+},
+"audio/s0562.mp3": {
+"text": "My friend Maria is amazing.",
+"voice": "m"
+},
+"audio/w-well.mp3": {
+"text": "well",
+"voice": "w"
+},
+"audio/s0563.mp3": {
+"text": "She can play the piano, and she can cook very well.",
+"voice": "f"
+},
+"audio/s0564.mp3": {
+"text": "But she can't swim!",
+"voice": "m"
+},
+"audio/s0565.mp3": {
+"text": "I can swim, so I can help her.",
+"voice": "f"
+},
+"audio/w-pool.mp3": {
+"text": "pool",
+"voice": "w"
+},
+"audio/s0566.mp3": {
+"text": "We can go to the pool on Saturday.",
+"voice": "m"
+},
+"audio/s0567.mp3": {
+"text": "I can't find my keys.",
+"voice": "f"
+},
+"audio/w-guitar.mp3": {
+"text": "guitar",
+"voice": "w"
+},
+"audio/s0568.mp3": {
+"text": "He can play the guitar.",
+"voice": "m"
+},
+"audio/w-hear.mp3": {
+"text": "hear",
+"voice": "w"
+},
+"audio/s0569.mp3": {
+"text": "I can't hear you.",
+"voice": "f"
+},
+"audio/s0570.mp3": {
+"text": "Can you open the door, please?",
+"voice": "m"
+},
+"audio/s0571.mp3": {
+"text": "She can't come today.",
+"voice": "f"
+},
+"audio/w-ask.mp3": {
+"text": "ask",
+"voice": "w"
+},
+"audio/s0572.mp3": {
+"text": "Can I ask a question?",
+"voice": "m"
+},
+"audio/s0573.mp3": {
+"text": "Can you speak slowly, please?",
+"voice": "f"
+},
+"audio/w-persian.mp3": {
+"text": "Persian",
+"voice": "w"
+},
+"audio/s0574.mp3": {
+"text": "I can cook Persian food.",
+"voice": "m"
+},
+"audio/s0575.mp3": {
+"text": "We can't park here.",
+"voice": "f"
+},
+"audio/w-reading.mp3": {
+"text": "reading",
+"voice": "w"
+},
+"audio/s0576.mp3": {
+"text": "I am reading a book.",
+"voice": "m"
+},
+"audio/w-cooking.mp3": {
+"text": "cooking",
+"voice": "w"
+},
+"audio/s0577.mp3": {
+"text": "She is cooking dinner.",
+"voice": "f"
+},
+"audio/w-playing.mp3": {
+"text": "playing",
+"voice": "w"
+},
+"audio/s0578.mp3": {
+"text": "They are playing outside.",
+"voice": "m"
+},
+"audio/w-raining.mp3": {
+"text": "raining",
+"voice": "w"
+},
+"audio/s0579.mp3": {
+"text": "It is raining now.",
+"voice": "f"
+},
+"audio/w-waiting.mp3": {
+"text": "waiting",
+"voice": "w"
+},
+"audio/s0580.mp3": {
+"text": "We are waiting for the bus.",
+"voice": "m"
+},
+"audio/w-doing.mp3": {
+"text": "doing",
+"voice": "w"
+},
+"audio/s0581.mp3": {
+"text": "What are you doing?",
+"voice": "f"
+},
+"audio/w-talking.mp3": {
+"text": "talking",
+"voice": "w"
+},
+"audio/s0582.mp3": {
+"text": "He is talking on the phone.",
+"voice": "m"
+},
+"audio/s0583.mp3": {
+"text": "The baby is sleeping.",
+"voice": "f"
+},
+"audio/w-listening.mp3": {
+"text": "listening",
+"voice": "w"
+},
+"audio/s0584.mp3": {
+"text": "Are you listening to me?",
+"voice": "m"
+},
+"audio/w-watching.mp3": {
+"text": "watching",
+"voice": "w"
+},
+"audio/s0585.mp3": {
+"text": "I'm not watching TV.",
+"voice": "f"
+},
+"audio/w-wearing.mp3": {
+"text": "wearing",
+"voice": "w"
+},
+"audio/w-hat.mp3": {
+"text": "hat",
+"voice": "w"
+},
+"audio/s0586.mp3": {
+"text": "She is wearing a hat.",
+"voice": "m"
+},
+"audio/w-drinking.mp3": {
+"text": "drinking",
+"voice": "w"
+},
+"audio/s0587.mp3": {
+"text": "My parents are drinking tea.",
+"voice": "f"
+},
+"audio/s0588.mp3": {
+"text": "It is Sunday evening, and it is raining.",
+"voice": "m"
+},
+"audio/s0589.mp3": {
+"text": "My mother is cooking dinner.",
+"voice": "f"
+},
+"audio/s0590.mp3": {
+"text": "My father is reading the news.",
+"voice": "m"
+},
+"audio/s0591.mp3": {
+"text": "My brother is talking on the phone.",
+"voice": "f"
+},
+"audio/w-learning.mp3": {
+"text": "learning",
+"voice": "w"
+},
+"audio/s0592.mp3": {
+"text": "And me? I am learning English!",
+"voice": "m"
+},
+"audio/s0593.mp3": {
+"text": "I'm waiting for the bus.",
+"voice": "f"
+},
+"audio/w-having.mp3": {
+"text": "having",
+"voice": "w"
+},
+"audio/s0594.mp3": {
+"text": "We are having dinner.",
+"voice": "m"
+},
+"audio/s0595.mp3": {
+"text": "I'm looking for my glasses.",
+"voice": "f"
+},
+"audio/w-studying.mp3": {
+"text": "studying",
+"voice": "w"
+},
+"audio/s0596.mp3": {
+"text": "She is studying for a test.",
+"voice": "m"
+},
+"audio/s0597.mp3": {
+"text": "They are watching a movie.",
+"voice": "f"
+},
+"audio/w-working.mp3": {
+"text": "working",
+"voice": "w"
+},
+"audio/s0598.mp3": {
+"text": "I'm working from home today.",
+"voice": "m"
+},
+"audio/w-going.mp3": {
+"text": "going",
+"voice": "w"
+},
+"audio/s0599.mp3": {
+"text": "Where are you going?",
+"voice": "f"
+},
+"audio/s0600.mp3": {
+"text": "The kids are playing in the yard.",
+"voice": "m"
 }
 }

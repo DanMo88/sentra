@@ -1,4 +1,4 @@
-/* Sentra v1 (sample: A1 lesson 1) — hash router, six modes, placement test, bookmarks, localStorage progress */
+/* Sentra v2 (full course A1–C2) — hash router, six modes, placement test, bookmarks, localStorage progress */
 (function () {
   'use strict';
   const A = window.SentraAudio, LESSONS = window.SENTRA_LESSONS || [];
@@ -8,7 +8,15 @@
   const save = () => { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) {} };
   const fd = n => String(n).replace(/\d/g, d => '۰۱۲۳۴۵۶۷۸۹'[d]);
   const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
-  const ALL = LESSONS.flatMap(l => l.s.map(s => Object.assign(s, { lesson: l.id })));
+  const pad = n => String(n).padStart(4, '0');
+  const wslug = w => w.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 80).replace(/-+$/, '');
+  const bareW = w => w.replace(/[^A-Za-z'\-]/g, '').replace(/^[-']+|[-']+$/g, '') || w.replace(/[^A-Za-z]/g, '');
+  LESSONS.forEach(l => {
+    l.fa = l.title; l.en = 'Lesson ' + l.num;
+    l.s = l.s.map(([en, fa, rd], k) => { const n = l.n0 + k, ws = en.split(/\s+/), rs = rd.split(/\s+/);
+      return { id: 's' + pad(n), n, en, fa, rd, v: n % 2 ? 'f' : 'm', lesson: l.id, t: ws.map((w, j) => ({ w, r: rs[j] || '', a: 'w-' + wslug(bareW(w)) })) }; });
+  });
+  const ALL = LESSONS.flatMap(l => l.s);
   const byId = id => ALL.find(s => s.id === id);
   const lessonById = id => LESSONS.find(l => l.id === id);
   const LEVELS = [
@@ -18,6 +26,7 @@
     { code: 'B2', en: 'Upper Intermediate', fa: 'بالاتر از متوسط', c: 'c4', n: 26 },
     { code: 'C1', en: 'Advanced', fa: 'پیشرفته', c: 'c5', n: 22 },
     { code: 'C2', en: 'Proficient', fa: 'تسلط کامل', c: 'c6', n: 20 }];
+  LEVELS.forEach(L => { const c = LESSONS.filter(l => l.level === L.code).length; if (c) L.n = c; });
   const MODES = [
     { id: 'practice', ic: '🧩', fa: 'تمرین کن', c: 'c1' },
     { id: 'speak', ic: '🎤', fa: 'بگو', c: 'c6' },
@@ -72,7 +81,7 @@
     $app.querySelector('[data-bms]').onclick = () => go('#/bookmarks');
     $app.querySelectorAll('[data-level]').forEach(b => b.onclick = () => {
       const code = b.dataset.level;
-      if (LESSONS.some(l => l.level === code)) go('#/level/' + code); else toast(`سطح ${code} در نسخهٔ نمونه هنوز ساخته نشده است`);
+      if (LESSONS.some(l => l.level === code)) go('#/level/' + code); else toast(`سطح ${code} به‌زودی آماده می‌شود`);
     });
   }
 
@@ -83,17 +92,20 @@
     $app.innerHTML = header(`<span class="en">${L.code}</span> <span class="dot">●</span> ${L.fa}`, { back: true, pill: `<span class="pill gray en">${L.en}</span>` }) +
       `<main class="body scroll">${ls.map(l => {
         const n = l.s.filter(s => S.seen[s.id]).length, done = n === l.s.length;
-        return `<button class="card lrow ${L.c} ${done ? 'done' : ''}" data-lesson="${l.id}"><span class="num">${fd(l.num)}</span><span class="t"><b>درس ${fd(l.num)} · ${esc(l.fa)}</b><span class="d en">${esc(l.title)} · ${fd(l.s.length)} جمله</span><span class="bar"><i style="width:${Math.round(n / l.s.length * 100)}%"></i></span></span><span class="st">${done ? '✓ تمام' : n ? fd(n) + ' از ' + fd(l.s.length) : 'شروع'}</span></button>`;
+        return `<button class="card lrow ${L.c} ${done ? 'done' : ''}" data-lesson="${l.id}"><span class="num">${fd(l.num)}</span><span class="t"><b>درس ${fd(l.num)} · ${esc(l.fa)}</b><span class="d"><span class="en">${l.en}</span> · ${fd(l.s.length)} جمله</span><span class="bar"><i style="width:${Math.round(n / l.s.length * 100)}%"></i></span></span><span class="st">${done ? '✓ تمام' : n ? fd(n) + ' از ' + fd(l.s.length) : 'شروع'}</span></button>`;
       }).join('')}
       ${Array.from({ length: L.n - ls.length }, (_, i) => `<div class="card lrow soon ${L.c}"><span class="num">${fd(ls.length + i + 1)}</span><span class="t"><b>درس ${fd(ls.length + i + 1)}</b><span class="d">در نسخهٔ کامل</span></span><span class="st">به‌زودی</span></div>`).join('')}</main>`;
     bindBack('#/');
     $app.querySelectorAll('[data-lesson]').forEach(b => b.onclick = () => go('#/lesson/' + b.dataset.lesson));
+    const nx = $app.querySelector('.lrow:not(.done)[data-lesson]');
+    if (nx && nx !== $app.querySelector('.lrow[data-lesson]')) nx.scrollIntoView({ block: 'center' });
   }
 
   /* ---------- lesson: big sentence, autoplay + auto-advance, six modes ---------- */
   function lesson(id) {
     const l = lessonById(id) || LESSONS[0], N = l.s.length, t = tok;
     let i = Math.min(S.pos[l.id] || 0, N - 1), playing = true, finished = false;
+    const nextL = LESSONS[LESSONS.indexOf(l) + 1];
     $app.innerHTML = header(`درس ${fd(l.num)} <span class="dot">●</span> <span class="blue">${esc(l.fa)}</span>`, { back: true, pill: `<span class="pill en">${l.level}</span>` }) +
       `<main class="body"><div id="pg"></div><section class="card scard" id="sc"></section>
         <div class="ctrls"><button class="btn btn-line" data-prev>→ قبلی</button><button class="btn btn-coral main" data-pp>⏸ توقف</button><button class="btn btn-line" data-next>بعدی ←</button></div>
@@ -103,8 +115,9 @@
     function paint() {
       const s = l.s[i];
       pg.innerHTML = progBar(i, N);
-      if (finished) { sc.innerHTML = `<div class="done-box"><span class="big">🎉</span><b>درس تمام شد!</b><p>هر ${fd(N)} جمله را شنیدی. حالا با «تمرین کن» جمله‌ها را خودت بساز.</p><button class="btn btn-coral" data-again>↺ دوباره از اول</button></div>`;
-        sc.querySelector('[data-again]').onclick = () => { finished = false; i = 0; playing = true; run(); }; return; }
+      if (finished) { sc.innerHTML = `<div class="done-box"><span class="big">🎉</span><b>درس تمام شد!</b><p>هر ${fd(N)} جمله را شنیدی. حالا با «تمرین کن» جمله‌ها را خودت بساز.</p><div class="btnrow">${nextL ? '<button class="btn btn-coral" data-nextl>درس بعد ←</button>' : ''}<button class="btn btn-line" data-again>↺ دوباره</button></div></div>`;
+        sc.querySelector('[data-again]').onclick = () => { finished = false; i = 0; playing = true; run(); };
+        const nb = sc.querySelector('[data-nextl]'); if (nb) nb.onclick = () => go('#/lesson/' + nextL.id); return; }
       sc.innerHTML = `<div class="top"><span class="gnum en">#${s.n}</span><span class="voice">${s.v === 'm' ? '👨 صدای مرد' : '👩 صدای زن'}</span><button class="bm ${isBm(s.id) ? 'on' : ''}" data-bm aria-label="نشان کردن">${isBm(s.id) ? '★' : '☆'}</button></div>
         <div class="smain fadein"><p class="${sizeCls(s)}" id="sen">${esc(s.en)}</p><p class="sfa">${esc(s.fa)}</p><p class="srd">${esc(s.rd)}</p></div>`;
       sc.querySelector('[data-bm]').onclick = e => { const on = toggleBm(s.id); e.currentTarget.classList.toggle('on', on); e.currentTarget.textContent = on ? '★' : '☆'; };
@@ -180,7 +193,7 @@
     function show() {
       if (!alive(t)) return;
       if (i >= N) return doneScreen(mx, pg, `همهٔ ${fd(N)} جمله را خودت ساختی.`, () => { i = 0; show(); });
-      const s = list[i], toks = s.t.map((x, k) => Object.assign({ k, b: x.w.replace(/[^A-Za-z'\-]/g, '') }, x));
+      const s = list[i], toks = s.t.map((x, k) => Object.assign({ k, b: bareW(x.w) }, x));
       const order = toks.slice().sort(() => Math.random() - .5); let pos = 0, busy = false, miss = 0;
       pg.innerHTML = progBar(i, N);
       mx.innerHTML = `<section class="card scard" style="gap:var(--g);justify-content:space-between"><div class="top"><span class="gnum en">#${s.n}</span><span class="voice">کلمه‌ها را به ترتیب بزن</span><button class="bm ${isBm(s.id) ? 'on' : ''}" data-bm>${isBm(s.id) ? '★' : '☆'}</button></div>
@@ -397,29 +410,44 @@
 
   /* ---------- placement test (10 questions, A1 → C2) ---------- */
   const TEST = [
-    { q: 'جای خالی را پر کن', s: 'I ___ a student.', o: ['am', 'is', 'are', 'be'], a: 0 },
-    { q: 'معنی درست کدام است؟', s: 'See you tomorrow.', o: ['فردا می‌بینمت.', 'دیروز دیدمت.', 'خوش آمدی.', 'شب بخیر.'], a: 0, fa: true },
-    { q: 'جای خالی را پر کن', s: 'She ___ to work every day.', o: ['go', 'goes', 'going', 'gone'], a: 1 },
-    { q: 'جای خالی را پر کن', s: 'Last night we ___ a movie.', o: ['watch', 'watches', 'watched', 'are watching'], a: 2 },
-    { q: 'جای خالی را پر کن', s: 'If it rains, we ___ at home.', o: ['stay', 'will stay', 'stayed', 'would stayed'], a: 1 },
-    { q: 'جای خالی را پر کن', s: "I've lived here ___ 2019.", o: ['for', 'from', 'since', 'during'], a: 2 },
-    { q: 'جای خالی را پر کن', s: 'The report must ___ by Friday.', o: ['finish', 'be finished', 'finishing', 'have finish'], a: 1 },
-    { q: 'معنی درست کدام است؟', s: "I'm looking forward to the trip.", o: ['مشتاق سفرم.', 'دنبال سفر می‌گردم.', 'از سفر برگشتم.', 'سفر را لغو کردم.'], a: 0, fa: true },
-    { q: 'کدام درست است؟', s: 'Hardly ___ when it started to rain.', o: ['we had left', 'had we left', 'we left', 'have we left'], a: 1 },
-    { q: 'نزدیک‌ترین معنی', s: 'Smartphones are ubiquitous.', o: ['everywhere', 'expensive', 'fragile', 'old-fashioned'], a: 0 }];
+    { lv: 0, q: 'جای خالی را پر کن', s: 'I ___ from Iran.', o: ['am', 'is', 'are', 'be'], a: 0 },
+    { lv: 0, q: 'معنی درست کدام است؟', s: 'Where do you live?', o: ['کجا زندگی می‌کنی؟', 'کجا کار می‌کنی؟', 'اسمت چیست؟', 'کی می‌آیی؟'], a: 0, fa: true },
+    { lv: 0, q: 'جای خالی را پر کن', s: 'She ___ two brothers.', o: ['has', 'have', 'is', 'having'], a: 0 },
+    { lv: 0, q: 'جای خالی را پر کن', s: '___ you like coffee?', o: ['Do', 'Does', 'Are', 'Is'], a: 0 },
+    { lv: 1, q: 'جای خالی را پر کن', s: 'Last night we ___ a great movie.', o: ['watched', 'watch', 'watches', 'are watching'], a: 0 },
+    { lv: 1, q: 'جای خالی را پر کن', s: 'My brother is ___ than me.', o: ['taller', 'more tall', 'tallest', 'the tallest'], a: 0 },
+    { lv: 1, q: 'جای خالی را پر کن', s: 'In the car, you ___ wear a seat belt.', o: ['have to', 'has to', 'having to', 'to have'], a: 0 },
+    { lv: 1, q: 'جای خالی را پر کن', s: 'Have you ever ___ to Canada?', o: ['been', 'went', 'go', 'going'], a: 0 },
+    { lv: 2, q: 'جای خالی را پر کن', s: 'If I ___ more money, I would travel.', o: ['had', 'have', 'will have', 'would have'], a: 0 },
+    { lv: 2, q: 'جای خالی را پر کن', s: 'This house ___ in nineteen fifty.', o: ['was built', 'built', 'is building', 'has build'], a: 0 },
+    { lv: 2, q: 'جای خالی را پر کن', s: 'I ___ live in Ohio, but now I live in Texas.', o: ['used to', 'use to', 'was used to', 'am used to'], a: 0 },
+    { lv: 3, q: 'جای خالی را پر کن', s: 'If I had known, I ___ you.', o: ['would have called', 'would call', 'will call', 'had called'], a: 0 },
+    { lv: 3, q: 'جای خالی را پر کن', s: 'I regret it. I wish I ___ that.', o: ["hadn't said", "didn't say", "don't say", "won't say"], a: 0 },
+    { lv: 3, q: 'جای خالی را پر کن', s: 'We need to ___ a better plan.', o: ['come up with', 'come up to', 'come across with', 'come over to'], a: 0 },
+    { lv: 4, q: 'جای خالی را پر کن', s: 'Rarely ___ such a talented student.', o: ['have I met', 'I have met', 'I met', 'did I met'], a: 0 },
+    { lv: 4, q: 'جای خالی را پر کن', s: "It's essential that she ___ on time.", o: ['be', 'is being', 'was', 'will'], a: 0 },
+    { lv: 4, q: 'معنی درست کدام است؟', s: 'She has a chip on her shoulder.', o: ['از چیزی دلخور است و زود بهش برمی‌خورد', 'شانه‌اش درد می‌کند', 'خیلی خوش‌شانس است', 'کار زیادی روی دوشش است'], a: 0, fa: true },
+    { lv: 5, q: 'نزدیک‌ترین معنی', s: 'Smartphones are ubiquitous.', o: ['found everywhere', 'very rare', 'extremely old', 'easily broken'], a: 0 },
+    { lv: 5, q: 'جای خالی را پر کن', s: 'Little ___ that the decision would change everything.', o: ['did they know', 'they knew', 'knew they', 'they did know'], a: 0 },
+    { lv: 5, q: 'جای خالی را پر کن', s: 'Her argument was so ___ that nobody could refute it.', o: ['cogent', 'tenuous', 'flimsy', 'specious'], a: 0 }];
+  /* level = first band (A1→C2) where fewer than 60% of that band's questions were right */
+  function placeLevel(right) {
+    for (let lv = 0; lv < 6; lv++) { const qs = TEST.map((q, j) => j).filter(j => TEST[j].lv === lv); const ok = qs.filter(j => right[j]).length; if (ok < Math.ceil(qs.length * .6)) return lv; }
+    return 5;
+  }
   function placement() {
     $app.innerHTML = header('🎯 تعیین سطح', { back: true, pill: '<span class="pill gold">رایگان</span>' }) + '<main class="body" id="tb"></main>';
     bindBack('#/');
-    const b = $app.querySelector('#tb'), t = tok; let i = 0, score = 0;
+    const b = $app.querySelector('#tb'), t = tok; let i = 0, score = 0, right = [];
     function show() {
       if (!alive(t)) return;
       if (i >= TEST.length) {
-        const L = LEVELS[score <= 2 ? 0 : score <= 4 ? 1 : score <= 6 ? 2 : score <= 7 ? 3 : score <= 9 ? 4 : 5];
+        const L = LEVELS[placeLevel(right)];
         S.place = L.code; save();
         b.innerHTML = `<section class="card scard"><div class="done-box"><span class="big">🎯</span><p>${fd(score)} از ${fd(TEST.length)} پاسخ درست</p><b>سطح پیشنهادی: <span class="en">${L.code}</span></b><p class="en" style="font-weight:700">${L.en}</p><p>${L.fa}</p>
           <div class="btnrow"><button class="btn btn-coral" data-go>برو به سطح <span class="en">${L.code}</span></button><button class="btn btn-line" data-again>↺ دوباره</button></div><p class="note">این آزمون کوتاه است و فقط یک پیشنهاد می‌دهد.</p></div></section>`;
-        b.querySelector('[data-go]').onclick = () => LESSONS.some(l => l.level === L.code) ? go('#/level/' + L.code) : (toast(`سطح ${L.code} در نسخهٔ نمونه هنوز ساخته نشده؛ فعلاً A1`), go('#/level/A1'));
-        b.querySelector('[data-again]').onclick = () => { i = 0; score = 0; show(); };
+        b.querySelector('[data-go]').onclick = () => LESSONS.some(l => l.level === L.code) ? go('#/level/' + L.code) : (toast(`سطح ${L.code} به‌زودی آماده می‌شود`), go('#/level/A1'));
+        b.querySelector('[data-again]').onclick = () => { i = 0; score = 0; right = []; show(); };
         return;
       }
       const q = TEST[i], ord = q.o.map((_, j) => j).sort(() => Math.random() - .5);
@@ -432,7 +460,7 @@
       b.querySelectorAll('[data-o]').forEach(o => o.onclick = () => {
         if (lock) return; lock = true; const j = +o.dataset.o;
         b.querySelector(`[data-o="${q.a}"]`).classList.add('ok');
-        if (j === q.a) score++; else o.classList.add('bad');
+        if (j === q.a) { score++; right[i] = true; } else o.classList.add('bad');
         next();
       });
       b.querySelector('[data-skip]').onclick = () => { if (lock) return; lock = true; b.querySelector(`[data-o="${q.a}"]`).classList.add('ok'); next(); };
