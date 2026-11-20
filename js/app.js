@@ -196,7 +196,7 @@
       const s = list[i], toks = s.t.map((x, k) => Object.assign({ k, b: bareW(x.w) }, x));
       const order = toks.slice().sort(() => Math.random() - .5); let pos = 0, busy = false, miss = 0;
       pg.innerHTML = progBar(i, N);
-      mx.innerHTML = `<section class="card scard" style="gap:var(--g);justify-content:space-between"><div class="top"><span class="gnum en">#${s.n}</span><span class="voice">کلمه‌ها را به ترتیب بزن</span><button class="bm ${isBm(s.id) ? 'on' : ''}" data-bm>${isBm(s.id) ? '★' : '☆'}</button></div>
+      mx.innerHTML = `<section class="card scard ${toks.length >= 9 ? 'dense' : ''}" style="gap:var(--g);justify-content:space-between"><div class="top"><span class="gnum en">#${s.n}</span><span class="voice">کلمه‌ها را به ترتیب بزن</span><button class="bm ${isBm(s.id) ? 'on' : ''}" data-bm>${isBm(s.id) ? '★' : '☆'}</button></div>
         <div class="goal"><p class="fa">${esc(s.fa)}</p></div><div class="slots" id="slots"></div><div class="tiles" id="tiles">${order.map(x => `<button class="tile" data-k="${x.k}"><b>${esc(x.b)}</b><small>${esc(x.r.replace(/[،.!؟?]/g, ''))}</small></button>`).join('')}</div>
         <div class="reveal" id="rv"></div><span></span></section>
         <div class="ctrls"><button class="btn btn-line" data-help>💡 کمک</button><button class="btn btn-line" data-listen>🔊 جمله</button><button class="btn btn-line" data-skip>رد شو ←</button></div>`;
